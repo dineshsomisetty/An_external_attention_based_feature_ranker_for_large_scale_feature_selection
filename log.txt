@@ -1,0 +1,860 @@
+2025-03-25 07:29:38,604 - sample.py[line:99] - INFO: EPOCH: 0 train: lr: 0.009999444846167473 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:29:38,727 - sample.py[line:110] - INFO: EPOCH:0test: lr :0.009999444846167473  " " acc rate:0.0  split 0.3
+2025-03-25 07:29:39,553 - sample.py[line:99] - INFO: EPOCH: 1 train: lr: 0.009997779521645794 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:29:40,340 - sample.py[line:99] - INFO: EPOCH: 2 train: lr: 0.009995004437328866 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:29:41,166 - sample.py[line:99] - INFO: EPOCH: 3 train: lr: 0.009991120277927222 " " acc rate:0.02727849439627828  dirty rate =  split 0.3
+2025-03-25 07:29:41,955 - sample.py[line:99] - INFO: EPOCH: 4 train: lr: 0.009986128001799079 " " acc rate:0.02727849439627828  dirty rate =  split 0.3
+2025-03-25 07:29:42,729 - sample.py[line:99] - INFO: EPOCH: 5 train: lr: 0.009980028840713862 " " acc rate:0.05053922605201946  dirty rate =  split 0.3
+2025-03-25 07:29:43,535 - sample.py[line:99] - INFO: EPOCH: 6 train: lr: 0.009972824299548311 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:44,308 - sample.py[line:99] - INFO: EPOCH: 7 train: lr: 0.009964516155915152 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:45,097 - sample.py[line:99] - INFO: EPOCH: 8 train: lr: 0.00995510645972451 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:45,885 - sample.py[line:99] - INFO: EPOCH: 9 train: lr: 0.00994459753267812 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:46,682 - sample.py[line:99] - INFO: EPOCH: 10 train: lr: 0.009932991967696484 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:46,786 - sample.py[line:110] - INFO: EPOCH:10test: lr :0.009932991967696484  " " acc rate:0.0  split 0.3
+2025-03-25 07:29:47,511 - sample.py[line:99] - INFO: EPOCH: 11 train: lr: 0.0099202926282791 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:48,266 - sample.py[line:99] - INFO: EPOCH: 12 train: lr: 0.009906502647797948 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:49,054 - sample.py[line:99] - INFO: EPOCH: 13 train: lr: 0.009891625428724366 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:49,864 - sample.py[line:99] - INFO: EPOCH: 14 train: lr: 0.009875664641789544 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:50,689 - sample.py[line:99] - INFO: EPOCH: 15 train: lr: 0.00985862422507884 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:51,475 - sample.py[line:99] - INFO: EPOCH: 16 train: lr: 0.009840508383060092 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:52,277 - sample.py[line:99] - INFO: EPOCH: 17 train: lr: 0.009821321585546244 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:53,073 - sample.py[line:99] - INFO: EPOCH: 18 train: lr: 0.009801068566592488 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:53,867 - sample.py[line:99] - INFO: EPOCH: 19 train: lr: 0.009779754323328192 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:54,649 - sample.py[line:99] - INFO: EPOCH: 20 train: lr: 0.009757384114723953 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:54,753 - sample.py[line:110] - INFO: EPOCH:20test: lr :0.009757384114723953  " " acc rate:0.0  split 0.3
+2025-03-25 07:29:55,524 - sample.py[line:99] - INFO: EPOCH: 21 train: lr: 0.009733963460294016 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:56,334 - sample.py[line:99] - INFO: EPOCH: 22 train: lr: 0.009709498138734406 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:57,111 - sample.py[line:99] - INFO: EPOCH: 23 train: lr: 0.009683994186497132 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:57,902 - sample.py[line:99] - INFO: EPOCH: 24 train: lr: 0.009657457896300792 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:58,704 - sample.py[line:99] - INFO: EPOCH: 25 train: lr: 0.009629895815577917 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:29:59,476 - sample.py[line:99] - INFO: EPOCH: 26 train: lr: 0.009601314744859504 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:00,293 - sample.py[line:99] - INFO: EPOCH: 27 train: lr: 0.009571721736097088 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:01,068 - sample.py[line:99] - INFO: EPOCH: 28 train: lr: 0.00954112409092277 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:01,885 - sample.py[line:99] - INFO: EPOCH: 29 train: lr: 0.009509529358847656 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:02,675 - sample.py[line:99] - INFO: EPOCH: 30 train: lr: 0.009476945335399122 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:02,795 - sample.py[line:110] - INFO: EPOCH:30test: lr :0.009476945335399122  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:03,584 - sample.py[line:99] - INFO: EPOCH: 31 train: lr: 0.009443380060197386 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:04,391 - sample.py[line:99] - INFO: EPOCH: 32 train: lr: 0.009408841814971862 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:05,183 - sample.py[line:99] - INFO: EPOCH: 33 train: lr: 0.009373339121517749 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:05,976 - sample.py[line:99] - INFO: EPOCH: 34 train: lr: 0.009336880739593417 " " acc rate:0.0057094523155001055  dirty rate =  split 0.3
+2025-03-25 07:30:06,797 - sample.py[line:99] - INFO: EPOCH: 35 train: lr: 0.009299475664759069 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:07,560 - sample.py[line:99] - INFO: EPOCH: 36 train: lr: 0.009261133126157218 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:08,336 - sample.py[line:99] - INFO: EPOCH: 37 train: lr: 0.009221862584235529 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:09,093 - sample.py[line:99] - INFO: EPOCH: 38 train: lr: 0.009181673728412606 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:09,876 - sample.py[line:99] - INFO: EPOCH: 39 train: lr: 0.009140576474687266 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:10,643 - sample.py[line:99] - INFO: EPOCH: 40 train: lr: 0.00909858096319191 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:10,746 - sample.py[line:110] - INFO: EPOCH:40test: lr :0.00909858096319191  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:11,494 - sample.py[line:99] - INFO: EPOCH: 41 train: lr: 0.00905569755569061 " " acc rate:0.00592091351237048  dirty rate =  split 0.3
+2025-03-25 07:30:12,292 - sample.py[line:99] - INFO: EPOCH: 42 train: lr: 0.009011936833022486 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:13,053 - sample.py[line:99] - INFO: EPOCH: 43 train: lr: 0.008967309592491052 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:13,811 - sample.py[line:99] - INFO: EPOCH: 44 train: lr: 0.00892182684520014 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:14,604 - sample.py[line:99] - INFO: EPOCH: 45 train: lr: 0.00887549981333707 " " acc rate:0.0038063015436667373  dirty rate =  split 0.3
+2025-03-25 07:30:15,338 - sample.py[line:99] - INFO: EPOCH: 46 train: lr: 0.008828339927403745 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:30:16,087 - sample.py[line:99] - INFO: EPOCH: 47 train: lr: 0.008780358823396353 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:16,831 - sample.py[line:99] - INFO: EPOCH: 48 train: lr: 0.008731568339934352 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:17,595 - sample.py[line:99] - INFO: EPOCH: 49 train: lr: 0.008681980515339464 " " acc rate:0.013533516599703954  dirty rate =  split 0.3
+2025-03-25 07:30:18,340 - sample.py[line:99] - INFO: EPOCH: 50 train: lr: 0.008631607584665415 " " acc rate:0.0076126030873334746  dirty rate =  split 0.3
+2025-03-25 07:30:18,445 - sample.py[line:110] - INFO: EPOCH:50test: lr :0.008631607584665415  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:19,243 - sample.py[line:99] - INFO: EPOCH: 51 train: lr: 0.0085804619766791 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:20,041 - sample.py[line:99] - INFO: EPOCH: 52 train: lr: 0.00852855631079398 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:20,783 - sample.py[line:99] - INFO: EPOCH: 53 train: lr: 0.008475903393956433 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:21,535 - sample.py[line:99] - INFO: EPOCH: 54 train: lr: 0.008422516217485828 " " acc rate:0.003594840346796363  dirty rate =  split 0.3
+2025-03-25 07:30:22,302 - sample.py[line:99] - INFO: EPOCH: 55 train: lr: 0.008368407953869105 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:30:23,069 - sample.py[line:99] - INFO: EPOCH: 56 train: lr: 0.008313591953510675 " " acc rate:0.009092831465426094  dirty rate =  split 0.3
+2025-03-25 07:30:23,827 - sample.py[line:99] - INFO: EPOCH: 57 train: lr: 0.008258081741438396 " " acc rate:0.00042292239374074856  dirty rate =  split 0.3
+2025-03-25 07:30:24,595 - sample.py[line:99] - INFO: EPOCH: 58 train: lr: 0.00820189101396648 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:25,416 - sample.py[line:99] - INFO: EPOCH: 59 train: lr: 0.00814503363531613 " " acc rate:0.0057094523155001055  dirty rate =  split 0.3
+2025-03-25 07:30:26,355 - sample.py[line:99] - INFO: EPOCH: 60 train: lr: 0.008087523634194755 " " acc rate:0.023260731655741173  dirty rate =  split 0.3
+2025-03-25 07:30:26,458 - sample.py[line:110] - INFO: EPOCH:60test: lr :0.008087523634194755  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:27,336 - sample.py[line:99] - INFO: EPOCH: 61 train: lr: 0.00802937520033459 " " acc rate:0.006555297102981603  dirty rate =  split 0.3
+2025-03-25 07:30:28,343 - sample.py[line:99] - INFO: EPOCH: 62 train: lr: 0.007970602680991593 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:29,255 - sample.py[line:99] - INFO: EPOCH: 63 train: lr: 0.007911220577405485 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:30,408 - sample.py[line:99] - INFO: EPOCH: 64 train: lr: 0.00785124354122177 " " acc rate:0.00444068513427786  dirty rate =  split 0.3
+2025-03-25 07:30:31,507 - sample.py[line:99] - INFO: EPOCH: 65 train: lr: 0.007790686370876672 " " acc rate:0.004652146331148234  dirty rate =  split 0.3
+2025-03-25 07:30:32,486 - sample.py[line:99] - INFO: EPOCH: 66 train: lr: 0.007729564007945835 " " acc rate:0.004652146331148234  dirty rate =  split 0.3
+2025-03-25 07:30:33,577 - sample.py[line:99] - INFO: EPOCH: 67 train: lr: 0.0076678915334577194 " " acc rate:0.01585958976527807  dirty rate =  split 0.3
+2025-03-25 07:30:34,408 - sample.py[line:99] - INFO: EPOCH: 68 train: lr: 0.0076056841641725815 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:35,144 - sample.py[line:99] - INFO: EPOCH: 69 train: lr: 0.007542957248827961 " " acc rate:0.00592091351237048  dirty rate =  split 0.3
+2025-03-25 07:30:35,892 - sample.py[line:99] - INFO: EPOCH: 70 train: lr: 0.007479726264351618 " " acc rate:0.002326073165574117  dirty rate =  split 0.3
+2025-03-25 07:30:35,995 - sample.py[line:110] - INFO: EPOCH:70test: lr :0.007479726264351618  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:36,773 - sample.py[line:99] - INFO: EPOCH: 71 train: lr: 0.007416006812042828 " " acc rate:0.05878621272996405  dirty rate =  split 0.3
+2025-03-25 07:30:37,525 - sample.py[line:99] - INFO: EPOCH: 72 train: lr: 0.007351814613722991 " " acc rate:0.013110594205963206  dirty rate =  split 0.3
+2025-03-25 07:30:38,435 - sample.py[line:99] - INFO: EPOCH: 73 train: lr: 0.007287165507856513 " " acc rate:0.005497991118629732  dirty rate =  split 0.3
+2025-03-25 07:30:39,464 - sample.py[line:99] - INFO: EPOCH: 74 train: lr: 0.007222075445642905 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:40,600 - sample.py[line:99] - INFO: EPOCH: 75 train: lr: 0.007156560487081053 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:41,556 - sample.py[line:99] - INFO: EPOCH: 76 train: lr: 0.007090636797006658 " " acc rate:0.01184182702474096  dirty rate =  split 0.3
+2025-03-25 07:30:42,370 - sample.py[line:99] - INFO: EPOCH: 77 train: lr: 0.007024320641103813 " " acc rate:0.0010573059843518714  dirty rate =  split 0.3
+2025-03-25 07:30:43,129 - sample.py[line:99] - INFO: EPOCH: 78 train: lr: 0.006957628381891673 " " acc rate:0.005286529921759357  dirty rate =  split 0.3
+2025-03-25 07:30:43,904 - sample.py[line:99] - INFO: EPOCH: 79 train: lr: 0.006890576474687264 " " acc rate:0.06216959187989004  dirty rate =  split 0.3
+2025-03-25 07:30:44,720 - sample.py[line:99] - INFO: EPOCH: 80 train: lr: 0.006823181463545369 " " acc rate:0.0148022837809262  dirty rate =  split 0.3
+2025-03-25 07:30:44,826 - sample.py[line:110] - INFO: EPOCH:80test: lr :0.006823181463545369  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:45,605 - sample.py[line:99] - INFO: EPOCH: 81 train: lr: 0.0067554599771765325 " " acc rate:0.0012687671812222456  dirty rate =  split 0.3
+2025-03-25 07:30:46,386 - sample.py[line:99] - INFO: EPOCH: 82 train: lr: 0.006687428724844178 " " acc rate:0.0033833791499259885  dirty rate =  split 0.3
+2025-03-25 07:30:47,193 - sample.py[line:99] - INFO: EPOCH: 83 train: lr: 0.006619104492241847 " " acc rate:0.002326073165574117  dirty rate =  split 0.3
+2025-03-25 07:30:47,996 - sample.py[line:99] - INFO: EPOCH: 84 train: lr: 0.006550504137351576 " " acc rate:0.0025375343624444912  dirty rate =  split 0.3
+2025-03-25 07:30:48,829 - sample.py[line:99] - INFO: EPOCH: 85 train: lr: 0.006481644586284443 " " acc rate:0.08500740114189047  dirty rate =  split 0.3
+2025-03-25 07:30:49,654 - sample.py[line:99] - INFO: EPOCH: 86 train: lr: 0.006412542829104307 " " acc rate:0.03764009304292662  dirty rate =  split 0.3
+2025-03-25 07:30:50,447 - sample.py[line:99] - INFO: EPOCH: 87 train: lr: 0.006343215915635763 " " acc rate:0.01036159864664834  dirty rate =  split 0.3
+2025-03-25 07:30:51,238 - sample.py[line:99] - INFO: EPOCH: 88 train: lr: 0.006273680951257343 " " acc rate:0.004229223937407486  dirty rate =  split 0.3
+2025-03-25 07:30:52,072 - sample.py[line:99] - INFO: EPOCH: 89 train: lr: 0.00620395509268104 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:30:52,904 - sample.py[line:99] - INFO: EPOCH: 90 train: lr: 0.006134055543719124 " " acc rate:0.012476210615352083  dirty rate =  split 0.3
+2025-03-25 07:30:53,023 - sample.py[line:110] - INFO: EPOCH:90test: lr :0.006134055543719124  " " acc rate:0.0  split 0.3
+2025-03-25 07:30:53,841 - sample.py[line:99] - INFO: EPOCH: 91 train: lr: 0.006063999551039371 " " acc rate:0.02748995559314866  dirty rate =  split 0.3
+2025-03-25 07:30:54,794 - sample.py[line:99] - INFO: EPOCH: 92 train: lr: 0.0059938043999097045 " " acc rate:0.029181645168111652  dirty rate =  split 0.3
+2025-03-25 07:30:55,593 - sample.py[line:99] - INFO: EPOCH: 93 train: lr: 0.0059234874099333154 " " acc rate:0.035102558680482135  dirty rate =  split 0.3
+2025-03-25 07:30:56,376 - sample.py[line:99] - INFO: EPOCH: 94 train: lr: 0.005853065930775303 " " acc rate:0.0010573059843518714  dirty rate =  split 0.3
+2025-03-25 07:30:57,157 - sample.py[line:99] - INFO: EPOCH: 95 train: lr: 0.0057825573378819115 " " acc rate:0.004652146331148234  dirty rate =  split 0.3
+2025-03-25 07:30:58,001 - sample.py[line:99] - INFO: EPOCH: 96 train: lr: 0.005711979028193392 " " acc rate:0.10171283569465003  dirty rate =  split 0.3
+2025-03-25 07:30:59,601 - sample.py[line:99] - INFO: EPOCH: 97 train: lr: 0.005641348415851578 " " acc rate:0.052442376823852825  dirty rate =  split 0.3
+2025-03-25 07:31:05,222 - sample.py[line:99] - INFO: EPOCH: 98 train: lr: 0.005570682927903194 " " acc rate:0.023049270458870796  dirty rate =  split 0.3
+2025-03-25 07:31:06,944 - sample.py[line:99] - INFO: EPOCH: 99 train: lr: 0.0055000000000000005 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:31:10,593 - sample.py[line:99] - INFO: EPOCH: 100 train: lr: 0.005429317072096808 " " acc rate:0.04017762740537111  dirty rate =  split 0.3
+2025-03-25 07:31:10,901 - sample.py[line:110] - INFO: EPOCH:100test: lr :0.005429317072096808  " " acc rate:0.0  split 0.3
+2025-03-25 07:31:14,954 - sample.py[line:99] - INFO: EPOCH: 101 train: lr: 0.005358651584148423 " " acc rate:0.019031507718333687  dirty rate =  split 0.3
+2025-03-25 07:31:18,384 - sample.py[line:99] - INFO: EPOCH: 102 train: lr: 0.005288020971806609 " " acc rate:0.016916895749629943  dirty rate =  split 0.3
+2025-03-25 07:31:20,165 - sample.py[line:99] - INFO: EPOCH: 103 train: lr: 0.0052174426621180905 " " acc rate:0.019877352505815182  dirty rate =  split 0.3
+2025-03-25 07:31:22,010 - sample.py[line:99] - INFO: EPOCH: 104 train: lr: 0.005146934069224699 " " acc rate:0.011630365827870586  dirty rate =  split 0.3
+2025-03-25 07:31:23,825 - sample.py[line:99] - INFO: EPOCH: 105 train: lr: 0.005076512590066686 " " acc rate:0.011207443434129837  dirty rate =  split 0.3
+2025-03-25 07:31:25,861 - sample.py[line:99] - INFO: EPOCH: 106 train: lr: 0.005006195600090297 " " acc rate:0.054134066398815815  dirty rate =  split 0.3
+2025-03-25 07:31:28,831 - sample.py[line:99] - INFO: EPOCH: 107 train: lr: 0.004936000448960632 " " acc rate:0.02072319729329668  dirty rate =  split 0.3
+2025-03-25 07:31:30,788 - sample.py[line:99] - INFO: EPOCH: 108 train: lr: 0.00486594445628088 " " acc rate:0.024529498836963416  dirty rate =  split 0.3
+2025-03-25 07:31:33,266 - sample.py[line:99] - INFO: EPOCH: 109 train: lr: 0.004796044907318962 " " acc rate:0.006766758299851977  dirty rate =  split 0.3
+2025-03-25 07:31:34,309 - sample.py[line:99] - INFO: EPOCH: 110 train: lr: 0.004726319048742657 " " acc rate:0.0010573059843518714  dirty rate =  split 0.3
+2025-03-25 07:31:34,436 - sample.py[line:110] - INFO: EPOCH:110test: lr :0.004726319048742657  " " acc rate:0.0  split 0.3
+2025-03-25 07:31:35,244 - sample.py[line:99] - INFO: EPOCH: 111 train: lr: 0.00465678408436424 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:31:36,025 - sample.py[line:99] - INFO: EPOCH: 112 train: lr: 0.004587457170895695 " " acc rate:0.021569042080778176  dirty rate =  split 0.3
+2025-03-25 07:31:36,821 - sample.py[line:99] - INFO: EPOCH: 113 train: lr: 0.00451835541371556 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:31:37,615 - sample.py[line:99] - INFO: EPOCH: 114 train: lr: 0.004449495862648426 " " acc rate:0.08817931909494607  dirty rate =  split 0.3
+2025-03-25 07:31:38,404 - sample.py[line:99] - INFO: EPOCH: 115 train: lr: 0.004380895507758154 " " acc rate:0.041023472192852614  dirty rate =  split 0.3
+2025-03-25 07:31:40,494 - sample.py[line:99] - INFO: EPOCH: 116 train: lr: 0.004312571275155823 " " acc rate:0.09325438781983506  dirty rate =  split 0.3
+2025-03-25 07:31:47,181 - sample.py[line:99] - INFO: EPOCH: 117 train: lr: 0.004244540022823469 " " acc rate:0.059843518714315924  dirty rate =  split 0.3
+2025-03-25 07:31:50,243 - sample.py[line:99] - INFO: EPOCH: 118 train: lr: 0.004176818536454633 " " acc rate:0.03869739902727849  dirty rate =  split 0.3
+2025-03-25 07:31:51,866 - sample.py[line:99] - INFO: EPOCH: 119 train: lr: 0.004109423525312739 " " acc rate:0.03129625713681539  dirty rate =  split 0.3
+2025-03-25 07:31:53,262 - sample.py[line:99] - INFO: EPOCH: 120 train: lr: 0.004042371618108328 " " acc rate:0.02072319729329668  dirty rate =  split 0.3
+2025-03-25 07:31:53,469 - sample.py[line:110] - INFO: EPOCH:120test: lr :0.004042371618108328  " " acc rate:0.0  split 0.3
+2025-03-25 07:31:54,893 - sample.py[line:99] - INFO: EPOCH: 121 train: lr: 0.003975679358896189 " " acc rate:0.018397124127722563  dirty rate =  split 0.3
+2025-03-25 07:31:56,307 - sample.py[line:99] - INFO: EPOCH: 122 train: lr: 0.003909363202993343 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:31:57,756 - sample.py[line:99] - INFO: EPOCH: 123 train: lr: 0.0038434395129189505 " " acc rate:0.07950941002326073  dirty rate =  split 0.3
+2025-03-25 07:31:59,553 - sample.py[line:99] - INFO: EPOCH: 124 train: lr: 0.0037779245543570978 " " acc rate:0.08543032353563121  dirty rate =  split 0.3
+2025-03-25 07:32:01,507 - sample.py[line:99] - INFO: EPOCH: 125 train: lr: 0.003712834492143487 " " acc rate:0.05815182913935293  dirty rate =  split 0.3
+2025-03-25 07:32:03,147 - sample.py[line:99] - INFO: EPOCH: 126 train: lr: 0.0036481853862770108 " " acc rate:0.09029393106364982  dirty rate =  split 0.3
+2025-03-25 07:32:04,875 - sample.py[line:99] - INFO: EPOCH: 127 train: lr: 0.0035839931879571734 " " acc rate:0.09684922816663143  dirty rate =  split 0.3
+2025-03-25 07:32:06,422 - sample.py[line:99] - INFO: EPOCH: 128 train: lr: 0.003520273735648382 " " acc rate:0.09684922816663143  dirty rate =  split 0.3
+2025-03-25 07:32:08,010 - sample.py[line:99] - INFO: EPOCH: 129 train: lr: 0.00345704275117204 " " acc rate:0.10319306407274265  dirty rate =  split 0.3
+2025-03-25 07:32:09,714 - sample.py[line:99] - INFO: EPOCH: 130 train: lr: 0.003394315835827421 " " acc rate:0.10107845210403892  dirty rate =  split 0.3
+2025-03-25 07:32:09,917 - sample.py[line:110] - INFO: EPOCH:130test: lr :0.003394315835827421  " " acc rate:0.0  split 0.3
+2025-03-25 07:32:11,384 - sample.py[line:99] - INFO: EPOCH: 131 train: lr: 0.003332108466542281 " " acc rate:0.1776274053711144  dirty rate =  split 0.3
+2025-03-25 07:32:12,968 - sample.py[line:99] - INFO: EPOCH: 132 train: lr: 0.003270435992054166 " " acc rate:0.1801649397335589  dirty rate =  split 0.3
+2025-03-25 07:32:14,403 - sample.py[line:99] - INFO: EPOCH: 133 train: lr: 0.0032093136291233295 " " acc rate:0.1209558046098541  dirty rate =  split 0.3
+2025-03-25 07:32:16,064 - sample.py[line:99] - INFO: EPOCH: 134 train: lr: 0.0031487564587782306 " " acc rate:0.0691478113766124  dirty rate =  split 0.3
+2025-03-25 07:32:17,534 - sample.py[line:99] - INFO: EPOCH: 135 train: lr: 0.0030887794225945143 " " acc rate:0.06639881581729752  dirty rate =  split 0.3
+2025-03-25 07:32:19,112 - sample.py[line:99] - INFO: EPOCH: 136 train: lr: 0.0030293973190084066 " " acc rate:0.16092197081835483  dirty rate =  split 0.3
+2025-03-25 07:32:20,673 - sample.py[line:99] - INFO: EPOCH: 137 train: lr: 0.0029706247996654123 " " acc rate:0.19200676675829986  dirty rate =  split 0.3
+2025-03-25 07:32:22,147 - sample.py[line:99] - INFO: EPOCH: 138 train: lr: 0.002912476365805247 " " acc rate:0.21674772679213364  dirty rate =  split 0.3
+2025-03-25 07:32:23,824 - sample.py[line:99] - INFO: EPOCH: 139 train: lr: 0.0028549663646838717 " " acc rate:0.22985832099809686  dirty rate =  split 0.3
+2025-03-25 07:32:25,403 - sample.py[line:99] - INFO: EPOCH: 140 train: lr: 0.0027981089860335227 " " acc rate:0.24148868682596744  dirty rate =  split 0.3
+2025-03-25 07:32:25,608 - sample.py[line:110] - INFO: EPOCH:140test: lr :0.0027981089860335227  " " acc rate:0.0  split 0.3
+2025-03-25 07:32:27,273 - sample.py[line:99] - INFO: EPOCH: 141 train: lr: 0.0027419182585616056 " " acc rate:0.21886233876083738  dirty rate =  split 0.3
+2025-03-25 07:32:28,853 - sample.py[line:99] - INFO: EPOCH: 142 train: lr: 0.0026864080464893266 " " acc rate:0.12159018820046522  dirty rate =  split 0.3
+2025-03-25 07:32:30,484 - sample.py[line:99] - INFO: EPOCH: 143 train: lr: 0.0026315920461308963 " " acc rate:0.06449566504546415  dirty rate =  split 0.3
+2025-03-25 07:32:31,988 - sample.py[line:99] - INFO: EPOCH: 144 train: lr: 0.0025774837825141743 " " acc rate:0.07845210403890886  dirty rate =  split 0.3
+2025-03-25 07:32:33,543 - sample.py[line:99] - INFO: EPOCH: 145 train: lr: 0.0025240966060435677 " " acc rate:0.07105096214844576  dirty rate =  split 0.3
+2025-03-25 07:32:35,206 - sample.py[line:99] - INFO: EPOCH: 146 train: lr: 0.0024714436892060198 " " acc rate:0.0953689997885388  dirty rate =  split 0.3
+2025-03-25 07:32:36,836 - sample.py[line:99] - INFO: EPOCH: 147 train: lr: 0.002419538023320901 " " acc rate:0.12032142101924297  dirty rate =  split 0.3
+2025-03-25 07:32:38,416 - sample.py[line:99] - INFO: EPOCH: 148 train: lr: 0.0023683924153345857 " " acc rate:0.19200676675829986  dirty rate =  split 0.3
+2025-03-25 07:32:39,918 - sample.py[line:99] - INFO: EPOCH: 149 train: lr: 0.0023180194846605367 " " acc rate:0.2154789596109114  dirty rate =  split 0.3
+2025-03-25 07:32:41,534 - sample.py[line:99] - INFO: EPOCH: 150 train: lr: 0.002268431660065651 " " acc rate:0.21822795517022625  dirty rate =  split 0.3
+2025-03-25 07:32:41,739 - sample.py[line:110] - INFO: EPOCH:150test: lr :0.002268431660065651  " " acc rate:0.017769002961500493  split 0.3
+2025-03-25 07:32:43,228 - sample.py[line:99] - INFO: EPOCH: 151 train: lr: 0.002219641176603649 " " acc rate:0.19792768027067034  dirty rate =  split 0.3
+2025-03-25 07:32:44,787 - sample.py[line:99] - INFO: EPOCH: 152 train: lr: 0.002171660072596257 " " acc rate:0.17466694861492915  dirty rate =  split 0.3
+2025-03-25 07:32:46,189 - sample.py[line:99] - INFO: EPOCH: 153 train: lr: 0.0021245001866629326 " " acc rate:0.14252484669063226  dirty rate =  split 0.3
+2025-03-25 07:32:47,822 - sample.py[line:99] - INFO: EPOCH: 154 train: lr: 0.002078173154799861 " " acc rate:0.1865087756396701  dirty rate =  split 0.3
+2025-03-25 07:32:49,441 - sample.py[line:99] - INFO: EPOCH: 155 train: lr: 0.002032690407508949 " " acc rate:0.2057517445548742  dirty rate =  split 0.3
+2025-03-25 07:32:51,127 - sample.py[line:99] - INFO: EPOCH: 156 train: lr: 0.001988063166977517 " " acc rate:0.23239585536054133  dirty rate =  split 0.3
+2025-03-25 07:32:52,643 - sample.py[line:99] - INFO: EPOCH: 157 train: lr: 0.0019443024443093933 " " acc rate:0.2524846690632269  dirty rate =  split 0.3
+2025-03-25 07:32:54,169 - sample.py[line:99] - INFO: EPOCH: 158 train: lr: 0.0019014190368080931 " " acc rate:0.27003594840346795  dirty rate =  split 0.3
+2025-03-25 07:32:55,757 - sample.py[line:99] - INFO: EPOCH: 159 train: lr: 0.0018594235253127371 " " acc rate:0.285895538168746  dirty rate =  split 0.3
+2025-03-25 07:32:57,205 - sample.py[line:99] - INFO: EPOCH: 160 train: lr: 0.0018183262715873953 " " acc rate:0.2861069993656164  dirty rate =  split 0.3
+2025-03-25 07:32:57,398 - sample.py[line:110] - INFO: EPOCH:160test: lr :0.0018183262715873953  " " acc rate:0.0  split 0.3
+2025-03-25 07:32:58,831 - sample.py[line:99] - INFO: EPOCH: 161 train: lr: 0.001778137415764473 " " acc rate:0.2901247621061535  dirty rate =  split 0.3
+2025-03-25 07:33:00,262 - sample.py[line:99] - INFO: EPOCH: 162 train: lr: 0.001738866873842785 " " acc rate:0.28674138295622753  dirty rate =  split 0.3
+2025-03-25 07:33:01,723 - sample.py[line:99] - INFO: EPOCH: 163 train: lr: 0.0017005243352409332 " " acc rate:0.2839923873969127  dirty rate =  split 0.3
+2025-03-25 07:33:03,060 - sample.py[line:99] - INFO: EPOCH: 164 train: lr: 0.0016631192604065863 " " acc rate:0.2839923873969127  dirty rate =  split 0.3
+2025-03-25 07:33:04,558 - sample.py[line:99] - INFO: EPOCH: 165 train: lr: 0.0016266608784822533 " " acc rate:0.28652992175935715  dirty rate =  split 0.3
+2025-03-25 07:33:06,070 - sample.py[line:99] - INFO: EPOCH: 166 train: lr: 0.0015911581850281391 " " acc rate:0.28251215901882004  dirty rate =  split 0.3
+2025-03-25 07:33:07,501 - sample.py[line:99] - INFO: EPOCH: 167 train: lr: 0.001556619939802614 " " acc rate:0.2778600126876718  dirty rate =  split 0.3
+2025-03-25 07:33:09,015 - sample.py[line:99] - INFO: EPOCH: 168 train: lr: 0.0015230546646008794 " " acc rate:0.2778600126876718  dirty rate =  split 0.3
+2025-03-25 07:33:10,462 - sample.py[line:99] - INFO: EPOCH: 169 train: lr: 0.001490470641152345 " " acc rate:0.2890674561218016  dirty rate =  split 0.3
+2025-03-25 07:33:11,918 - sample.py[line:99] - INFO: EPOCH: 170 train: lr: 0.0014588759090772303 " " acc rate:0.3004863607528019  dirty rate =  split 0.3
+2025-03-25 07:33:12,116 - sample.py[line:110] - INFO: EPOCH:170test: lr :0.0014588759090772303  " " acc rate:0.020236920039486673  split 0.3
+2025-03-25 07:33:13,578 - sample.py[line:99] - INFO: EPOCH: 171 train: lr: 0.001428278263902913 " " acc rate:0.3057728906745612  dirty rate =  split 0.3
+2025-03-25 07:33:15,016 - sample.py[line:99] - INFO: EPOCH: 172 train: lr: 0.0013986852551404973 " " acc rate:0.3125396489744132  dirty rate =  split 0.3
+2025-03-25 07:33:16,570 - sample.py[line:99] - INFO: EPOCH: 173 train: lr: 0.001370104184422086 " " acc rate:0.2863184605624868  dirty rate =  split 0.3
+2025-03-25 07:33:18,008 - sample.py[line:99] - INFO: EPOCH: 174 train: lr: 0.0013425421036992106 " " acc rate:0.28737576654683866  dirty rate =  split 0.3
+2025-03-25 07:33:19,776 - sample.py[line:99] - INFO: EPOCH: 175 train: lr: 0.001316005813502869 " " acc rate:0.3017551279340241  dirty rate =  split 0.3
+2025-03-25 07:33:21,456 - sample.py[line:99] - INFO: EPOCH: 176 train: lr: 0.001290501861265597 " " acc rate:0.3133854937618947  dirty rate =  split 0.3
+2025-03-25 07:33:22,751 - sample.py[line:99] - INFO: EPOCH: 177 train: lr: 0.0012660365397059855 " " acc rate:0.31444279974624656  dirty rate =  split 0.3
+2025-03-25 07:33:23,612 - sample.py[line:99] - INFO: EPOCH: 178 train: lr: 0.0012426158852760461 " " acc rate:0.3188834848805244  dirty rate =  split 0.3
+2025-03-25 07:33:24,414 - sample.py[line:99] - INFO: EPOCH: 179 train: lr: 0.001220245676671809 " " acc rate:0.3216324804398393  dirty rate =  split 0.3
+2025-03-25 07:33:25,197 - sample.py[line:99] - INFO: EPOCH: 180 train: lr: 0.0011989314334075146 " " acc rate:0.3180376400930429  dirty rate =  split 0.3
+2025-03-25 07:33:25,299 - sample.py[line:110] - INFO: EPOCH:180test: lr :0.0011989314334075146  " " acc rate:0.008884501480750246  split 0.3
+2025-03-25 07:33:26,121 - sample.py[line:99] - INFO: EPOCH: 181 train: lr: 0.0011786784144537567 " " acc rate:0.31846056248678367  dirty rate =  split 0.3
+2025-03-25 07:33:26,918 - sample.py[line:99] - INFO: EPOCH: 182 train: lr: 0.0011594916169399092 " " acc rate:0.3157115669274688  dirty rate =  split 0.3
+2025-03-25 07:33:27,703 - sample.py[line:99] - INFO: EPOCH: 183 train: lr: 0.0011413757749211607 " " acc rate:0.31528864453372807  dirty rate =  split 0.3
+2025-03-25 07:33:28,522 - sample.py[line:99] - INFO: EPOCH: 184 train: lr: 0.0011243353582104556 " " acc rate:0.3159230281243392  dirty rate =  split 0.3
+2025-03-25 07:33:29,262 - sample.py[line:99] - INFO: EPOCH: 185 train: lr: 0.0011083745712756371 " " acc rate:0.31528864453372807  dirty rate =  split 0.3
+2025-03-25 07:33:30,126 - sample.py[line:99] - INFO: EPOCH: 186 train: lr: 0.0010934973522020537 " " acc rate:0.3150771833368577  dirty rate =  split 0.3
+2025-03-25 07:33:31,175 - sample.py[line:99] - INFO: EPOCH: 187 train: lr: 0.0010797073717209009 " " acc rate:0.3188834848805244  dirty rate =  split 0.3
+2025-03-25 07:33:31,944 - sample.py[line:99] - INFO: EPOCH: 188 train: lr: 0.0010670080323035176 " " acc rate:0.3264960879678579  dirty rate =  split 0.3
+2025-03-25 07:33:32,693 - sample.py[line:99] - INFO: EPOCH: 189 train: lr: 0.0010554024673218806 " " acc rate:0.33347430746458023  dirty rate =  split 0.3
+2025-03-25 07:33:33,417 - sample.py[line:99] - INFO: EPOCH: 190 train: lr: 0.001044893540275491 " " acc rate:0.33918375978008036  dirty rate =  split 0.3
+2025-03-25 07:33:33,524 - sample.py[line:110] - INFO: EPOCH:190test: lr :0.001044893540275491  " " acc rate:0.0014807502467917078  split 0.3
+2025-03-25 07:33:34,436 - sample.py[line:99] - INFO: EPOCH: 191 train: lr: 0.00103548384408485 " " acc rate:0.3451046732924508  dirty rate =  split 0.3
+2025-03-25 07:33:35,246 - sample.py[line:99] - INFO: EPOCH: 192 train: lr: 0.0010271757004516918 " " acc rate:0.3482765912455065  dirty rate =  split 0.3
+2025-03-25 07:33:36,153 - sample.py[line:99] - INFO: EPOCH: 193 train: lr: 0.00101997115928614 " " acc rate:0.35314019877352504  dirty rate =  split 0.3
+2025-03-25 07:33:37,167 - sample.py[line:99] - INFO: EPOCH: 194 train: lr: 0.0010138719982009242 " " acc rate:0.3594840346796363  dirty rate =  split 0.3
+2025-03-25 07:33:38,300 - sample.py[line:99] - INFO: EPOCH: 195 train: lr: 0.001008879722072778 " " acc rate:0.3624444914358215  dirty rate =  split 0.3
+2025-03-25 07:33:39,425 - sample.py[line:99] - INFO: EPOCH: 196 train: lr: 0.0010049955626711354 " " acc rate:0.36942271093254386  dirty rate =  split 0.3
+2025-03-25 07:33:40,297 - sample.py[line:99] - INFO: EPOCH: 197 train: lr: 0.0010022204783542079 " " acc rate:0.3740748572636921  dirty rate =  split 0.3
+2025-03-25 07:33:41,057 - sample.py[line:99] - INFO: EPOCH: 198 train: lr: 0.0010005551538325274 " " acc rate:0.3772467752167477  dirty rate =  split 0.3
+2025-03-25 07:33:41,835 - sample.py[line:99] - INFO: EPOCH: 199 train: lr: 0.010000000000000002 " " acc rate:0.38105307676041444  dirty rate =  split 0.3
+2025-03-25 07:33:43,937 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 3])  Score: 0.19042920572274297
+2025-03-25 07:33:44,057 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 7])  Score: 0.47952639368524913
+2025-03-25 07:33:44,244 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 11])  Score: 0.6245683275777011
+2025-03-25 07:33:44,566 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 15])  Score: 0.6817957572767637
+2025-03-25 07:33:45,128 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 19])  Score: 0.7414898865318205
+2025-03-25 07:33:45,277 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 23])  Score: 0.758756783423779
+2025-03-25 07:33:45,418 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 27])  Score: 0.7927972372964973
+2025-03-25 07:33:45,517 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 31])  Score: 0.8001973359644795
+2025-03-25 07:33:45,648 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 35])  Score: 0.8066107548100642
+2025-03-25 07:33:45,754 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 39])  Score: 0.8174642328564381
+2025-03-25 07:33:45,835 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 43])  Score: 0.8154908732116428
+2025-03-25 07:33:45,951 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 47])  Score: 0.8159842131228416
+2025-03-25 07:33:46,038 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 50])  Score: 0.809570794277257
+2025-03-25 07:33:46,126 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 54])  Score: 0.8135175135668475
+2025-03-25 07:33:46,251 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 58])  Score: 0.814997533300444
+2025-03-25 07:33:46,335 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 62])  Score: 0.8154908732116428
+2025-03-25 07:33:46,468 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 66])  Score: 0.8199309324124322
+2025-03-25 07:33:46,590 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 70])  Score: 0.8209176122348298
+2025-03-25 07:33:46,683 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 74])  Score: 0.8159842131228416
+2025-03-25 07:33:46,813 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 78])  Score: 0.8169708929452393
+2025-03-25 07:33:46,966 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 82])  Score: 0.8135175135668475
+2025-03-25 07:33:47,099 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 86])  Score: 0.8135175135668475
+2025-03-25 07:33:47,223 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 90])  Score: 0.809570794277257
+2025-03-25 07:33:47,326 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 94])  Score: 0.801677355698076
+2025-03-25 07:33:47,422 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 98])  Score: 0.8031573754316724
+2025-03-25 07:33:47,557 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 101])  Score: 0.7982239763196842
+2025-03-25 07:33:47,657 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 105])  Score: 0.7992106561420819
+2025-03-25 07:33:47,758 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 109])  Score: 0.7947705969412926
+2025-03-25 07:33:47,887 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 113])  Score: 0.7927972372964973
+2025-03-25 07:33:47,998 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 117])  Score: 0.7913172175629009
+2025-03-25 07:33:48,133 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 121])  Score: 0.7883571780957079
+2025-03-25 07:33:48,241 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 125])  Score: 0.7829304390725209
+2025-03-25 07:33:48,359 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 129])  Score: 0.7844104588061174
+2025-03-25 07:33:48,469 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 133])  Score: 0.7814504193389246
+2025-03-25 07:33:48,588 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 137])  Score: 0.7809570794277257
+2025-03-25 07:33:48,704 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 141])  Score: 0.7809570794277257
+2025-03-25 07:33:48,833 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 145])  Score: 0.7799703996053281
+2025-03-25 07:33:48,965 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 148])  Score: 0.7770103601381352
+2025-03-25 07:33:49,103 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 152])  Score: 0.7710902812037493
+2025-03-25 07:33:49,240 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 156])  Score: 0.7715836211149482
+2025-03-25 07:33:49,342 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 160])  Score: 0.7681302417365565
+2025-03-25 07:33:49,450 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 164])  Score: 0.7646768623581648
+2025-03-25 07:33:49,558 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 168])  Score: 0.7671435619141589
+2025-03-25 07:33:49,666 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 172])  Score: 0.7602368031573754
+2025-03-25 07:33:49,776 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 176])  Score: 0.7553034040453873
+2025-03-25 07:33:49,903 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 180])  Score: 0.7548100641341885
+2025-03-25 07:33:50,094 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 184])  Score: 0.7543167242229897
+2025-03-25 07:33:50,245 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 188])  Score: 0.7557967439565861
+2025-03-25 07:33:50,403 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 192])  Score: 0.7572767636901825
+2025-03-25 07:33:50,554 - sample.py[line:148] - INFO: Feature_shape: torch.Size([6755, 196])  Score: 0.7582634435125801
+2025-03-25 07:37:04,678 - sample.py[line:100] - INFO: EPOCH: 0 train: lr: 0.009999444846167473 " " acc rate:0.008035525481074222  dirty rate =  split 0.3
+2025-03-25 07:37:04,781 - sample.py[line:111] - INFO: EPOCH:0test: lr :0.009999444846167473  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:05,635 - sample.py[line:100] - INFO: EPOCH: 1 train: lr: 0.009997779521645794 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:37:06,485 - sample.py[line:100] - INFO: EPOCH: 2 train: lr: 0.009995004437328866 " " acc rate:0.029393106364982026  dirty rate =  split 0.3
+2025-03-25 07:37:07,243 - sample.py[line:100] - INFO: EPOCH: 3 train: lr: 0.009991120277927222 " " acc rate:0.02727849439627828  dirty rate =  split 0.3
+2025-03-25 07:37:07,998 - sample.py[line:100] - INFO: EPOCH: 4 train: lr: 0.009986128001799079 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:37:08,780 - sample.py[line:100] - INFO: EPOCH: 5 train: lr: 0.009980028840713862 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:09,550 - sample.py[line:100] - INFO: EPOCH: 6 train: lr: 0.009972824299548311 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:37:10,312 - sample.py[line:100] - INFO: EPOCH: 7 train: lr: 0.009964516155915152 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:11,053 - sample.py[line:100] - INFO: EPOCH: 8 train: lr: 0.00995510645972451 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:11,834 - sample.py[line:100] - INFO: EPOCH: 9 train: lr: 0.00994459753267812 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:12,571 - sample.py[line:100] - INFO: EPOCH: 10 train: lr: 0.009932991967696484 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:12,667 - sample.py[line:111] - INFO: EPOCH:10test: lr :0.009932991967696484  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:13,412 - sample.py[line:100] - INFO: EPOCH: 11 train: lr: 0.0099202926282791 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:14,242 - sample.py[line:100] - INFO: EPOCH: 12 train: lr: 0.009906502647797948 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:14,968 - sample.py[line:100] - INFO: EPOCH: 13 train: lr: 0.009891625428724366 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:15,773 - sample.py[line:100] - INFO: EPOCH: 14 train: lr: 0.009875664641789544 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:16,569 - sample.py[line:100] - INFO: EPOCH: 15 train: lr: 0.00985862422507884 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:17,407 - sample.py[line:100] - INFO: EPOCH: 16 train: lr: 0.009840508383060092 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:18,219 - sample.py[line:100] - INFO: EPOCH: 17 train: lr: 0.009821321585546244 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:19,164 - sample.py[line:100] - INFO: EPOCH: 18 train: lr: 0.009801068566592488 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:20,110 - sample.py[line:100] - INFO: EPOCH: 19 train: lr: 0.009779754323328192 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:20,920 - sample.py[line:100] - INFO: EPOCH: 20 train: lr: 0.009757384114723953 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:21,029 - sample.py[line:111] - INFO: EPOCH:20test: lr :0.009757384114723953  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:21,834 - sample.py[line:100] - INFO: EPOCH: 21 train: lr: 0.009733963460294016 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:22,571 - sample.py[line:100] - INFO: EPOCH: 22 train: lr: 0.009709498138734406 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:23,310 - sample.py[line:100] - INFO: EPOCH: 23 train: lr: 0.009683994186497132 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:24,093 - sample.py[line:100] - INFO: EPOCH: 24 train: lr: 0.009657457896300792 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:24,828 - sample.py[line:100] - INFO: EPOCH: 25 train: lr: 0.009629895815577917 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:25,664 - sample.py[line:100] - INFO: EPOCH: 26 train: lr: 0.009601314744859504 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:26,520 - sample.py[line:100] - INFO: EPOCH: 27 train: lr: 0.009571721736097088 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:27,373 - sample.py[line:100] - INFO: EPOCH: 28 train: lr: 0.00954112409092277 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:28,209 - sample.py[line:100] - INFO: EPOCH: 29 train: lr: 0.009509529358847656 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:28,985 - sample.py[line:100] - INFO: EPOCH: 30 train: lr: 0.009476945335399122 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:29,094 - sample.py[line:111] - INFO: EPOCH:30test: lr :0.009476945335399122  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:29,900 - sample.py[line:100] - INFO: EPOCH: 31 train: lr: 0.009443380060197386 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:30,679 - sample.py[line:100] - INFO: EPOCH: 32 train: lr: 0.009408841814971862 " " acc rate:0.0050750687248889825  dirty rate =  split 0.3
+2025-03-25 07:37:31,451 - sample.py[line:100] - INFO: EPOCH: 33 train: lr: 0.009373339121517749 " " acc rate:0.0016916895749629942  dirty rate =  split 0.3
+2025-03-25 07:37:32,246 - sample.py[line:100] - INFO: EPOCH: 34 train: lr: 0.009336880739593417 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:33,014 - sample.py[line:100] - INFO: EPOCH: 35 train: lr: 0.009299475664759069 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:33,804 - sample.py[line:100] - INFO: EPOCH: 36 train: lr: 0.009261133126157218 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:34,580 - sample.py[line:100] - INFO: EPOCH: 37 train: lr: 0.009221862584235529 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:35,393 - sample.py[line:100] - INFO: EPOCH: 38 train: lr: 0.009181673728412606 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:36,180 - sample.py[line:100] - INFO: EPOCH: 39 train: lr: 0.009140576474687266 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:36,943 - sample.py[line:100] - INFO: EPOCH: 40 train: lr: 0.00909858096319191 " " acc rate:0.0050750687248889825  dirty rate =  split 0.3
+2025-03-25 07:37:37,054 - sample.py[line:111] - INFO: EPOCH:40test: lr :0.00909858096319191  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:37,859 - sample.py[line:100] - INFO: EPOCH: 41 train: lr: 0.00905569755569061 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 07:37:38,625 - sample.py[line:100] - INFO: EPOCH: 42 train: lr: 0.009011936833022486 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:39,400 - sample.py[line:100] - INFO: EPOCH: 43 train: lr: 0.008967309592491052 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:40,215 - sample.py[line:100] - INFO: EPOCH: 44 train: lr: 0.00892182684520014 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:40,982 - sample.py[line:100] - INFO: EPOCH: 45 train: lr: 0.00887549981333707 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:41,756 - sample.py[line:100] - INFO: EPOCH: 46 train: lr: 0.008828339927403745 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:42,527 - sample.py[line:100] - INFO: EPOCH: 47 train: lr: 0.008780358823396353 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:43,332 - sample.py[line:100] - INFO: EPOCH: 48 train: lr: 0.008731568339934352 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:44,117 - sample.py[line:100] - INFO: EPOCH: 49 train: lr: 0.008681980515339464 " " acc rate:0.0008458447874814971  dirty rate =  split 0.3
+2025-03-25 07:37:44,876 - sample.py[line:100] - INFO: EPOCH: 50 train: lr: 0.008631607584665415 " " acc rate:0.0031719179530556143  dirty rate =  split 0.3
+2025-03-25 07:37:44,983 - sample.py[line:111] - INFO: EPOCH:50test: lr :0.008631607584665415  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:45,798 - sample.py[line:100] - INFO: EPOCH: 51 train: lr: 0.0085804619766791 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:46,595 - sample.py[line:100] - INFO: EPOCH: 52 train: lr: 0.00852855631079398 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:47,388 - sample.py[line:100] - INFO: EPOCH: 53 train: lr: 0.008475903393956433 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:48,188 - sample.py[line:100] - INFO: EPOCH: 54 train: lr: 0.008422516217485828 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:48,994 - sample.py[line:100] - INFO: EPOCH: 55 train: lr: 0.008368407953869105 " " acc rate:0.003594840346796363  dirty rate =  split 0.3
+2025-03-25 07:37:49,785 - sample.py[line:100] - INFO: EPOCH: 56 train: lr: 0.008313591953510675 " " acc rate:0.00042292239374074856  dirty rate =  split 0.3
+2025-03-25 07:37:50,614 - sample.py[line:100] - INFO: EPOCH: 57 train: lr: 0.008258081741438396 " " acc rate:0.00042292239374074856  dirty rate =  split 0.3
+2025-03-25 07:37:51,454 - sample.py[line:100] - INFO: EPOCH: 58 train: lr: 0.00820189101396648 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 07:37:52,251 - sample.py[line:100] - INFO: EPOCH: 59 train: lr: 0.00814503363531613 " " acc rate:0.002326073165574117  dirty rate =  split 0.3
+2025-03-25 07:37:53,060 - sample.py[line:100] - INFO: EPOCH: 60 train: lr: 0.008087523634194755 " " acc rate:0.01924296891520406  dirty rate =  split 0.3
+2025-03-25 07:37:53,171 - sample.py[line:111] - INFO: EPOCH:60test: lr :0.008087523634194755  " " acc rate:0.0  split 0.3
+2025-03-25 07:37:53,959 - sample.py[line:100] - INFO: EPOCH: 61 train: lr: 0.00802937520033459 " " acc rate:0.05942059632057518  dirty rate =  split 0.3
+2025-03-25 07:37:54,735 - sample.py[line:100] - INFO: EPOCH: 62 train: lr: 0.007970602680991593 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:55,551 - sample.py[line:100] - INFO: EPOCH: 63 train: lr: 0.007911220577405485 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:56,334 - sample.py[line:100] - INFO: EPOCH: 64 train: lr: 0.00785124354122177 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:57,117 - sample.py[line:100] - INFO: EPOCH: 65 train: lr: 0.007790686370876672 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:37:57,917 - sample.py[line:100] - INFO: EPOCH: 66 train: lr: 0.007729564007945835 " " acc rate:0.006555297102981603  dirty rate =  split 0.3
+2025-03-25 07:37:58,716 - sample.py[line:100] - INFO: EPOCH: 67 train: lr: 0.0076678915334577194 " " acc rate:0.0016916895749629942  dirty rate =  split 0.3
+2025-03-25 07:37:59,484 - sample.py[line:100] - INFO: EPOCH: 68 train: lr: 0.0076056841641725815 " " acc rate:0.0038063015436667373  dirty rate =  split 0.3
+2025-03-25 07:38:00,267 - sample.py[line:100] - INFO: EPOCH: 69 train: lr: 0.007542957248827961 " " acc rate:0.0050750687248889825  dirty rate =  split 0.3
+2025-03-25 07:38:01,061 - sample.py[line:100] - INFO: EPOCH: 70 train: lr: 0.007479726264351618 " " acc rate:0.0069782194967223515  dirty rate =  split 0.3
+2025-03-25 07:38:01,168 - sample.py[line:111] - INFO: EPOCH:70test: lr :0.007479726264351618  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:01,945 - sample.py[line:100] - INFO: EPOCH: 71 train: lr: 0.007416006812042828 " " acc rate:0.01670543455275957  dirty rate =  split 0.3
+2025-03-25 07:38:02,724 - sample.py[line:100] - INFO: EPOCH: 72 train: lr: 0.007351814613722991 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:38:03,527 - sample.py[line:100] - INFO: EPOCH: 73 train: lr: 0.007287165507856513 " " acc rate:0.0008458447874814971  dirty rate =  split 0.3
+2025-03-25 07:38:04,316 - sample.py[line:100] - INFO: EPOCH: 74 train: lr: 0.007222075445642905 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:38:05,084 - sample.py[line:100] - INFO: EPOCH: 75 train: lr: 0.007156560487081053 " " acc rate:0.00592091351237048  dirty rate =  split 0.3
+2025-03-25 07:38:05,847 - sample.py[line:100] - INFO: EPOCH: 76 train: lr: 0.007090636797006658 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:38:06,648 - sample.py[line:100] - INFO: EPOCH: 77 train: lr: 0.007024320641103813 " " acc rate:0.005286529921759357  dirty rate =  split 0.3
+2025-03-25 07:38:07,403 - sample.py[line:100] - INFO: EPOCH: 78 train: lr: 0.006957628381891673 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:38:08,173 - sample.py[line:100] - INFO: EPOCH: 79 train: lr: 0.006890576474687264 " " acc rate:0.0063438359061112285  dirty rate =  split 0.3
+2025-03-25 07:38:08,925 - sample.py[line:100] - INFO: EPOCH: 80 train: lr: 0.006823181463545369 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:38:09,032 - sample.py[line:111] - INFO: EPOCH:80test: lr :0.006823181463545369  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:09,791 - sample.py[line:100] - INFO: EPOCH: 81 train: lr: 0.0067554599771765325 " " acc rate:0.0057094523155001055  dirty rate =  split 0.3
+2025-03-25 07:38:10,567 - sample.py[line:100] - INFO: EPOCH: 82 train: lr: 0.006687428724844178 " " acc rate:0.004652146331148234  dirty rate =  split 0.3
+2025-03-25 07:38:11,333 - sample.py[line:100] - INFO: EPOCH: 83 train: lr: 0.006619104492241847 " " acc rate:0.003594840346796363  dirty rate =  split 0.3
+2025-03-25 07:38:12,141 - sample.py[line:100] - INFO: EPOCH: 84 train: lr: 0.006550504137351576 " " acc rate:0.021569042080778176  dirty rate =  split 0.3
+2025-03-25 07:38:12,901 - sample.py[line:100] - INFO: EPOCH: 85 train: lr: 0.006481644586284443 " " acc rate:0.00444068513427786  dirty rate =  split 0.3
+2025-03-25 07:38:13,682 - sample.py[line:100] - INFO: EPOCH: 86 train: lr: 0.006412542829104307 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 07:38:14,514 - sample.py[line:100] - INFO: EPOCH: 87 train: lr: 0.006343215915635763 " " acc rate:0.00148022837809262  dirty rate =  split 0.3
+2025-03-25 07:38:15,297 - sample.py[line:100] - INFO: EPOCH: 88 train: lr: 0.006273680951257343 " " acc rate:0.017128356946500316  dirty rate =  split 0.3
+2025-03-25 07:38:16,083 - sample.py[line:100] - INFO: EPOCH: 89 train: lr: 0.00620395509268104 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 07:38:16,842 - sample.py[line:100] - INFO: EPOCH: 90 train: lr: 0.006134055543719124 " " acc rate:0.0076126030873334746  dirty rate =  split 0.3
+2025-03-25 07:38:16,949 - sample.py[line:111] - INFO: EPOCH:90test: lr :0.006134055543719124  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:17,749 - sample.py[line:100] - INFO: EPOCH: 91 train: lr: 0.006063999551039371 " " acc rate:0.004652146331148234  dirty rate =  split 0.3
+2025-03-25 07:38:18,531 - sample.py[line:100] - INFO: EPOCH: 92 train: lr: 0.0059938043999097045 " " acc rate:0.002326073165574117  dirty rate =  split 0.3
+2025-03-25 07:38:19,326 - sample.py[line:100] - INFO: EPOCH: 93 train: lr: 0.0059234874099333154 " " acc rate:0.0019031507718333686  dirty rate =  split 0.3
+2025-03-25 07:38:20,153 - sample.py[line:100] - INFO: EPOCH: 94 train: lr: 0.005853065930775303 " " acc rate:0.01036159864664834  dirty rate =  split 0.3
+2025-03-25 07:38:20,949 - sample.py[line:100] - INFO: EPOCH: 95 train: lr: 0.0057825573378819115 " " acc rate:0.049481920067667585  dirty rate =  split 0.3
+2025-03-25 07:38:21,749 - sample.py[line:100] - INFO: EPOCH: 96 train: lr: 0.005711979028193392 " " acc rate:0.028758722774370905  dirty rate =  split 0.3
+2025-03-25 07:38:22,582 - sample.py[line:100] - INFO: EPOCH: 97 train: lr: 0.005641348415851578 " " acc rate:0.029816028758722773  dirty rate =  split 0.3
+2025-03-25 07:38:23,375 - sample.py[line:100] - INFO: EPOCH: 98 train: lr: 0.005570682927903194 " " acc rate:0.01966589130894481  dirty rate =  split 0.3
+2025-03-25 07:38:24,163 - sample.py[line:100] - INFO: EPOCH: 99 train: lr: 0.0055000000000000005 " " acc rate:0.00148022837809262  dirty rate =  split 0.3
+2025-03-25 07:38:24,959 - sample.py[line:100] - INFO: EPOCH: 100 train: lr: 0.005429317072096808 " " acc rate:0.026855572002537534  dirty rate =  split 0.3
+2025-03-25 07:38:25,073 - sample.py[line:111] - INFO: EPOCH:100test: lr :0.005429317072096808  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:25,890 - sample.py[line:100] - INFO: EPOCH: 101 train: lr: 0.005358651584148423 " " acc rate:0.07802918164516812  dirty rate =  split 0.3
+2025-03-25 07:38:26,663 - sample.py[line:100] - INFO: EPOCH: 102 train: lr: 0.005288020971806609 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:38:27,426 - sample.py[line:100] - INFO: EPOCH: 103 train: lr: 0.0052174426621180905 " " acc rate:0.011418904631000211  dirty rate =  split 0.3
+2025-03-25 07:38:28,229 - sample.py[line:100] - INFO: EPOCH: 104 train: lr: 0.005146934069224699 " " acc rate:0.0057094523155001055  dirty rate =  split 0.3
+2025-03-25 07:38:28,986 - sample.py[line:100] - INFO: EPOCH: 105 train: lr: 0.005076512590066686 " " acc rate:0.017974201733981815  dirty rate =  split 0.3
+2025-03-25 07:38:29,759 - sample.py[line:100] - INFO: EPOCH: 106 train: lr: 0.005006195600090297 " " acc rate:0.010995982237259463  dirty rate =  split 0.3
+2025-03-25 07:38:30,522 - sample.py[line:100] - INFO: EPOCH: 107 train: lr: 0.004936000448960632 " " acc rate:0.015013744977796574  dirty rate =  split 0.3
+2025-03-25 07:38:31,342 - sample.py[line:100] - INFO: EPOCH: 108 train: lr: 0.00486594445628088 " " acc rate:0.010995982237259463  dirty rate =  split 0.3
+2025-03-25 07:38:32,131 - sample.py[line:100] - INFO: EPOCH: 109 train: lr: 0.004796044907318962 " " acc rate:0.039754705011630365  dirty rate =  split 0.3
+2025-03-25 07:38:32,894 - sample.py[line:100] - INFO: EPOCH: 110 train: lr: 0.004726319048742657 " " acc rate:0.008035525481074222  dirty rate =  split 0.3
+2025-03-25 07:38:33,001 - sample.py[line:111] - INFO: EPOCH:110test: lr :0.004726319048742657  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:33,799 - sample.py[line:100] - INFO: EPOCH: 111 train: lr: 0.00465678408436424 " " acc rate:0.0025375343624444912  dirty rate =  split 0.3
+2025-03-25 07:38:34,549 - sample.py[line:100] - INFO: EPOCH: 112 train: lr: 0.004587457170895695 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:38:35,298 - sample.py[line:100] - INFO: EPOCH: 113 train: lr: 0.00451835541371556 " " acc rate:0.004017762740537111  dirty rate =  split 0.3
+2025-03-25 07:38:36,160 - sample.py[line:100] - INFO: EPOCH: 114 train: lr: 0.004449495862648426 " " acc rate:0.072319729329668  dirty rate =  split 0.3
+2025-03-25 07:38:36,918 - sample.py[line:100] - INFO: EPOCH: 115 train: lr: 0.004380895507758154 " " acc rate:0.1232818777754282  dirty rate =  split 0.3
+2025-03-25 07:38:37,672 - sample.py[line:100] - INFO: EPOCH: 116 train: lr: 0.004312571275155823 " " acc rate:0.058574751533093675  dirty rate =  split 0.3
+2025-03-25 07:38:38,423 - sample.py[line:100] - INFO: EPOCH: 117 train: lr: 0.004244540022823469 " " acc rate:0.0518079932332417  dirty rate =  split 0.3
+2025-03-25 07:38:39,249 - sample.py[line:100] - INFO: EPOCH: 118 train: lr: 0.004176818536454633 " " acc rate:0.009304292662296468  dirty rate =  split 0.3
+2025-03-25 07:38:40,081 - sample.py[line:100] - INFO: EPOCH: 119 train: lr: 0.004109423525312739 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 07:38:40,863 - sample.py[line:100] - INFO: EPOCH: 120 train: lr: 0.004042371618108328 " " acc rate:0.0006343835906111228  dirty rate =  split 0.3
+2025-03-25 07:38:40,970 - sample.py[line:111] - INFO: EPOCH:120test: lr :0.004042371618108328  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:41,811 - sample.py[line:100] - INFO: EPOCH: 121 train: lr: 0.003975679358896189 " " acc rate:0.11059420596320575  dirty rate =  split 0.3
+2025-03-25 07:38:42,632 - sample.py[line:100] - INFO: EPOCH: 122 train: lr: 0.003909363202993343 " " acc rate:0.09959822372594629  dirty rate =  split 0.3
+2025-03-25 07:38:43,483 - sample.py[line:100] - INFO: EPOCH: 123 train: lr: 0.0038434395129189505 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 07:38:44,442 - sample.py[line:100] - INFO: EPOCH: 124 train: lr: 0.0037779245543570978 " " acc rate:0.060054979911186294  dirty rate =  split 0.3
+2025-03-25 07:38:45,533 - sample.py[line:100] - INFO: EPOCH: 125 train: lr: 0.003712834492143487 " " acc rate:0.05963205751744555  dirty rate =  split 0.3
+2025-03-25 07:38:46,656 - sample.py[line:100] - INFO: EPOCH: 126 train: lr: 0.0036481853862770108 " " acc rate:0.0501163036582787  dirty rate =  split 0.3
+2025-03-25 07:38:47,762 - sample.py[line:100] - INFO: EPOCH: 127 train: lr: 0.0035839931879571734 " " acc rate:0.048001691689574966  dirty rate =  split 0.3
+2025-03-25 07:38:48,644 - sample.py[line:100] - INFO: EPOCH: 128 train: lr: 0.003520273735648382 " " acc rate:0.036159864664834  dirty rate =  split 0.3
+2025-03-25 07:38:49,764 - sample.py[line:100] - INFO: EPOCH: 129 train: lr: 0.00345704275117204 " " acc rate:0.05942059632057518  dirty rate =  split 0.3
+2025-03-25 07:38:50,812 - sample.py[line:100] - INFO: EPOCH: 130 train: lr: 0.003394315835827421 " " acc rate:0.1372383167688729  dirty rate =  split 0.3
+2025-03-25 07:38:50,941 - sample.py[line:111] - INFO: EPOCH:130test: lr :0.003394315835827421  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:51,850 - sample.py[line:100] - INFO: EPOCH: 131 train: lr: 0.003332108466542281 " " acc rate:0.21209558046098542  dirty rate =  split 0.3
+2025-03-25 07:38:52,639 - sample.py[line:100] - INFO: EPOCH: 132 train: lr: 0.003270435992054166 " " acc rate:0.22922393740748573  dirty rate =  split 0.3
+2025-03-25 07:38:53,417 - sample.py[line:100] - INFO: EPOCH: 133 train: lr: 0.0032093136291233295 " " acc rate:0.19390991753013323  dirty rate =  split 0.3
+2025-03-25 07:38:54,169 - sample.py[line:100] - INFO: EPOCH: 134 train: lr: 0.0031487564587782306 " " acc rate:0.04757876929583421  dirty rate =  split 0.3
+2025-03-25 07:38:54,929 - sample.py[line:100] - INFO: EPOCH: 135 train: lr: 0.0030887794225945143 " " acc rate:0.01289913300909283  dirty rate =  split 0.3
+2025-03-25 07:38:55,736 - sample.py[line:100] - INFO: EPOCH: 136 train: lr: 0.0030293973190084066 " " acc rate:0.1002326073165574  dirty rate =  split 0.3
+2025-03-25 07:38:56,524 - sample.py[line:100] - INFO: EPOCH: 137 train: lr: 0.0029706247996654123 " " acc rate:0.10636498202579826  dirty rate =  split 0.3
+2025-03-25 07:38:57,292 - sample.py[line:100] - INFO: EPOCH: 138 train: lr: 0.002912476365805247 " " acc rate:0.028547261577500527  dirty rate =  split 0.3
+2025-03-25 07:38:58,210 - sample.py[line:100] - INFO: EPOCH: 139 train: lr: 0.0028549663646838717 " " acc rate:0.09050539226052019  dirty rate =  split 0.3
+2025-03-25 07:38:58,989 - sample.py[line:100] - INFO: EPOCH: 140 train: lr: 0.0027981089860335227 " " acc rate:0.05603721717064918  dirty rate =  split 0.3
+2025-03-25 07:38:59,109 - sample.py[line:111] - INFO: EPOCH:140test: lr :0.0027981089860335227  " " acc rate:0.0  split 0.3
+2025-03-25 07:38:59,918 - sample.py[line:100] - INFO: EPOCH: 141 train: lr: 0.0027419182585616056 " " acc rate:0.1232818777754282  dirty rate =  split 0.3
+2025-03-25 07:39:00,736 - sample.py[line:100] - INFO: EPOCH: 142 train: lr: 0.0026864080464893266 " " acc rate:0.13618101078452105  dirty rate =  split 0.3
+2025-03-25 07:39:01,534 - sample.py[line:100] - INFO: EPOCH: 143 train: lr: 0.0026315920461308963 " " acc rate:0.12539648974413195  dirty rate =  split 0.3
+2025-03-25 07:39:02,316 - sample.py[line:100] - INFO: EPOCH: 144 train: lr: 0.0025774837825141743 " " acc rate:0.10826813279763163  dirty rate =  split 0.3
+2025-03-25 07:39:03,117 - sample.py[line:100] - INFO: EPOCH: 145 train: lr: 0.0025240966060435677 " " acc rate:0.09494607739479806  dirty rate =  split 0.3
+2025-03-25 07:39:03,911 - sample.py[line:100] - INFO: EPOCH: 146 train: lr: 0.0024714436892060198 " " acc rate:0.1332205540283358  dirty rate =  split 0.3
+2025-03-25 07:39:04,676 - sample.py[line:100] - INFO: EPOCH: 147 train: lr: 0.002419538023320901 " " acc rate:0.14125607950941002  dirty rate =  split 0.3
+2025-03-25 07:39:05,457 - sample.py[line:100] - INFO: EPOCH: 148 train: lr: 0.0023683924153345857 " " acc rate:0.12793402410657645  dirty rate =  split 0.3
+2025-03-25 07:39:06,272 - sample.py[line:100] - INFO: EPOCH: 149 train: lr: 0.0023180194846605367 " " acc rate:0.17783886656798478  dirty rate =  split 0.3
+2025-03-25 07:39:07,042 - sample.py[line:100] - INFO: EPOCH: 150 train: lr: 0.002268431660065651 " " acc rate:0.23620215690420807  dirty rate =  split 0.3
+2025-03-25 07:39:07,149 - sample.py[line:111] - INFO: EPOCH:150test: lr :0.002268431660065651  " " acc rate:0.0  split 0.3
+2025-03-25 07:39:07,933 - sample.py[line:100] - INFO: EPOCH: 151 train: lr: 0.002219641176603649 " " acc rate:0.25206174666948616  dirty rate =  split 0.3
+2025-03-25 07:39:08,729 - sample.py[line:100] - INFO: EPOCH: 152 train: lr: 0.002171660072596257 " " acc rate:0.2491012899133009  dirty rate =  split 0.3
+2025-03-25 07:39:09,518 - sample.py[line:100] - INFO: EPOCH: 153 train: lr: 0.0021245001866629326 " " acc rate:0.23958553605413407  dirty rate =  split 0.3
+2025-03-25 07:39:10,302 - sample.py[line:100] - INFO: EPOCH: 154 train: lr: 0.002078173154799861 " " acc rate:0.21188411926411505  dirty rate =  split 0.3
+2025-03-25 07:39:11,073 - sample.py[line:100] - INFO: EPOCH: 155 train: lr: 0.002032690407508949 " " acc rate:0.18777754282089237  dirty rate =  split 0.3
+2025-03-25 07:39:11,894 - sample.py[line:100] - INFO: EPOCH: 156 train: lr: 0.001988063166977517 " " acc rate:0.1865087756396701  dirty rate =  split 0.3
+2025-03-25 07:39:12,665 - sample.py[line:100] - INFO: EPOCH: 157 train: lr: 0.0019443024443093933 " " acc rate:0.10128991330090928  dirty rate =  split 0.3
+2025-03-25 07:39:13,442 - sample.py[line:100] - INFO: EPOCH: 158 train: lr: 0.0019014190368080931 " " acc rate:0.05772890674561218  dirty rate =  split 0.3
+2025-03-25 07:39:14,243 - sample.py[line:100] - INFO: EPOCH: 159 train: lr: 0.0018594235253127371 " " acc rate:0.08479593994502009  dirty rate =  split 0.3
+2025-03-25 07:39:15,009 - sample.py[line:100] - INFO: EPOCH: 160 train: lr: 0.0018183262715873953 " " acc rate:0.11947557623176147  dirty rate =  split 0.3
+2025-03-25 07:39:15,118 - sample.py[line:111] - INFO: EPOCH:160test: lr :0.0018183262715873953  " " acc rate:0.027147087857847977  split 0.3
+2025-03-25 07:39:15,891 - sample.py[line:100] - INFO: EPOCH: 161 train: lr: 0.001778137415764473 " " acc rate:0.1619792768027067  dirty rate =  split 0.3
+2025-03-25 07:39:16,676 - sample.py[line:100] - INFO: EPOCH: 162 train: lr: 0.001738866873842785 " " acc rate:0.18693169803341086  dirty rate =  split 0.3
+2025-03-25 07:39:17,441 - sample.py[line:100] - INFO: EPOCH: 163 train: lr: 0.0017005243352409332 " " acc rate:0.1998308310425037  dirty rate =  split 0.3
+2025-03-25 07:39:18,208 - sample.py[line:100] - INFO: EPOCH: 164 train: lr: 0.0016631192604065863 " " acc rate:0.218650877563967  dirty rate =  split 0.3
+2025-03-25 07:39:18,985 - sample.py[line:100] - INFO: EPOCH: 165 train: lr: 0.0016266608784822533 " " acc rate:0.2550222034256714  dirty rate =  split 0.3
+2025-03-25 07:39:19,799 - sample.py[line:100] - INFO: EPOCH: 166 train: lr: 0.0015911581850281391 " " acc rate:0.28737576654683866  dirty rate =  split 0.3
+2025-03-25 07:39:20,627 - sample.py[line:100] - INFO: EPOCH: 167 train: lr: 0.001556619939802614 " " acc rate:0.29794882639035736  dirty rate =  split 0.3
+2025-03-25 07:39:21,445 - sample.py[line:100] - INFO: EPOCH: 168 train: lr: 0.0015230546646008794 " " acc rate:0.2945654472404314  dirty rate =  split 0.3
+2025-03-25 07:39:22,259 - sample.py[line:100] - INFO: EPOCH: 169 train: lr: 0.001490470641152345 " " acc rate:0.29160499048424615  dirty rate =  split 0.3
+2025-03-25 07:39:23,055 - sample.py[line:100] - INFO: EPOCH: 170 train: lr: 0.0014588759090772303 " " acc rate:0.29498836963417213  dirty rate =  split 0.3
+2025-03-25 07:39:23,172 - sample.py[line:111] - INFO: EPOCH:170test: lr :0.0014588759090772303  " " acc rate:0.0  split 0.3
+2025-03-25 07:39:23,997 - sample.py[line:100] - INFO: EPOCH: 171 train: lr: 0.001428278263902913 " " acc rate:0.30408120109959824  dirty rate =  split 0.3
+2025-03-25 07:39:24,784 - sample.py[line:100] - INFO: EPOCH: 172 train: lr: 0.0013986852551404973 " " acc rate:0.3125396489744132  dirty rate =  split 0.3
+2025-03-25 07:39:25,600 - sample.py[line:100] - INFO: EPOCH: 173 train: lr: 0.001370104184422086 " " acc rate:0.32099809684922814  dirty rate =  split 0.3
+2025-03-25 07:39:26,391 - sample.py[line:100] - INFO: EPOCH: 174 train: lr: 0.0013425421036992106 " " acc rate:0.32268978642419116  dirty rate =  split 0.3
+2025-03-25 07:39:27,168 - sample.py[line:100] - INFO: EPOCH: 175 train: lr: 0.001316005813502869 " " acc rate:0.3224783252273208  dirty rate =  split 0.3
+2025-03-25 07:39:27,975 - sample.py[line:100] - INFO: EPOCH: 176 train: lr: 0.001290501861265597 " " acc rate:0.32078663565235777  dirty rate =  split 0.3
+2025-03-25 07:39:28,757 - sample.py[line:100] - INFO: EPOCH: 177 train: lr: 0.0012660365397059855 " " acc rate:0.31951786847113556  dirty rate =  split 0.3
+2025-03-25 07:39:29,542 - sample.py[line:100] - INFO: EPOCH: 178 train: lr: 0.0012426158852760461 " " acc rate:0.31951786847113556  dirty rate =  split 0.3
+2025-03-25 07:39:30,324 - sample.py[line:100] - INFO: EPOCH: 179 train: lr: 0.001220245676671809 " " acc rate:0.3159230281243392  dirty rate =  split 0.3
+2025-03-25 07:39:31,108 - sample.py[line:100] - INFO: EPOCH: 180 train: lr: 0.0011989314334075146 " " acc rate:0.3129625713681539  dirty rate =  split 0.3
+2025-03-25 07:39:31,211 - sample.py[line:111] - INFO: EPOCH:180test: lr :0.0011989314334075146  " " acc rate:0.006910167818361303  split 0.3
+2025-03-25 07:39:31,990 - sample.py[line:100] - INFO: EPOCH: 181 train: lr: 0.0011786784144537567 " " acc rate:0.3159230281243392  dirty rate =  split 0.3
+2025-03-25 07:39:32,758 - sample.py[line:100] - INFO: EPOCH: 182 train: lr: 0.0011594916169399092 " " acc rate:0.31698033410869103  dirty rate =  split 0.3
+2025-03-25 07:39:33,568 - sample.py[line:100] - INFO: EPOCH: 183 train: lr: 0.0011413757749211607 " " acc rate:0.31550010573059845  dirty rate =  split 0.3
+2025-03-25 07:39:34,341 - sample.py[line:100] - INFO: EPOCH: 184 train: lr: 0.0011243353582104556 " " acc rate:0.3125396489744132  dirty rate =  split 0.3
+2025-03-25 07:39:35,131 - sample.py[line:100] - INFO: EPOCH: 185 train: lr: 0.0011083745712756371 " " acc rate:0.3193064072742652  dirty rate =  split 0.3
+2025-03-25 07:39:35,941 - sample.py[line:100] - INFO: EPOCH: 186 train: lr: 0.0010934973522020537 " " acc rate:0.3256502431803764  dirty rate =  split 0.3
+2025-03-25 07:39:36,768 - sample.py[line:100] - INFO: EPOCH: 187 train: lr: 0.0010797073717209009 " " acc rate:0.3328399238739691  dirty rate =  split 0.3
+2025-03-25 07:39:37,539 - sample.py[line:100] - INFO: EPOCH: 188 train: lr: 0.0010670080323035176 " " acc rate:0.33897229858321  dirty rate =  split 0.3
+2025-03-25 07:39:38,300 - sample.py[line:100] - INFO: EPOCH: 189 train: lr: 0.0010554024673218806 " " acc rate:0.3432015225206175  dirty rate =  split 0.3
+2025-03-25 07:39:39,074 - sample.py[line:100] - INFO: EPOCH: 190 train: lr: 0.001044893540275491 " " acc rate:0.34764220765489534  dirty rate =  split 0.3
+2025-03-25 07:39:39,180 - sample.py[line:111] - INFO: EPOCH:190test: lr :0.001044893540275491  " " acc rate:0.02418558736426456  split 0.3
+2025-03-25 07:39:40,041 - sample.py[line:100] - INFO: EPOCH: 191 train: lr: 0.00103548384408485 " " acc rate:0.3501797420173398  dirty rate =  split 0.3
+2025-03-25 07:39:40,791 - sample.py[line:100] - INFO: EPOCH: 192 train: lr: 0.0010271757004516918 " " acc rate:0.35250581518291396  dirty rate =  split 0.3
+2025-03-25 07:39:41,574 - sample.py[line:100] - INFO: EPOCH: 193 train: lr: 0.00101997115928614 " " acc rate:0.3554662719390992  dirty rate =  split 0.3
+2025-03-25 07:39:42,358 - sample.py[line:100] - INFO: EPOCH: 194 train: lr: 0.0010138719982009242 " " acc rate:0.3561006555297103  dirty rate =  split 0.3
+2025-03-25 07:39:43,161 - sample.py[line:100] - INFO: EPOCH: 195 train: lr: 0.001008879722072778 " " acc rate:0.35715796151406215  dirty rate =  split 0.3
+2025-03-25 07:39:44,016 - sample.py[line:100] - INFO: EPOCH: 196 train: lr: 0.0010049955626711354 " " acc rate:0.35800380630154366  dirty rate =  split 0.3
+2025-03-25 07:39:44,870 - sample.py[line:100] - INFO: EPOCH: 197 train: lr: 0.0010022204783542079 " " acc rate:0.35800380630154366  dirty rate =  split 0.3
+2025-03-25 07:39:45,641 - sample.py[line:100] - INFO: EPOCH: 198 train: lr: 0.0010005551538325274 " " acc rate:0.35906111228589555  dirty rate =  split 0.3
+2025-03-25 07:39:46,422 - sample.py[line:100] - INFO: EPOCH: 199 train: lr: 0.010000000000000002 " " acc rate:0.3592725734827659  dirty rate =  split 0.3
+2025-03-25 07:39:46,696 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 3])  Score: 0.19042920572274297
+2025-03-25 07:39:46,814 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 7])  Score: 0.4543660582141095
+2025-03-25 07:39:47,005 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 11])  Score: 0.5920078934385792
+2025-03-25 07:39:47,293 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 15])  Score: 0.7039960532807104
+2025-03-25 07:39:47,955 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 19])  Score: 0.7316230883078441
+2025-03-25 07:39:48,104 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 23])  Score: 0.7592501233349778
+2025-03-25 07:39:48,225 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 27])  Score: 0.7824370991613222
+2025-03-25 07:39:48,364 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 31])  Score: 0.801677355698076
+2025-03-25 07:39:48,506 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 35])  Score: 0.8115441539220523
+2025-03-25 07:39:48,604 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 39])  Score: 0.8179575727676369
+2025-03-25 07:39:48,727 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 43])  Score: 0.820424272323631
+2025-03-25 07:39:48,810 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 47])  Score: 0.8248643315244203
+2025-03-25 07:39:48,892 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 50])  Score: 0.814997533300444
+2025-03-25 07:39:49,005 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 54])  Score: 0.8140108534780464
+2025-03-25 07:39:49,117 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 58])  Score: 0.8174642328564381
+2025-03-25 07:39:49,238 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 62])  Score: 0.8209176122348298
+2025-03-25 07:39:49,350 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 66])  Score: 0.814997533300444
+2025-03-25 07:39:49,490 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 70])  Score: 0.8036507153428712
+2025-03-25 07:39:49,620 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 74])  Score: 0.8135175135668475
+2025-03-25 07:39:49,766 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 78])  Score: 0.8075974346324618
+2025-03-25 07:39:49,892 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 82])  Score: 0.809570794277257
+2025-03-25 07:39:49,988 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 86])  Score: 0.814997533300444
+2025-03-25 07:39:50,121 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 90])  Score: 0.8115441539220523
+2025-03-25 07:39:50,270 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 94])  Score: 0.8080907745436606
+2025-03-25 07:39:50,402 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 98])  Score: 0.8066107548100642
+2025-03-25 07:39:50,550 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 101])  Score: 0.8006906758756783
+2025-03-25 07:39:50,661 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 105])  Score: 0.798717316230883
+2025-03-25 07:39:50,770 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 109])  Score: 0.8001973359644795
+2025-03-25 07:39:50,909 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 113])  Score: 0.8001973359644795
+2025-03-25 07:39:51,045 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 117])  Score: 0.7903305377405032
+2025-03-25 07:39:51,187 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 121])  Score: 0.7863838184509127
+2025-03-25 07:39:51,305 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 125])  Score: 0.7844104588061174
+2025-03-25 07:39:51,450 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 129])  Score: 0.7789837197829305
+2025-03-25 07:39:51,593 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 133])  Score: 0.7799703996053281
+2025-03-25 07:39:51,739 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 137])  Score: 0.7819437592501234
+2025-03-25 07:39:51,883 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 141])  Score: 0.7735569807597434
+2025-03-25 07:39:51,993 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 145])  Score: 0.7730636408485446
+2025-03-25 07:39:52,135 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 148])  Score: 0.7701036013813517
+2025-03-25 07:39:52,255 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 152])  Score: 0.772076961026147
+2025-03-25 07:39:52,395 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 156])  Score: 0.7715836211149482
+2025-03-25 07:39:52,538 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 160])  Score: 0.7666502220029601
+2025-03-25 07:39:52,700 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 164])  Score: 0.769610261470153
+2025-03-25 07:39:52,834 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 168])  Score: 0.7661568820917612
+2025-03-25 07:39:52,962 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 172])  Score: 0.7636901825357671
+2025-03-25 07:39:53,120 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 176])  Score: 0.764183522446966
+2025-03-25 07:39:53,263 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 180])  Score: 0.7592501233349778
+2025-03-25 07:39:53,420 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 184])  Score: 0.753330044400592
+2025-03-25 07:39:53,566 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 188])  Score: 0.7508633448445979
+2025-03-25 07:39:53,704 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 192])  Score: 0.7557967439565861
+2025-03-25 07:39:53,855 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 196])  Score: 0.7582634435125801
+2025-03-25 09:56:34,726 - sample.py[line:100] - INFO: EPOCH: 0 train: lr: 0.009999444846167473 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 09:56:34,843 - sample.py[line:111] - INFO: EPOCH:0test: lr :0.009999444846167473  " " acc rate:0.0  split 0.3
+2025-03-25 09:56:35,679 - sample.py[line:100] - INFO: EPOCH: 1 train: lr: 0.009997779521645794 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:36,475 - sample.py[line:100] - INFO: EPOCH: 2 train: lr: 0.009995004437328866 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 09:56:37,301 - sample.py[line:100] - INFO: EPOCH: 3 train: lr: 0.009991120277927222 " " acc rate:0.05053922605201946  dirty rate =  split 0.3
+2025-03-25 09:56:38,123 - sample.py[line:100] - INFO: EPOCH: 4 train: lr: 0.009986128001799079 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:38,919 - sample.py[line:100] - INFO: EPOCH: 5 train: lr: 0.009980028840713862 " " acc rate:0.0016916895749629942  dirty rate =  split 0.3
+2025-03-25 09:56:39,753 - sample.py[line:100] - INFO: EPOCH: 6 train: lr: 0.009972824299548311 " " acc rate:0.05053922605201946  dirty rate =  split 0.3
+2025-03-25 09:56:40,561 - sample.py[line:100] - INFO: EPOCH: 7 train: lr: 0.009964516155915152 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:41,355 - sample.py[line:100] - INFO: EPOCH: 8 train: lr: 0.00995510645972451 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:42,204 - sample.py[line:100] - INFO: EPOCH: 9 train: lr: 0.00994459753267812 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:43,017 - sample.py[line:100] - INFO: EPOCH: 10 train: lr: 0.009932991967696484 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:43,130 - sample.py[line:111] - INFO: EPOCH:10test: lr :0.009932991967696484  " " acc rate:0.0  split 0.3
+2025-03-25 09:56:43,911 - sample.py[line:100] - INFO: EPOCH: 11 train: lr: 0.0099202926282791 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:44,729 - sample.py[line:100] - INFO: EPOCH: 12 train: lr: 0.009906502647797948 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:45,519 - sample.py[line:100] - INFO: EPOCH: 13 train: lr: 0.009891625428724366 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:46,304 - sample.py[line:100] - INFO: EPOCH: 14 train: lr: 0.009875664641789544 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:47,105 - sample.py[line:100] - INFO: EPOCH: 15 train: lr: 0.00985862422507884 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:47,957 - sample.py[line:100] - INFO: EPOCH: 16 train: lr: 0.009840508383060092 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:48,753 - sample.py[line:100] - INFO: EPOCH: 17 train: lr: 0.009821321585546244 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:49,565 - sample.py[line:100] - INFO: EPOCH: 18 train: lr: 0.009801068566592488 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:50,404 - sample.py[line:100] - INFO: EPOCH: 19 train: lr: 0.009779754323328192 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:51,215 - sample.py[line:100] - INFO: EPOCH: 20 train: lr: 0.009757384114723953 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:51,334 - sample.py[line:111] - INFO: EPOCH:20test: lr :0.009757384114723953  " " acc rate:0.0  split 0.3
+2025-03-25 09:56:52,153 - sample.py[line:100] - INFO: EPOCH: 21 train: lr: 0.009733963460294016 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:52,970 - sample.py[line:100] - INFO: EPOCH: 22 train: lr: 0.009709498138734406 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:53,768 - sample.py[line:100] - INFO: EPOCH: 23 train: lr: 0.009683994186497132 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:54,598 - sample.py[line:100] - INFO: EPOCH: 24 train: lr: 0.009657457896300792 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:55,382 - sample.py[line:100] - INFO: EPOCH: 25 train: lr: 0.009629895815577917 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:56,174 - sample.py[line:100] - INFO: EPOCH: 26 train: lr: 0.009601314744859504 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:56,980 - sample.py[line:100] - INFO: EPOCH: 27 train: lr: 0.009571721736097088 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:57,827 - sample.py[line:100] - INFO: EPOCH: 28 train: lr: 0.00954112409092277 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:58,687 - sample.py[line:100] - INFO: EPOCH: 29 train: lr: 0.009509529358847656 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:59,513 - sample.py[line:100] - INFO: EPOCH: 30 train: lr: 0.009476945335399122 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:56:59,626 - sample.py[line:111] - INFO: EPOCH:30test: lr :0.009476945335399122  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:00,547 - sample.py[line:100] - INFO: EPOCH: 31 train: lr: 0.009443380060197386 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:01,442 - sample.py[line:100] - INFO: EPOCH: 32 train: lr: 0.009408841814971862 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:02,237 - sample.py[line:100] - INFO: EPOCH: 33 train: lr: 0.009373339121517749 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:03,106 - sample.py[line:100] - INFO: EPOCH: 34 train: lr: 0.009336880739593417 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:03,902 - sample.py[line:100] - INFO: EPOCH: 35 train: lr: 0.009299475664759069 " " acc rate:0.0063438359061112285  dirty rate =  split 0.3
+2025-03-25 09:57:04,698 - sample.py[line:100] - INFO: EPOCH: 36 train: lr: 0.009261133126157218 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 09:57:05,515 - sample.py[line:100] - INFO: EPOCH: 37 train: lr: 0.009221862584235529 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:06,291 - sample.py[line:100] - INFO: EPOCH: 38 train: lr: 0.009181673728412606 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:07,069 - sample.py[line:100] - INFO: EPOCH: 39 train: lr: 0.009140576474687266 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:07,850 - sample.py[line:100] - INFO: EPOCH: 40 train: lr: 0.00909858096319191 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:07,965 - sample.py[line:111] - INFO: EPOCH:40test: lr :0.00909858096319191  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:08,792 - sample.py[line:100] - INFO: EPOCH: 41 train: lr: 0.00905569755569061 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 09:57:09,602 - sample.py[line:100] - INFO: EPOCH: 42 train: lr: 0.009011936833022486 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:10,399 - sample.py[line:100] - INFO: EPOCH: 43 train: lr: 0.008967309592491052 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:11,207 - sample.py[line:100] - INFO: EPOCH: 44 train: lr: 0.00892182684520014 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:12,013 - sample.py[line:100] - INFO: EPOCH: 45 train: lr: 0.00887549981333707 " " acc rate:0.005497991118629732  dirty rate =  split 0.3
+2025-03-25 09:57:12,828 - sample.py[line:100] - INFO: EPOCH: 46 train: lr: 0.008828339927403745 " " acc rate:0.00148022837809262  dirty rate =  split 0.3
+2025-03-25 09:57:13,664 - sample.py[line:100] - INFO: EPOCH: 47 train: lr: 0.008780358823396353 " " acc rate:0.005286529921759357  dirty rate =  split 0.3
+2025-03-25 09:57:14,469 - sample.py[line:100] - INFO: EPOCH: 48 train: lr: 0.008731568339934352 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:15,216 - sample.py[line:100] - INFO: EPOCH: 49 train: lr: 0.008681980515339464 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:15,978 - sample.py[line:100] - INFO: EPOCH: 50 train: lr: 0.008631607584665415 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:16,100 - sample.py[line:111] - INFO: EPOCH:50test: lr :0.008631607584665415  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:16,856 - sample.py[line:100] - INFO: EPOCH: 51 train: lr: 0.0085804619766791 " " acc rate:0.00592091351237048  dirty rate =  split 0.3
+2025-03-25 09:57:17,609 - sample.py[line:100] - INFO: EPOCH: 52 train: lr: 0.00852855631079398 " " acc rate:0.002114611968703743  dirty rate =  split 0.3
+2025-03-25 09:57:18,379 - sample.py[line:100] - INFO: EPOCH: 53 train: lr: 0.008475903393956433 " " acc rate:0.00042292239374074856  dirty rate =  split 0.3
+2025-03-25 09:57:19,136 - sample.py[line:100] - INFO: EPOCH: 54 train: lr: 0.008422516217485828 " " acc rate:0.0012687671812222456  dirty rate =  split 0.3
+2025-03-25 09:57:19,978 - sample.py[line:100] - INFO: EPOCH: 55 train: lr: 0.008368407953869105 " " acc rate:0.009938676252907591  dirty rate =  split 0.3
+2025-03-25 09:57:20,805 - sample.py[line:100] - INFO: EPOCH: 56 train: lr: 0.008313591953510675 " " acc rate:0.05646013956438994  dirty rate =  split 0.3
+2025-03-25 09:57:21,627 - sample.py[line:100] - INFO: EPOCH: 57 train: lr: 0.008258081741438396 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 09:57:22,401 - sample.py[line:100] - INFO: EPOCH: 58 train: lr: 0.00820189101396648 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:23,211 - sample.py[line:100] - INFO: EPOCH: 59 train: lr: 0.00814503363531613 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:24,012 - sample.py[line:100] - INFO: EPOCH: 60 train: lr: 0.008087523634194755 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:24,120 - sample.py[line:111] - INFO: EPOCH:60test: lr :0.008087523634194755  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:24,889 - sample.py[line:100] - INFO: EPOCH: 61 train: lr: 0.00802937520033459 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:25,692 - sample.py[line:100] - INFO: EPOCH: 62 train: lr: 0.007970602680991593 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 09:57:26,471 - sample.py[line:100] - INFO: EPOCH: 63 train: lr: 0.007911220577405485 " " acc rate:0.010784521040389088  dirty rate =  split 0.3
+2025-03-25 09:57:27,277 - sample.py[line:100] - INFO: EPOCH: 64 train: lr: 0.00785124354122177 " " acc rate:0.004229223937407486  dirty rate =  split 0.3
+2025-03-25 09:57:28,117 - sample.py[line:100] - INFO: EPOCH: 65 train: lr: 0.007790686370876672 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:28,952 - sample.py[line:100] - INFO: EPOCH: 66 train: lr: 0.007729564007945835 " " acc rate:0.0069782194967223515  dirty rate =  split 0.3
+2025-03-25 09:57:29,745 - sample.py[line:100] - INFO: EPOCH: 67 train: lr: 0.0076678915334577194 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 09:57:30,544 - sample.py[line:100] - INFO: EPOCH: 68 train: lr: 0.0076056841641725815 " " acc rate:0.00296045675618524  dirty rate =  split 0.3
+2025-03-25 09:57:31,372 - sample.py[line:100] - INFO: EPOCH: 69 train: lr: 0.007542957248827961 " " acc rate:0.004863607528018609  dirty rate =  split 0.3
+2025-03-25 09:57:32,174 - sample.py[line:100] - INFO: EPOCH: 70 train: lr: 0.007479726264351618 " " acc rate:0.00888137026855572  dirty rate =  split 0.3
+2025-03-25 09:57:32,287 - sample.py[line:111] - INFO: EPOCH:70test: lr :0.007479726264351618  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:33,054 - sample.py[line:100] - INFO: EPOCH: 71 train: lr: 0.007416006812042828 " " acc rate:0.021991964474518927  dirty rate =  split 0.3
+2025-03-25 09:57:33,890 - sample.py[line:100] - INFO: EPOCH: 72 train: lr: 0.007351814613722991 " " acc rate:0.00148022837809262  dirty rate =  split 0.3
+2025-03-25 09:57:34,680 - sample.py[line:100] - INFO: EPOCH: 73 train: lr: 0.007287165507856513 " " acc rate:0.028547261577500527  dirty rate =  split 0.3
+2025-03-25 09:57:35,467 - sample.py[line:100] - INFO: EPOCH: 74 train: lr: 0.007222075445642905 " " acc rate:0.0057094523155001055  dirty rate =  split 0.3
+2025-03-25 09:57:36,229 - sample.py[line:100] - INFO: EPOCH: 75 train: lr: 0.007156560487081053 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:37,061 - sample.py[line:100] - INFO: EPOCH: 76 train: lr: 0.007090636797006658 " " acc rate:0.0057094523155001055  dirty rate =  split 0.3
+2025-03-25 09:57:37,879 - sample.py[line:100] - INFO: EPOCH: 77 train: lr: 0.007024320641103813 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:38,679 - sample.py[line:100] - INFO: EPOCH: 78 train: lr: 0.006957628381891673 " " acc rate:0.0033833791499259885  dirty rate =  split 0.3
+2025-03-25 09:57:39,478 - sample.py[line:100] - INFO: EPOCH: 79 train: lr: 0.006890576474687264 " " acc rate:0.02748995559314866  dirty rate =  split 0.3
+2025-03-25 09:57:40,234 - sample.py[line:100] - INFO: EPOCH: 80 train: lr: 0.006823181463545369 " " acc rate:0.05032776485514908  dirty rate =  split 0.3
+2025-03-25 09:57:40,335 - sample.py[line:111] - INFO: EPOCH:80test: lr :0.006823181463545369  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:41,123 - sample.py[line:100] - INFO: EPOCH: 81 train: lr: 0.0067554599771765325 " " acc rate:0.004863607528018609  dirty rate =  split 0.3
+2025-03-25 09:57:42,059 - sample.py[line:100] - INFO: EPOCH: 82 train: lr: 0.006687428724844178 " " acc rate:0.005286529921759357  dirty rate =  split 0.3
+2025-03-25 09:57:42,894 - sample.py[line:100] - INFO: EPOCH: 83 train: lr: 0.006619104492241847 " " acc rate:0.00042292239374074856  dirty rate =  split 0.3
+2025-03-25 09:57:44,007 - sample.py[line:100] - INFO: EPOCH: 84 train: lr: 0.006550504137351576 " " acc rate:0.020511736096426307  dirty rate =  split 0.3
+2025-03-25 09:57:45,168 - sample.py[line:100] - INFO: EPOCH: 85 train: lr: 0.006481644586284443 " " acc rate:0.03298794671177839  dirty rate =  split 0.3
+2025-03-25 09:57:46,343 - sample.py[line:100] - INFO: EPOCH: 86 train: lr: 0.006412542829104307 " " acc rate:0.011630365827870586  dirty rate =  split 0.3
+2025-03-25 09:57:47,522 - sample.py[line:100] - INFO: EPOCH: 87 train: lr: 0.006343215915635763 " " acc rate:0.005497991118629732  dirty rate =  split 0.3
+2025-03-25 09:57:48,531 - sample.py[line:100] - INFO: EPOCH: 88 train: lr: 0.006273680951257343 " " acc rate:0.0518079932332417  dirty rate =  split 0.3
+2025-03-25 09:57:49,704 - sample.py[line:100] - INFO: EPOCH: 89 train: lr: 0.00620395509268104 " " acc rate:0.003594840346796363  dirty rate =  split 0.3
+2025-03-25 09:57:50,850 - sample.py[line:100] - INFO: EPOCH: 90 train: lr: 0.006134055543719124 " " acc rate:0.004229223937407486  dirty rate =  split 0.3
+2025-03-25 09:57:50,966 - sample.py[line:111] - INFO: EPOCH:90test: lr :0.006134055543719124  " " acc rate:0.0  split 0.3
+2025-03-25 09:57:52,085 - sample.py[line:100] - INFO: EPOCH: 91 train: lr: 0.006063999551039371 " " acc rate:0.011630365827870586  dirty rate =  split 0.3
+2025-03-25 09:57:53,252 - sample.py[line:100] - INFO: EPOCH: 92 train: lr: 0.0059938043999097045 " " acc rate:0.005497991118629732  dirty rate =  split 0.3
+2025-03-25 09:57:54,215 - sample.py[line:100] - INFO: EPOCH: 93 train: lr: 0.0059234874099333154 " " acc rate:0.0008458447874814971  dirty rate =  split 0.3
+2025-03-25 09:57:55,092 - sample.py[line:100] - INFO: EPOCH: 94 train: lr: 0.005853065930775303 " " acc rate:0.0797208712201311  dirty rate =  split 0.3
+2025-03-25 09:57:56,230 - sample.py[line:100] - INFO: EPOCH: 95 train: lr: 0.0057825573378819115 " " acc rate:0.004017762740537111  dirty rate =  split 0.3
+2025-03-25 09:57:57,151 - sample.py[line:100] - INFO: EPOCH: 96 train: lr: 0.005711979028193392 " " acc rate:0.015225206174666949  dirty rate =  split 0.3
+2025-03-25 09:57:58,241 - sample.py[line:100] - INFO: EPOCH: 97 train: lr: 0.005641348415851578 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:57:59,211 - sample.py[line:100] - INFO: EPOCH: 98 train: lr: 0.005570682927903194 " " acc rate:0.00592091351237048  dirty rate =  split 0.3
+2025-03-25 09:57:59,982 - sample.py[line:100] - INFO: EPOCH: 99 train: lr: 0.0055000000000000005 " " acc rate:0.13195178684711356  dirty rate =  split 0.3
+2025-03-25 09:58:00,797 - sample.py[line:100] - INFO: EPOCH: 100 train: lr: 0.005429317072096808 " " acc rate:0.10615352082892789  dirty rate =  split 0.3
+2025-03-25 09:58:00,914 - sample.py[line:111] - INFO: EPOCH:100test: lr :0.005429317072096808  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:01,709 - sample.py[line:100] - INFO: EPOCH: 101 train: lr: 0.005358651584148423 " " acc rate:0.00592091351237048  dirty rate =  split 0.3
+2025-03-25 09:58:02,456 - sample.py[line:100] - INFO: EPOCH: 102 train: lr: 0.005288020971806609 " " acc rate:0.006132374709240854  dirty rate =  split 0.3
+2025-03-25 09:58:03,187 - sample.py[line:100] - INFO: EPOCH: 103 train: lr: 0.0052174426621180905 " " acc rate:0.0  dirty rate =  split 0.3
+2025-03-25 09:58:03,959 - sample.py[line:100] - INFO: EPOCH: 104 train: lr: 0.005146934069224699 " " acc rate:0.0012687671812222456  dirty rate =  split 0.3
+2025-03-25 09:58:04,746 - sample.py[line:100] - INFO: EPOCH: 105 train: lr: 0.005076512590066686 " " acc rate:0.003594840346796363  dirty rate =  split 0.3
+2025-03-25 09:58:05,495 - sample.py[line:100] - INFO: EPOCH: 106 train: lr: 0.005006195600090297 " " acc rate:0.04736730809896384  dirty rate =  split 0.3
+2025-03-25 09:58:06,255 - sample.py[line:100] - INFO: EPOCH: 107 train: lr: 0.004936000448960632 " " acc rate:0.07633749207020511  dirty rate =  split 0.3
+2025-03-25 09:58:07,004 - sample.py[line:100] - INFO: EPOCH: 108 train: lr: 0.00486594445628088 " " acc rate:0.0222034256713893  dirty rate =  split 0.3
+2025-03-25 09:58:07,759 - sample.py[line:100] - INFO: EPOCH: 109 train: lr: 0.004796044907318962 " " acc rate:0.009515753859166844  dirty rate =  split 0.3
+2025-03-25 09:58:08,529 - sample.py[line:100] - INFO: EPOCH: 110 train: lr: 0.004726319048742657 " " acc rate:0.015225206174666949  dirty rate =  split 0.3
+2025-03-25 09:58:08,633 - sample.py[line:111] - INFO: EPOCH:110test: lr :0.004726319048742657  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:09,478 - sample.py[line:100] - INFO: EPOCH: 111 train: lr: 0.00465678408436424 " " acc rate:0.009727215056037217  dirty rate =  split 0.3
+2025-03-25 09:58:10,300 - sample.py[line:100] - INFO: EPOCH: 112 train: lr: 0.004587457170895695 " " acc rate:0.011207443434129837  dirty rate =  split 0.3
+2025-03-25 09:58:11,071 - sample.py[line:100] - INFO: EPOCH: 113 train: lr: 0.00451835541371556 " " acc rate:0.014167900190315077  dirty rate =  split 0.3
+2025-03-25 09:58:11,845 - sample.py[line:100] - INFO: EPOCH: 114 train: lr: 0.004449495862648426 " " acc rate:0.010150137449777965  dirty rate =  split 0.3
+2025-03-25 09:58:12,643 - sample.py[line:100] - INFO: EPOCH: 115 train: lr: 0.004380895507758154 " " acc rate:0.14611968703742864  dirty rate =  split 0.3
+2025-03-25 09:58:13,422 - sample.py[line:100] - INFO: EPOCH: 116 train: lr: 0.004312571275155823 " " acc rate:0.1289913300909283  dirty rate =  split 0.3
+2025-03-25 09:58:14,227 - sample.py[line:100] - INFO: EPOCH: 117 train: lr: 0.004244540022823469 " " acc rate:0.00021146119687037428  dirty rate =  split 0.3
+2025-03-25 09:58:15,016 - sample.py[line:100] - INFO: EPOCH: 118 train: lr: 0.004176818536454633 " " acc rate:0.00888137026855572  dirty rate =  split 0.3
+2025-03-25 09:58:15,802 - sample.py[line:100] - INFO: EPOCH: 119 train: lr: 0.004109423525312739 " " acc rate:0.051173609642630576  dirty rate =  split 0.3
+2025-03-25 09:58:16,591 - sample.py[line:100] - INFO: EPOCH: 120 train: lr: 0.004042371618108328 " " acc rate:0.08458447874814971  dirty rate =  split 0.3
+2025-03-25 09:58:16,695 - sample.py[line:111] - INFO: EPOCH:120test: lr :0.004042371618108328  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:17,498 - sample.py[line:100] - INFO: EPOCH: 121 train: lr: 0.003975679358896189 " " acc rate:0.07612603087333475  dirty rate =  split 0.3
+2025-03-25 09:58:18,297 - sample.py[line:100] - INFO: EPOCH: 122 train: lr: 0.003909363202993343 " " acc rate:0.062381053076760416  dirty rate =  split 0.3
+2025-03-25 09:58:19,077 - sample.py[line:100] - INFO: EPOCH: 123 train: lr: 0.0038434395129189505 " " acc rate:0.00042292239374074856  dirty rate =  split 0.3
+2025-03-25 09:58:19,873 - sample.py[line:100] - INFO: EPOCH: 124 train: lr: 0.0037779245543570978 " " acc rate:0.008246986677944598  dirty rate =  split 0.3
+2025-03-25 09:58:20,692 - sample.py[line:100] - INFO: EPOCH: 125 train: lr: 0.003712834492143487 " " acc rate:0.1579615140621696  dirty rate =  split 0.3
+2025-03-25 09:58:21,522 - sample.py[line:100] - INFO: EPOCH: 126 train: lr: 0.0036481853862770108 " " acc rate:0.17805032776485516  dirty rate =  split 0.3
+2025-03-25 09:58:22,306 - sample.py[line:100] - INFO: EPOCH: 127 train: lr: 0.0035839931879571734 " " acc rate:0.19771621907379996  dirty rate =  split 0.3
+2025-03-25 09:58:23,052 - sample.py[line:100] - INFO: EPOCH: 128 train: lr: 0.003520273735648382 " " acc rate:0.13702685557200253  dirty rate =  split 0.3
+2025-03-25 09:58:23,829 - sample.py[line:100] - INFO: EPOCH: 129 train: lr: 0.00345704275117204 " " acc rate:0.144639458659336  dirty rate =  split 0.3
+2025-03-25 09:58:24,588 - sample.py[line:100] - INFO: EPOCH: 130 train: lr: 0.003394315835827421 " " acc rate:0.10911397758511313  dirty rate =  split 0.3
+2025-03-25 09:58:24,692 - sample.py[line:111] - INFO: EPOCH:130test: lr :0.003394315835827421  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:25,752 - sample.py[line:100] - INFO: EPOCH: 131 train: lr: 0.003332108466542281 " " acc rate:0.01966589130894481  dirty rate =  split 0.3
+2025-03-25 09:58:26,623 - sample.py[line:100] - INFO: EPOCH: 132 train: lr: 0.003270435992054166 " " acc rate:0.024740960033833793  dirty rate =  split 0.3
+2025-03-25 09:58:27,405 - sample.py[line:100] - INFO: EPOCH: 133 train: lr: 0.0032093136291233295 " " acc rate:0.021780503277648553  dirty rate =  split 0.3
+2025-03-25 09:58:28,197 - sample.py[line:100] - INFO: EPOCH: 134 train: lr: 0.0031487564587782306 " " acc rate:0.048001691689574966  dirty rate =  split 0.3
+2025-03-25 09:58:28,986 - sample.py[line:100] - INFO: EPOCH: 135 train: lr: 0.0030887794225945143 " " acc rate:0.07781772044829774  dirty rate =  split 0.3
+2025-03-25 09:58:29,778 - sample.py[line:100] - INFO: EPOCH: 136 train: lr: 0.0030293973190084066 " " acc rate:0.09663776696976105  dirty rate =  split 0.3
+2025-03-25 09:58:30,583 - sample.py[line:100] - INFO: EPOCH: 137 train: lr: 0.0029706247996654123 " " acc rate:0.13279763163459504  dirty rate =  split 0.3
+2025-03-25 09:58:31,401 - sample.py[line:100] - INFO: EPOCH: 138 train: lr: 0.002912476365805247 " " acc rate:0.1488686825967435  dirty rate =  split 0.3
+2025-03-25 09:58:32,193 - sample.py[line:100] - INFO: EPOCH: 139 train: lr: 0.0028549663646838717 " " acc rate:0.13935292873757665  dirty rate =  split 0.3
+2025-03-25 09:58:32,958 - sample.py[line:100] - INFO: EPOCH: 140 train: lr: 0.0027981089860335227 " " acc rate:0.11630365827870585  dirty rate =  split 0.3
+2025-03-25 09:58:33,063 - sample.py[line:111] - INFO: EPOCH:140test: lr :0.0027981089860335227  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:33,880 - sample.py[line:100] - INFO: EPOCH: 141 train: lr: 0.0027419182585616056 " " acc rate:0.09896384013533517  dirty rate =  split 0.3
+2025-03-25 09:58:34,682 - sample.py[line:100] - INFO: EPOCH: 142 train: lr: 0.0026864080464893266 " " acc rate:0.027912877986889406  dirty rate =  split 0.3
+2025-03-25 09:58:35,453 - sample.py[line:100] - INFO: EPOCH: 143 train: lr: 0.0026315920461308963 " " acc rate:0.016916895749629943  dirty rate =  split 0.3
+2025-03-25 09:58:36,241 - sample.py[line:100] - INFO: EPOCH: 144 train: lr: 0.0025774837825141743 " " acc rate:0.05730598435187143  dirty rate =  split 0.3
+2025-03-25 09:58:37,033 - sample.py[line:100] - INFO: EPOCH: 145 train: lr: 0.0025240966060435677 " " acc rate:0.09684922816663143  dirty rate =  split 0.3
+2025-03-25 09:58:37,801 - sample.py[line:100] - INFO: EPOCH: 146 train: lr: 0.0024714436892060198 " " acc rate:0.11397758511313175  dirty rate =  split 0.3
+2025-03-25 09:58:38,586 - sample.py[line:100] - INFO: EPOCH: 147 train: lr: 0.002419538023320901 " " acc rate:0.17974201733981815  dirty rate =  split 0.3
+2025-03-25 09:58:39,417 - sample.py[line:100] - INFO: EPOCH: 148 train: lr: 0.0023683924153345857 " " acc rate:0.20490589976739268  dirty rate =  split 0.3
+2025-03-25 09:58:40,200 - sample.py[line:100] - INFO: EPOCH: 149 train: lr: 0.0023180194846605367 " " acc rate:0.21590188200465216  dirty rate =  split 0.3
+2025-03-25 09:58:40,959 - sample.py[line:100] - INFO: EPOCH: 150 train: lr: 0.002268431660065651 " " acc rate:0.22837809262000422  dirty rate =  split 0.3
+2025-03-25 09:58:41,065 - sample.py[line:111] - INFO: EPOCH:150test: lr :0.002268431660065651  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:41,845 - sample.py[line:100] - INFO: EPOCH: 151 train: lr: 0.002219641176603649 " " acc rate:0.23725946288855995  dirty rate =  split 0.3
+2025-03-25 09:58:42,656 - sample.py[line:100] - INFO: EPOCH: 152 train: lr: 0.002171660072596257 " " acc rate:0.24064284203848593  dirty rate =  split 0.3
+2025-03-25 09:58:43,437 - sample.py[line:100] - INFO: EPOCH: 153 train: lr: 0.0021245001866629326 " " acc rate:0.2302812433918376  dirty rate =  split 0.3
+2025-03-25 09:58:44,194 - sample.py[line:100] - INFO: EPOCH: 154 train: lr: 0.002078173154799861 " " acc rate:0.21569042080778178  dirty rate =  split 0.3
+2025-03-25 09:58:45,002 - sample.py[line:100] - INFO: EPOCH: 155 train: lr: 0.002032690407508949 " " acc rate:0.20532882216113343  dirty rate =  split 0.3
+2025-03-25 09:58:45,764 - sample.py[line:100] - INFO: EPOCH: 156 train: lr: 0.001988063166977517 " " acc rate:0.2180164939733559  dirty rate =  split 0.3
+2025-03-25 09:58:46,521 - sample.py[line:100] - INFO: EPOCH: 157 train: lr: 0.0019443024443093933 " " acc rate:0.27934024106576444  dirty rate =  split 0.3
+2025-03-25 09:58:47,298 - sample.py[line:100] - INFO: EPOCH: 158 train: lr: 0.0019014190368080931 " " acc rate:0.2850496933812645  dirty rate =  split 0.3
+2025-03-25 09:58:48,032 - sample.py[line:100] - INFO: EPOCH: 159 train: lr: 0.0018594235253127371 " " acc rate:0.2880101501374498  dirty rate =  split 0.3
+2025-03-25 09:58:48,815 - sample.py[line:100] - INFO: EPOCH: 160 train: lr: 0.0018183262715873953 " " acc rate:0.29393106364982025  dirty rate =  split 0.3
+2025-03-25 09:58:48,925 - sample.py[line:111] - INFO: EPOCH:160test: lr :0.0018183262715873953  " " acc rate:0.0  split 0.3
+2025-03-25 09:58:49,710 - sample.py[line:100] - INFO: EPOCH: 161 train: lr: 0.001778137415764473 " " acc rate:0.2869528441530979  dirty rate =  split 0.3
+2025-03-25 09:58:50,517 - sample.py[line:100] - INFO: EPOCH: 162 train: lr: 0.001738866873842785 " " acc rate:0.21843941636709663  dirty rate =  split 0.3
+2025-03-25 09:58:51,289 - sample.py[line:100] - INFO: EPOCH: 163 train: lr: 0.0017005243352409332 " " acc rate:0.12032142101924297  dirty rate =  split 0.3
+2025-03-25 09:58:52,047 - sample.py[line:100] - INFO: EPOCH: 164 train: lr: 0.0016631192604065863 " " acc rate:0.16832311270881795  dirty rate =  split 0.3
+2025-03-25 09:58:52,858 - sample.py[line:100] - INFO: EPOCH: 165 train: lr: 0.0016266608784822533 " " acc rate:0.16515119475576232  dirty rate =  split 0.3
+2025-03-25 09:58:53,626 - sample.py[line:100] - INFO: EPOCH: 166 train: lr: 0.0015911581850281391 " " acc rate:0.18693169803341086  dirty rate =  split 0.3
+2025-03-25 09:58:54,406 - sample.py[line:100] - INFO: EPOCH: 167 train: lr: 0.001556619939802614 " " acc rate:0.18968069359272574  dirty rate =  split 0.3
+2025-03-25 09:58:55,191 - sample.py[line:100] - INFO: EPOCH: 168 train: lr: 0.0015230546646008794 " " acc rate:0.20257982660181856  dirty rate =  split 0.3
+2025-03-25 09:58:56,018 - sample.py[line:100] - INFO: EPOCH: 169 train: lr: 0.001490470641152345 " " acc rate:0.22647494184817085  dirty rate =  split 0.3
+2025-03-25 09:58:56,809 - sample.py[line:100] - INFO: EPOCH: 170 train: lr: 0.0014588759090772303 " " acc rate:0.24148868682596744  dirty rate =  split 0.3
+2025-03-25 09:58:56,919 - sample.py[line:111] - INFO: EPOCH:170test: lr :0.0014588759090772303  " " acc rate:0.025172754195459033  split 0.3
+2025-03-25 09:58:57,702 - sample.py[line:100] - INFO: EPOCH: 171 train: lr: 0.001428278263902913 " " acc rate:0.258194121378727  dirty rate =  split 0.3
+2025-03-25 09:58:58,499 - sample.py[line:100] - INFO: EPOCH: 172 train: lr: 0.0013986852551404973 " " acc rate:0.27320786635652355  dirty rate =  split 0.3
+2025-03-25 09:58:59,299 - sample.py[line:100] - INFO: EPOCH: 173 train: lr: 0.001370104184422086 " " acc rate:0.2797631634595052  dirty rate =  split 0.3
+2025-03-25 09:59:00,083 - sample.py[line:100] - INFO: EPOCH: 174 train: lr: 0.0013425421036992106 " " acc rate:0.2808204694438571  dirty rate =  split 0.3
+2025-03-25 09:59:00,898 - sample.py[line:100] - INFO: EPOCH: 175 train: lr: 0.001316005813502869 " " acc rate:0.2757454007189681  dirty rate =  split 0.3
+2025-03-25 09:59:01,682 - sample.py[line:100] - INFO: EPOCH: 176 train: lr: 0.001290501861265597 " " acc rate:0.2672869528441531  dirty rate =  split 0.3
+2025-03-25 09:59:02,480 - sample.py[line:100] - INFO: EPOCH: 177 train: lr: 0.0012660365397059855 " " acc rate:0.2744766335377458  dirty rate =  split 0.3
+2025-03-25 09:59:03,259 - sample.py[line:100] - INFO: EPOCH: 178 train: lr: 0.0012426158852760461 " " acc rate:0.27172763797843097  dirty rate =  split 0.3
+2025-03-25 09:59:04,065 - sample.py[line:100] - INFO: EPOCH: 179 train: lr: 0.001220245676671809 " " acc rate:0.2704588707972087  dirty rate =  split 0.3
+2025-03-25 09:59:04,850 - sample.py[line:100] - INFO: EPOCH: 180 train: lr: 0.0011989314334075146 " " acc rate:0.2641150348910975  dirty rate =  split 0.3
+2025-03-25 09:59:04,958 - sample.py[line:111] - INFO: EPOCH:180test: lr :0.0011989314334075146  " " acc rate:0.0  split 0.3
+2025-03-25 09:59:05,723 - sample.py[line:100] - INFO: EPOCH: 181 train: lr: 0.0011786784144537567 " " acc rate:0.2715161767815606  dirty rate =  split 0.3
+2025-03-25 09:59:06,540 - sample.py[line:100] - INFO: EPOCH: 182 train: lr: 0.0011594916169399092 " " acc rate:0.2871643053499683  dirty rate =  split 0.3
+2025-03-25 09:59:07,331 - sample.py[line:100] - INFO: EPOCH: 183 train: lr: 0.0011413757749211607 " " acc rate:0.2964685980122648  dirty rate =  split 0.3
+2025-03-25 09:59:08,098 - sample.py[line:100] - INFO: EPOCH: 184 train: lr: 0.0011243353582104556 " " acc rate:0.30302389511524636  dirty rate =  split 0.3
+2025-03-25 09:59:08,887 - sample.py[line:100] - INFO: EPOCH: 185 train: lr: 0.0011083745712756371 " " acc rate:0.30725311905265384  dirty rate =  split 0.3
+2025-03-25 09:59:09,616 - sample.py[line:100] - INFO: EPOCH: 186 train: lr: 0.0010934973522020537 " " acc rate:0.31211672658067247  dirty rate =  split 0.3
+2025-03-25 09:59:10,373 - sample.py[line:100] - INFO: EPOCH: 187 train: lr: 0.0010797073717209009 " " acc rate:0.31528864453372807  dirty rate =  split 0.3
+2025-03-25 09:59:11,129 - sample.py[line:100] - INFO: EPOCH: 188 train: lr: 0.0010670080323035176 " " acc rate:0.31867202368365405  dirty rate =  split 0.3
+2025-03-25 09:59:11,891 - sample.py[line:100] - INFO: EPOCH: 189 train: lr: 0.0010554024673218806 " " acc rate:0.32205540283358003  dirty rate =  split 0.3
+2025-03-25 09:59:12,636 - sample.py[line:100] - INFO: EPOCH: 190 train: lr: 0.001044893540275491 " " acc rate:0.3275533939522098  dirty rate =  split 0.3
+2025-03-25 09:59:12,737 - sample.py[line:111] - INFO: EPOCH:190test: lr :0.001044893540275491  " " acc rate:0.0019743336623889436  split 0.3
+2025-03-25 09:59:13,474 - sample.py[line:100] - INFO: EPOCH: 191 train: lr: 0.00103548384408485 " " acc rate:0.3324170014802284  dirty rate =  split 0.3
+2025-03-25 09:59:14,263 - sample.py[line:100] - INFO: EPOCH: 192 train: lr: 0.0010271757004516918 " " acc rate:0.33728060900824697  dirty rate =  split 0.3
+2025-03-25 09:59:15,012 - sample.py[line:100] - INFO: EPOCH: 193 train: lr: 0.00101997115928614 " " acc rate:0.34150983294565446  dirty rate =  split 0.3
+2025-03-25 09:59:15,738 - sample.py[line:100] - INFO: EPOCH: 194 train: lr: 0.0010138719982009242 " " acc rate:0.34425882850496936  dirty rate =  split 0.3
+2025-03-25 09:59:16,485 - sample.py[line:100] - INFO: EPOCH: 195 train: lr: 0.001008879722072778 " " acc rate:0.34743074645802496  dirty rate =  split 0.3
+2025-03-25 09:59:17,269 - sample.py[line:100] - INFO: EPOCH: 196 train: lr: 0.0010049955626711354 " " acc rate:0.35377458236413617  dirty rate =  split 0.3
+2025-03-25 09:59:18,008 - sample.py[line:100] - INFO: EPOCH: 197 train: lr: 0.0010022204783542079 " " acc rate:0.35884965108902517  dirty rate =  split 0.3
+2025-03-25 09:59:18,773 - sample.py[line:100] - INFO: EPOCH: 198 train: lr: 0.0010005551538325274 " " acc rate:0.36138718545146964  dirty rate =  split 0.3
+2025-03-25 09:59:19,554 - sample.py[line:100] - INFO: EPOCH: 199 train: lr: 0.010000000000000002 " " acc rate:0.36646225417635864  dirty rate =  split 0.3
+2025-03-25 09:59:20,951 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 3])  Score: 0.19042920572274297
+2025-03-25 09:59:21,075 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 7])  Score: 0.4543660582141095
+2025-03-25 09:59:21,271 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 11])  Score: 0.605821410952146
+2025-03-25 09:59:21,570 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 15])  Score: 0.6931425752343364
+2025-03-25 09:59:21,961 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 19])  Score: 0.7444499259990133
+2025-03-25 09:59:22,290 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 23])  Score: 0.7646768623581648
+2025-03-25 09:59:22,403 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 27])  Score: 0.7849037987173162
+2025-03-25 09:59:22,581 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 31])  Score: 0.801677355698076
+2025-03-25 09:59:22,720 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 35])  Score: 0.801677355698076
+2025-03-25 09:59:22,838 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 39])  Score: 0.807104094721263
+2025-03-25 09:59:22,966 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 43])  Score: 0.807104094721263
+2025-03-25 09:59:23,121 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 47])  Score: 0.8179575727676369
+2025-03-25 09:59:23,233 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 50])  Score: 0.8105574740996546
+2025-03-25 09:59:23,328 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 54])  Score: 0.8159842131228416
+2025-03-25 09:59:23,516 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 58])  Score: 0.8154908732116428
+2025-03-25 09:59:23,699 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 62])  Score: 0.8194375925012334
+2025-03-25 09:59:23,782 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 66])  Score: 0.8140108534780464
+2025-03-25 09:59:23,921 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 70])  Score: 0.8164775530340405
+2025-03-25 09:59:24,028 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 74])  Score: 0.8209176122348298
+2025-03-25 09:59:24,128 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 78])  Score: 0.8179575727676369
+2025-03-25 09:59:24,253 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 82])  Score: 0.8184509126788357
+2025-03-25 09:59:24,342 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 86])  Score: 0.8214109521460287
+2025-03-25 09:59:24,458 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 90])  Score: 0.8194375925012334
+2025-03-25 09:59:24,590 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 94])  Score: 0.8075974346324618
+2025-03-25 09:59:24,710 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 98])  Score: 0.8046373951652689
+2025-03-25 09:59:24,860 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 101])  Score: 0.7982239763196842
+2025-03-25 09:59:24,987 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 105])  Score: 0.7923038973852985
+2025-03-25 09:59:25,133 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 109])  Score: 0.7913172175629009
+2025-03-25 09:59:25,228 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 113])  Score: 0.7814504193389246
+2025-03-25 09:59:25,353 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 117])  Score: 0.7849037987173162
+2025-03-25 09:59:25,486 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 121])  Score: 0.7868771583621115
+2025-03-25 09:59:25,621 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 125])  Score: 0.7844104588061174
+2025-03-25 09:59:25,751 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 129])  Score: 0.7829304390725209
+2025-03-25 09:59:25,879 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 133])  Score: 0.7819437592501234
+2025-03-25 09:59:26,033 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 137])  Score: 0.7804637395165269
+2025-03-25 09:59:26,129 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 141])  Score: 0.7784903798717316
+2025-03-25 09:59:26,231 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 145])  Score: 0.7715836211149482
+2025-03-25 09:59:26,338 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 148])  Score: 0.7740503206709423
+2025-03-25 09:59:26,487 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 152])  Score: 0.7745436605821411
+2025-03-25 09:59:26,598 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 156])  Score: 0.7730636408485446
+2025-03-25 09:59:26,745 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 160])  Score: 0.7676369018253577
+2025-03-25 09:59:26,849 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 164])  Score: 0.7651702022693636
+2025-03-25 09:59:26,987 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 168])  Score: 0.7602368031573754
+2025-03-25 09:59:27,137 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 172])  Score: 0.7651702022693636
+2025-03-25 09:59:27,275 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 176])  Score: 0.764183522446966
+2025-03-25 09:59:27,385 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 180])  Score: 0.761223482979773
+2025-03-25 09:59:27,493 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 184])  Score: 0.7557967439565861
+2025-03-25 09:59:27,633 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 188])  Score: 0.7622101628021707
+2025-03-25 09:59:27,775 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 192])  Score: 0.7572767636901825
+2025-03-25 09:59:27,893 - sample.py[line:149] - INFO: Feature_shape: torch.Size([6755, 196])  Score: 0.7582634435125801
+2025-03-25 09:59:32,191 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 61])  Score: 0.8199309324124322
+2025-03-25 09:59:32,297 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 62])  Score: 0.8194375925012334
+2025-03-25 09:59:32,417 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 63])  Score: 0.8238776517020227
+2025-03-25 09:59:32,552 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 64])  Score: 0.8179575727676369
+2025-03-25 09:59:32,669 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 65])  Score: 0.8184509126788357
+2025-03-25 09:59:32,808 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 66])  Score: 0.8140108534780464
+2025-03-25 09:59:32,930 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 67])  Score: 0.8214109521460287
+2025-03-25 09:59:33,051 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 68])  Score: 0.8199309324124322
+2025-03-25 09:59:33,190 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 69])  Score: 0.8194375925012334
+2025-03-25 09:59:33,273 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 70])  Score: 0.8164775530340405
+2025-03-25 09:59:33,352 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 71])  Score: 0.8154908732116428
+2025-03-25 09:59:33,482 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 72])  Score: 0.8159842131228416
+2025-03-25 09:59:33,600 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 73])  Score: 0.8209176122348298
+2025-03-25 09:59:33,684 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 74])  Score: 0.8209176122348298
+2025-03-25 09:59:33,797 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 75])  Score: 0.8179575727676369
+2025-03-25 09:59:33,915 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 76])  Score: 0.8194375925012334
+2025-03-25 09:59:34,001 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 77])  Score: 0.8169708929452393
+2025-03-25 09:59:34,120 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 78])  Score: 0.8179575727676369
+2025-03-25 09:59:34,243 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 79])  Score: 0.8189442525900346
+2025-03-25 09:59:34,326 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 80])  Score: 0.8199309324124322
+2025-03-25 09:59:34,412 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 81])  Score: 0.8199309324124322
+2025-03-25 09:59:34,534 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 82])  Score: 0.8184509126788357
+2025-03-25 09:59:34,625 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 83])  Score: 0.8179575727676369
+2025-03-25 09:59:34,713 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 84])  Score: 0.8189442525900346
+2025-03-25 09:59:34,830 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 85])  Score: 0.8214109521460287
+2025-03-25 09:59:34,963 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 86])  Score: 0.8214109521460287
+2025-03-25 09:59:35,086 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 87])  Score: 0.8179575727676369
+2025-03-25 09:59:35,228 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 88])  Score: 0.8169708929452393
+2025-03-25 09:59:35,349 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 89])  Score: 0.8179575727676369
+2025-03-25 09:59:35,484 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 90])  Score: 0.8194375925012334
+2025-03-25 09:59:35,566 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 91])  Score: 0.8159842131228416
+2025-03-25 09:59:35,660 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 92])  Score: 0.8125308337444499
+2025-03-25 09:59:35,748 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 93])  Score: 0.8080907745436606
+2025-03-25 09:59:35,833 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 94])  Score: 0.8075974346324618
+2025-03-25 09:59:35,954 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 95])  Score: 0.8006906758756783
+2025-03-25 09:59:36,041 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 96])  Score: 0.8036507153428712
+2025-03-25 09:59:36,129 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 97])  Score: 0.8051307350764677
+2025-03-25 09:59:36,254 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 98])  Score: 0.8046373951652689
+2025-03-25 09:59:36,348 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 99])  Score: 0.8001973359644795
+2025-03-25 09:59:36,436 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 100])  Score: 0.7977306364084854
+2025-03-25 09:59:36,562 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 101])  Score: 0.7982239763196842
+2025-03-25 09:59:36,691 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 102])  Score: 0.7997039960532807
+2025-03-25 09:59:36,780 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 103])  Score: 0.7957572767636902
+2025-03-25 09:59:36,905 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 104])  Score: 0.7942772570300938
+2025-03-25 09:59:36,998 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 105])  Score: 0.7923038973852985
+2025-03-25 09:59:37,129 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 106])  Score: 0.7942772570300938
+2025-03-25 09:59:37,226 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 107])  Score: 0.7918105574740997
+2025-03-25 09:59:37,396 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 108])  Score: 0.7923038973852985
+2025-03-25 09:59:37,526 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 109])  Score: 0.7913172175629009
+2025-03-25 09:59:37,655 - sample.py[line:207] - INFO: Feature_shape: torch.Size([6755, 110])  Score: 0.7878638381845091
