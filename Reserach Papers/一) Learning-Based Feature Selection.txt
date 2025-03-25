@@ -1,0 +1,24 @@
+一) Learning-Based Feature Selection in Shallow Learning:
+(1) Yu Xue, Chenyi Zhang, A novel importance-based particle swarm optimization with deep learning method for solving large-scale feature selection problems, Swarm and Evolutionary Computation, 2024.
+PDF and Code:
+https://github.com/xueyunuist/A_novel_importance_guided_particle_swarm_optimization_based_on_MLP
+(2) Yu Xue, Chenyi Zhang, Ferrante Neri, et al., An external attention-based feature ranker for large-scale feature selection, Knowledge-Based Systems. 281: 111084, 2023.
+PDF and Code:
+https://github.com/xueyunuist/An_external_attention_based_feature_ranker_for_large_scale_feature_selection
+(二) Learning-Based Feature Map Selection in Deep Learning
+(1) Yu Xue, Xiaolong Han, and Zehong Wang, Self-adaptive weight based on dual-attention for differentiable neural architecture search, IEEE Transactions on Industrial Informatics, vol. 20, no. 4, pp. 6394-6403, 2024.
+PDF and Code:
+https://github.com/xueyunuist/Self_Adaptive_Weight_Based_on_Dual_Attention_for_Differentiable_Neural_Architecture_Search
+(2) Yu Xue, Kun Chen, Ferrante Neri, Differentiable architecture search with attention mechanism for generative adversarial networks, IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 8, no. 4, pp. 3141-3151,2024.
+PDF and Code:
+https://github.com/xueyunuist/Differentiable_architecture_search_with_attention_mechanisms_for_generative_adversarial_networks
+(3) Yu Xue, Lu Changchang, Neri Ferrante, and Qin Jiafeng, Improved differentiable architecture search with multi-stage progressive partial channel connections, IEEE Transactions on Emerging Topics in Computational Intelligence, vol. 8, no. 1, pp. 32-43, 2024.
+PDF and Code:
+https://github.com/xueyunuist/Improved_differentiable_architecture_search_with_multi_stage_rogressive_partial_channel_connections
+(4) Yu Xue and Jiafeng Qin, Partial connection based on channel attention for differentiable neural architecture search, IEEE Transactions on Industrial Informatics, vol. 19, no. 5, pp. 6804-6813, 2023.
+PDF and Code:
+https://github.com/xueyunuist/Partial_Connection_Based_on_Channel_Attention_for_Differentiable_Neural_Architecture_Search
+ 
+GitHub - xueyunuist/A_novel_importance_guided_particle_swarm_optimization_based_on_MLP
+Contribute to xueyunuist/A_novel_importance_guided_particle_swarm_optimization_based_on_MLP development by creating an account on GitHub.
+ 
