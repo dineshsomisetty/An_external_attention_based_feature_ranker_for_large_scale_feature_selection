@@ -1,0 +1,945 @@
+2025-04-11 14:28:32,332 - sample.py[line:100] - INFO: EPOCH: 0 train: lr: 0.009999444846167473 " " acc rate:0.23839009287925697  dirty rate =  split 0.3
+2025-04-11 14:28:32,410 - sample.py[line:111] - INFO: EPOCH:0test: lr :0.009999444846167473  " " acc rate:0.1115702479338843  split 0.3
+2025-04-11 14:28:32,972 - sample.py[line:100] - INFO: EPOCH: 1 train: lr: 0.009997779521645794 " " acc rate:0.3874391862007961  dirty rate =  split 0.3
+2025-04-11 14:28:33,535 - sample.py[line:100] - INFO: EPOCH: 2 train: lr: 0.009995004437328866 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:34,085 - sample.py[line:100] - INFO: EPOCH: 3 train: lr: 0.009991120277927222 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:34,644 - sample.py[line:100] - INFO: EPOCH: 4 train: lr: 0.009986128001799079 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:35,182 - sample.py[line:100] - INFO: EPOCH: 5 train: lr: 0.009980028840713862 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:35,729 - sample.py[line:100] - INFO: EPOCH: 6 train: lr: 0.009972824299548311 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:36,272 - sample.py[line:100] - INFO: EPOCH: 7 train: lr: 0.009964516155915152 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:36,820 - sample.py[line:100] - INFO: EPOCH: 8 train: lr: 0.00995510645972451 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:37,371 - sample.py[line:100] - INFO: EPOCH: 9 train: lr: 0.00994459753267812 " " acc rate:0.43432109685979653  dirty rate =  split 0.3
+2025-04-11 14:28:37,946 - sample.py[line:100] - INFO: EPOCH: 10 train: lr: 0.009932991967696484 " " acc rate:0.4520123839009288  dirty rate =  split 0.3
+2025-04-11 14:28:38,027 - sample.py[line:111] - INFO: EPOCH:10test: lr :0.009932991967696484  " " acc rate:0.41115702479338845  split 0.3
+2025-04-11 14:28:38,620 - sample.py[line:100] - INFO: EPOCH: 11 train: lr: 0.0099202926282791 " " acc rate:0.43343653250773995  dirty rate =  split 0.3
+2025-04-11 14:28:39,226 - sample.py[line:100] - INFO: EPOCH: 12 train: lr: 0.009906502647797948 " " acc rate:0.4157452454666077  dirty rate =  split 0.3
+2025-04-11 14:28:39,839 - sample.py[line:100] - INFO: EPOCH: 13 train: lr: 0.009891625428724366 " " acc rate:0.4237063246351172  dirty rate =  split 0.3
+2025-04-11 14:28:40,475 - sample.py[line:100] - INFO: EPOCH: 14 train: lr: 0.009875664641789544 " " acc rate:0.3923042901371075  dirty rate =  split 0.3
+2025-04-11 14:28:41,108 - sample.py[line:100] - INFO: EPOCH: 15 train: lr: 0.00985862422507884 " " acc rate:0.43476337903582485  dirty rate =  split 0.3
+2025-04-11 14:28:41,748 - sample.py[line:100] - INFO: EPOCH: 16 train: lr: 0.009840508383060092 " " acc rate:0.4387439186200796  dirty rate =  split 0.3
+2025-04-11 14:28:42,367 - sample.py[line:100] - INFO: EPOCH: 17 train: lr: 0.009821321585546244 " " acc rate:0.43343653250773995  dirty rate =  split 0.3
+2025-04-11 14:28:43,027 - sample.py[line:100] - INFO: EPOCH: 18 train: lr: 0.009801068566592488 " " acc rate:0.3657673595754091  dirty rate =  split 0.3
+2025-04-11 14:28:43,627 - sample.py[line:100] - INFO: EPOCH: 19 train: lr: 0.009779754323328192 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:44,195 - sample.py[line:100] - INFO: EPOCH: 20 train: lr: 0.009757384114723953 " " acc rate:0.4294559929234852  dirty rate =  split 0.3
+2025-04-11 14:28:44,268 - sample.py[line:111] - INFO: EPOCH:20test: lr :0.009757384114723953  " " acc rate:0.4090909090909091  split 0.3
+2025-04-11 14:28:44,864 - sample.py[line:100] - INFO: EPOCH: 21 train: lr: 0.009733963460294016 " " acc rate:0.43210968597965504  dirty rate =  split 0.3
+2025-04-11 14:28:45,507 - sample.py[line:100] - INFO: EPOCH: 22 train: lr: 0.009709498138734406 " " acc rate:0.4298982750995135  dirty rate =  split 0.3
+2025-04-11 14:28:46,085 - sample.py[line:100] - INFO: EPOCH: 23 train: lr: 0.009683994186497132 " " acc rate:0.4082264484741265  dirty rate =  split 0.3
+2025-04-11 14:28:46,739 - sample.py[line:100] - INFO: EPOCH: 24 train: lr: 0.009657457896300792 " " acc rate:0.45555064130915524  dirty rate =  split 0.3
+2025-04-11 14:28:47,356 - sample.py[line:100] - INFO: EPOCH: 25 train: lr: 0.009629895815577917 " " acc rate:0.42901371074745687  dirty rate =  split 0.3
+2025-04-11 14:28:47,985 - sample.py[line:100] - INFO: EPOCH: 26 train: lr: 0.009601314744859504 " " acc rate:0.43034055727554177  dirty rate =  split 0.3
+2025-04-11 14:28:48,742 - sample.py[line:100] - INFO: EPOCH: 27 train: lr: 0.009571721736097088 " " acc rate:0.44980097302078725  dirty rate =  split 0.3
+2025-04-11 14:28:49,604 - sample.py[line:100] - INFO: EPOCH: 28 train: lr: 0.00954112409092277 " " acc rate:0.4763379035824856  dirty rate =  split 0.3
+2025-04-11 14:28:50,508 - sample.py[line:100] - INFO: EPOCH: 29 train: lr: 0.009509529358847656 " " acc rate:0.4599734630694383  dirty rate =  split 0.3
+2025-04-11 14:28:51,494 - sample.py[line:100] - INFO: EPOCH: 30 train: lr: 0.009476945335399122 " " acc rate:0.5165855816010615  dirty rate =  split 0.3
+2025-04-11 14:28:51,600 - sample.py[line:111] - INFO: EPOCH:30test: lr :0.009476945335399122  " " acc rate:0.4090909090909091  split 0.3
+2025-04-11 14:28:52,433 - sample.py[line:100] - INFO: EPOCH: 31 train: lr: 0.009443380060197386 " " acc rate:0.4307828394515701  dirty rate =  split 0.3
+2025-04-11 14:28:53,287 - sample.py[line:100] - INFO: EPOCH: 32 train: lr: 0.009408841814971862 " " acc rate:0.5254312251216275  dirty rate =  split 0.3
+2025-04-11 14:28:54,262 - sample.py[line:100] - INFO: EPOCH: 33 train: lr: 0.009373339121517749 " " acc rate:0.5126050420168067  dirty rate =  split 0.3
+2025-04-11 14:28:55,460 - sample.py[line:100] - INFO: EPOCH: 34 train: lr: 0.009336880739593417 " " acc rate:0.4281291463954003  dirty rate =  split 0.3
+2025-04-11 14:28:56,563 - sample.py[line:100] - INFO: EPOCH: 35 train: lr: 0.009299475664759069 " " acc rate:0.5059708093763822  dirty rate =  split 0.3
+2025-04-11 14:28:57,516 - sample.py[line:100] - INFO: EPOCH: 36 train: lr: 0.009261133126157218 " " acc rate:0.4577620521892968  dirty rate =  split 0.3
+2025-04-11 14:28:58,463 - sample.py[line:100] - INFO: EPOCH: 37 train: lr: 0.009221862584235529 " " acc rate:0.48297213622291024  dirty rate =  split 0.3
+2025-04-11 14:28:59,204 - sample.py[line:100] - INFO: EPOCH: 38 train: lr: 0.009181673728412606 " " acc rate:0.5121627598407784  dirty rate =  split 0.3
+2025-04-11 14:28:59,966 - sample.py[line:100] - INFO: EPOCH: 39 train: lr: 0.009140576474687266 " " acc rate:0.49226006191950467  dirty rate =  split 0.3
+2025-04-11 14:29:00,718 - sample.py[line:100] - INFO: EPOCH: 40 train: lr: 0.00909858096319191 " " acc rate:0.4626271561256081  dirty rate =  split 0.3
+2025-04-11 14:29:00,822 - sample.py[line:111] - INFO: EPOCH:40test: lr :0.00909858096319191  " " acc rate:0.4297520661157025  split 0.3
+2025-04-11 14:29:01,558 - sample.py[line:100] - INFO: EPOCH: 41 train: lr: 0.00905569755569061 " " acc rate:0.49624060150375937  dirty rate =  split 0.3
+2025-04-11 14:29:02,354 - sample.py[line:100] - INFO: EPOCH: 42 train: lr: 0.009011936833022486 " " acc rate:0.41707209199469264  dirty rate =  split 0.3
+2025-04-11 14:29:03,117 - sample.py[line:100] - INFO: EPOCH: 43 train: lr: 0.008967309592491052 " " acc rate:0.5033171163202123  dirty rate =  split 0.3
+2025-04-11 14:29:03,856 - sample.py[line:100] - INFO: EPOCH: 44 train: lr: 0.00892182684520014 " " acc rate:0.4369747899159664  dirty rate =  split 0.3
+2025-04-11 14:29:04,567 - sample.py[line:100] - INFO: EPOCH: 45 train: lr: 0.00887549981333707 " " acc rate:0.4984520123839009  dirty rate =  split 0.3
+2025-04-11 14:29:05,280 - sample.py[line:100] - INFO: EPOCH: 46 train: lr: 0.008828339927403745 " " acc rate:0.4626271561256081  dirty rate =  split 0.3
+2025-04-11 14:29:05,949 - sample.py[line:100] - INFO: EPOCH: 47 train: lr: 0.008780358823396353 " " acc rate:0.49270234409553293  dirty rate =  split 0.3
+2025-04-11 14:29:06,645 - sample.py[line:100] - INFO: EPOCH: 48 train: lr: 0.008731568339934352 " " acc rate:0.46926138876603274  dirty rate =  split 0.3
+2025-04-11 14:29:07,349 - sample.py[line:100] - INFO: EPOCH: 49 train: lr: 0.008681980515339464 " " acc rate:0.49889429455992923  dirty rate =  split 0.3
+2025-04-11 14:29:08,033 - sample.py[line:100] - INFO: EPOCH: 50 train: lr: 0.008631607584665415 " " acc rate:0.49624060150375937  dirty rate =  split 0.3
+2025-04-11 14:29:08,118 - sample.py[line:111] - INFO: EPOCH:50test: lr :0.008631607584665415  " " acc rate:0.41735537190082644  split 0.3
+2025-04-11 14:29:08,776 - sample.py[line:100] - INFO: EPOCH: 51 train: lr: 0.0085804619766791 " " acc rate:0.5019902697921274  dirty rate =  split 0.3
+2025-04-11 14:29:09,484 - sample.py[line:100] - INFO: EPOCH: 52 train: lr: 0.00852855631079398 " " acc rate:0.49800973020787265  dirty rate =  split 0.3
+2025-04-11 14:29:10,138 - sample.py[line:100] - INFO: EPOCH: 53 train: lr: 0.008475903393956433 " " acc rate:0.5006634232640425  dirty rate =  split 0.3
+2025-04-11 14:29:10,769 - sample.py[line:100] - INFO: EPOCH: 54 train: lr: 0.008422516217485828 " " acc rate:0.5033171163202123  dirty rate =  split 0.3
+2025-04-11 14:29:11,396 - sample.py[line:100] - INFO: EPOCH: 55 train: lr: 0.008368407953869105 " " acc rate:0.5174701459531181  dirty rate =  split 0.3
+2025-04-11 14:29:12,043 - sample.py[line:100] - INFO: EPOCH: 56 train: lr: 0.008313591953510675 " " acc rate:0.5373728438743919  dirty rate =  split 0.3
+2025-04-11 14:29:12,673 - sample.py[line:100] - INFO: EPOCH: 57 train: lr: 0.008258081741438396 " " acc rate:0.5369305616983635  dirty rate =  split 0.3
+2025-04-11 14:29:13,293 - sample.py[line:100] - INFO: EPOCH: 58 train: lr: 0.00820189101396648 " " acc rate:0.4325519681556833  dirty rate =  split 0.3
+2025-04-11 14:29:13,869 - sample.py[line:100] - INFO: EPOCH: 59 train: lr: 0.00814503363531613 " " acc rate:0.45422379478107033  dirty rate =  split 0.3
+2025-04-11 14:29:14,436 - sample.py[line:100] - INFO: EPOCH: 60 train: lr: 0.008087523634194755 " " acc rate:0.5329500221141088  dirty rate =  split 0.3
+2025-04-11 14:29:14,520 - sample.py[line:111] - INFO: EPOCH:60test: lr :0.008087523634194755  " " acc rate:0.4090909090909091  split 0.3
+2025-04-11 14:29:15,117 - sample.py[line:100] - INFO: EPOCH: 61 train: lr: 0.00802937520033459 " " acc rate:0.5152587350729766  dirty rate =  split 0.3
+2025-04-11 14:29:15,744 - sample.py[line:100] - INFO: EPOCH: 62 train: lr: 0.007970602680991593 " " acc rate:0.5643520566121185  dirty rate =  split 0.3
+2025-04-11 14:29:16,334 - sample.py[line:100] - INFO: EPOCH: 63 train: lr: 0.007911220577405485 " " acc rate:0.5519681556833259  dirty rate =  split 0.3
+2025-04-11 14:29:16,939 - sample.py[line:100] - INFO: EPOCH: 64 train: lr: 0.00785124354122177 " " acc rate:0.5661211853162318  dirty rate =  split 0.3
+2025-04-11 14:29:17,512 - sample.py[line:100] - INFO: EPOCH: 65 train: lr: 0.007790686370876672 " " acc rate:0.5833701901813357  dirty rate =  split 0.3
+2025-04-11 14:29:18,083 - sample.py[line:100] - INFO: EPOCH: 66 train: lr: 0.007729564007945835 " " acc rate:0.539141972578505  dirty rate =  split 0.3
+2025-04-11 14:29:18,653 - sample.py[line:100] - INFO: EPOCH: 67 train: lr: 0.0076678915334577194 " " acc rate:0.44847412649270235  dirty rate =  split 0.3
+2025-04-11 14:29:19,227 - sample.py[line:100] - INFO: EPOCH: 68 train: lr: 0.0076056841641725815 " " acc rate:0.4011499336576736  dirty rate =  split 0.3
+2025-04-11 14:29:19,801 - sample.py[line:100] - INFO: EPOCH: 69 train: lr: 0.007542957248827961 " " acc rate:0.5205661211853162  dirty rate =  split 0.3
+2025-04-11 14:29:20,395 - sample.py[line:100] - INFO: EPOCH: 70 train: lr: 0.007479726264351618 " " acc rate:0.5829279080053074  dirty rate =  split 0.3
+2025-04-11 14:29:20,480 - sample.py[line:111] - INFO: EPOCH:70test: lr :0.007479726264351618  " " acc rate:0.5547520661157025  split 0.3
+2025-04-11 14:29:21,078 - sample.py[line:100] - INFO: EPOCH: 71 train: lr: 0.007416006812042828 " " acc rate:0.5599292348518354  dirty rate =  split 0.3
+2025-04-11 14:29:21,679 - sample.py[line:100] - INFO: EPOCH: 72 train: lr: 0.007351814613722991 " " acc rate:0.5727554179566563  dirty rate =  split 0.3
+2025-04-11 14:29:22,293 - sample.py[line:100] - INFO: EPOCH: 73 train: lr: 0.007287165507856513 " " acc rate:0.5599292348518354  dirty rate =  split 0.3
+2025-04-11 14:29:22,898 - sample.py[line:100] - INFO: EPOCH: 74 train: lr: 0.007222075445642905 " " acc rate:0.5789473684210527  dirty rate =  split 0.3
+2025-04-11 14:29:23,498 - sample.py[line:100] - INFO: EPOCH: 75 train: lr: 0.007156560487081053 " " acc rate:0.5541795665634675  dirty rate =  split 0.3
+2025-04-11 14:29:24,105 - sample.py[line:100] - INFO: EPOCH: 76 train: lr: 0.007090636797006658 " " acc rate:0.4582043343653251  dirty rate =  split 0.3
+2025-04-11 14:29:24,750 - sample.py[line:100] - INFO: EPOCH: 77 train: lr: 0.007024320641103813 " " acc rate:0.5440070765148165  dirty rate =  split 0.3
+2025-04-11 14:29:25,394 - sample.py[line:100] - INFO: EPOCH: 78 train: lr: 0.006957628381891673 " " acc rate:0.5183547103051747  dirty rate =  split 0.3
+2025-04-11 14:29:26,035 - sample.py[line:100] - INFO: EPOCH: 79 train: lr: 0.006890576474687264 " " acc rate:0.5095090667846086  dirty rate =  split 0.3
+2025-04-11 14:29:26,682 - sample.py[line:100] - INFO: EPOCH: 80 train: lr: 0.006823181463545369 " " acc rate:0.5046439628482973  dirty rate =  split 0.3
+2025-04-11 14:29:26,769 - sample.py[line:111] - INFO: EPOCH:80test: lr :0.006823181463545369  " " acc rate:0.41838842975206614  split 0.3
+2025-04-11 14:29:27,417 - sample.py[line:100] - INFO: EPOCH: 81 train: lr: 0.0067554599771765325 " " acc rate:0.49447147279964615  dirty rate =  split 0.3
+2025-04-11 14:29:28,070 - sample.py[line:100] - INFO: EPOCH: 82 train: lr: 0.006687428724844178 " " acc rate:0.49624060150375937  dirty rate =  split 0.3
+2025-04-11 14:29:28,717 - sample.py[line:100] - INFO: EPOCH: 83 train: lr: 0.006619104492241847 " " acc rate:0.5378151260504201  dirty rate =  split 0.3
+2025-04-11 14:29:29,357 - sample.py[line:100] - INFO: EPOCH: 84 train: lr: 0.006550504137351576 " " acc rate:0.5608137992038921  dirty rate =  split 0.3
+2025-04-11 14:29:29,949 - sample.py[line:100] - INFO: EPOCH: 85 train: lr: 0.006481644586284443 " " acc rate:0.5435647943387881  dirty rate =  split 0.3
+2025-04-11 14:29:30,571 - sample.py[line:100] - INFO: EPOCH: 86 train: lr: 0.006412542829104307 " " acc rate:0.5705440070765149  dirty rate =  split 0.3
+2025-04-11 14:29:31,176 - sample.py[line:100] - INFO: EPOCH: 87 train: lr: 0.006343215915635763 " " acc rate:0.49933657673595755  dirty rate =  split 0.3
+2025-04-11 14:29:31,793 - sample.py[line:100] - INFO: EPOCH: 88 train: lr: 0.006273680951257343 " " acc rate:0.5758513931888545  dirty rate =  split 0.3
+2025-04-11 14:29:32,473 - sample.py[line:100] - INFO: EPOCH: 89 train: lr: 0.00620395509268104 " " acc rate:0.6032728881026095  dirty rate =  split 0.3
+2025-04-11 14:29:33,105 - sample.py[line:100] - INFO: EPOCH: 90 train: lr: 0.006134055543719124 " " acc rate:0.5294117647058824  dirty rate =  split 0.3
+2025-04-11 14:29:33,193 - sample.py[line:111] - INFO: EPOCH:90test: lr :0.006134055543719124  " " acc rate:0.39979338842975204  split 0.3
+2025-04-11 14:29:33,809 - sample.py[line:100] - INFO: EPOCH: 91 train: lr: 0.006063999551039371 " " acc rate:0.5050862450243255  dirty rate =  split 0.3
+2025-04-11 14:29:34,434 - sample.py[line:100] - INFO: EPOCH: 92 train: lr: 0.0059938043999097045 " " acc rate:0.47987616099071206  dirty rate =  split 0.3
+2025-04-11 14:29:35,069 - sample.py[line:100] - INFO: EPOCH: 93 train: lr: 0.0059234874099333154 " " acc rate:0.49800973020787265  dirty rate =  split 0.3
+2025-04-11 14:29:35,740 - sample.py[line:100] - INFO: EPOCH: 94 train: lr: 0.005853065930775303 " " acc rate:0.5289694825298541  dirty rate =  split 0.3
+2025-04-11 14:29:36,422 - sample.py[line:100] - INFO: EPOCH: 95 train: lr: 0.0057825573378819115 " " acc rate:0.5457762052189297  dirty rate =  split 0.3
+2025-04-11 14:29:37,153 - sample.py[line:100] - INFO: EPOCH: 96 train: lr: 0.005711979028193392 " " acc rate:0.5705440070765149  dirty rate =  split 0.3
+2025-04-11 14:29:37,943 - sample.py[line:100] - INFO: EPOCH: 97 train: lr: 0.005641348415851578 " " acc rate:0.5537372843874392  dirty rate =  split 0.3
+2025-04-11 14:29:38,759 - sample.py[line:100] - INFO: EPOCH: 98 train: lr: 0.005570682927903194 " " acc rate:0.49049093321539144  dirty rate =  split 0.3
+2025-04-11 14:29:39,550 - sample.py[line:100] - INFO: EPOCH: 99 train: lr: 0.0055000000000000005 " " acc rate:0.5011057054400707  dirty rate =  split 0.3
+2025-04-11 14:29:40,296 - sample.py[line:100] - INFO: EPOCH: 100 train: lr: 0.005429317072096808 " " acc rate:0.5643520566121185  dirty rate =  split 0.3
+2025-04-11 14:29:40,404 - sample.py[line:111] - INFO: EPOCH:100test: lr :0.005429317072096808  " " acc rate:0.48760330578512395  split 0.3
+2025-04-11 14:29:41,162 - sample.py[line:100] - INFO: EPOCH: 101 train: lr: 0.005358651584148423 " " acc rate:0.4281291463954003  dirty rate =  split 0.3
+2025-04-11 14:29:41,957 - sample.py[line:100] - INFO: EPOCH: 102 train: lr: 0.005288020971806609 " " acc rate:0.4807607253427687  dirty rate =  split 0.3
+2025-04-11 14:29:42,696 - sample.py[line:100] - INFO: EPOCH: 103 train: lr: 0.0052174426621180905 " " acc rate:0.49447147279964615  dirty rate =  split 0.3
+2025-04-11 14:29:43,417 - sample.py[line:100] - INFO: EPOCH: 104 train: lr: 0.005146934069224699 " " acc rate:0.4966828836797877  dirty rate =  split 0.3
+2025-04-11 14:29:44,143 - sample.py[line:100] - INFO: EPOCH: 105 train: lr: 0.005076512590066686 " " acc rate:0.5174701459531181  dirty rate =  split 0.3
+2025-04-11 14:29:44,863 - sample.py[line:100] - INFO: EPOCH: 106 train: lr: 0.005006195600090297 " " acc rate:0.524546660769571  dirty rate =  split 0.3
+2025-04-11 14:29:45,566 - sample.py[line:100] - INFO: EPOCH: 107 train: lr: 0.004936000448960632 " " acc rate:0.5701017249004865  dirty rate =  split 0.3
+2025-04-11 14:29:46,229 - sample.py[line:100] - INFO: EPOCH: 108 train: lr: 0.00486594445628088 " " acc rate:0.5860238832375055  dirty rate =  split 0.3
+2025-04-11 14:29:46,932 - sample.py[line:100] - INFO: EPOCH: 109 train: lr: 0.004796044907318962 " " acc rate:0.589562140645732  dirty rate =  split 0.3
+2025-04-11 14:29:47,640 - sample.py[line:100] - INFO: EPOCH: 110 train: lr: 0.004726319048742657 " " acc rate:0.5904467049977886  dirty rate =  split 0.3
+2025-04-11 14:29:47,763 - sample.py[line:111] - INFO: EPOCH:110test: lr :0.004726319048742657  " " acc rate:0.4824380165289256  split 0.3
+2025-04-11 14:29:48,459 - sample.py[line:100] - INFO: EPOCH: 111 train: lr: 0.00465678408436424 " " acc rate:0.5608137992038921  dirty rate =  split 0.3
+2025-04-11 14:29:49,198 - sample.py[line:100] - INFO: EPOCH: 112 train: lr: 0.004587457170895695 " " acc rate:0.5608137992038921  dirty rate =  split 0.3
+2025-04-11 14:29:49,929 - sample.py[line:100] - INFO: EPOCH: 113 train: lr: 0.00451835541371556 " " acc rate:0.5550641309155241  dirty rate =  split 0.3
+2025-04-11 14:29:50,682 - sample.py[line:100] - INFO: EPOCH: 114 train: lr: 0.004449495862648426 " " acc rate:0.5683325961963733  dirty rate =  split 0.3
+2025-04-11 14:29:51,429 - sample.py[line:100] - INFO: EPOCH: 115 train: lr: 0.004380895507758154 " " acc rate:0.5922158337019018  dirty rate =  split 0.3
+2025-04-11 14:29:52,150 - sample.py[line:100] - INFO: EPOCH: 116 train: lr: 0.004312571275155823 " " acc rate:0.5970809376382131  dirty rate =  split 0.3
+2025-04-11 14:29:52,840 - sample.py[line:100] - INFO: EPOCH: 117 train: lr: 0.004244540022823469 " " acc rate:0.6010614772224679  dirty rate =  split 0.3
+2025-04-11 14:29:53,587 - sample.py[line:100] - INFO: EPOCH: 118 train: lr: 0.004176818536454633 " " acc rate:0.5979655019902698  dirty rate =  split 0.3
+2025-04-11 14:29:54,348 - sample.py[line:100] - INFO: EPOCH: 119 train: lr: 0.004109423525312739 " " acc rate:0.6041574524546661  dirty rate =  split 0.3
+2025-04-11 14:29:55,169 - sample.py[line:100] - INFO: EPOCH: 120 train: lr: 0.004042371618108328 " " acc rate:0.6138876603272888  dirty rate =  split 0.3
+2025-04-11 14:29:55,294 - sample.py[line:111] - INFO: EPOCH:120test: lr :0.004042371618108328  " " acc rate:0.5578512396694215  split 0.3
+2025-04-11 14:29:56,053 - sample.py[line:100] - INFO: EPOCH: 121 train: lr: 0.003975679358896189 " " acc rate:0.6059265811587793  dirty rate =  split 0.3
+2025-04-11 14:29:56,809 - sample.py[line:100] - INFO: EPOCH: 122 train: lr: 0.003909363202993343 " " acc rate:0.5864661654135338  dirty rate =  split 0.3
+2025-04-11 14:29:57,559 - sample.py[line:100] - INFO: EPOCH: 123 train: lr: 0.0038434395129189505 " " acc rate:0.5670057496682883  dirty rate =  split 0.3
+2025-04-11 14:29:58,314 - sample.py[line:100] - INFO: EPOCH: 124 train: lr: 0.0037779245543570978 " " acc rate:0.5692171605484299  dirty rate =  split 0.3
+2025-04-11 14:29:59,081 - sample.py[line:100] - INFO: EPOCH: 125 train: lr: 0.003712834492143487 " " acc rate:0.5882352941176471  dirty rate =  split 0.3
+2025-04-11 14:29:59,812 - sample.py[line:100] - INFO: EPOCH: 126 train: lr: 0.0036481853862770108 " " acc rate:0.6068111455108359  dirty rate =  split 0.3
+2025-04-11 14:30:00,531 - sample.py[line:100] - INFO: EPOCH: 127 train: lr: 0.0035839931879571734 " " acc rate:0.6006191950464397  dirty rate =  split 0.3
+2025-04-11 14:30:01,279 - sample.py[line:100] - INFO: EPOCH: 128 train: lr: 0.003520273735648382 " " acc rate:0.6015037593984962  dirty rate =  split 0.3
+2025-04-11 14:30:02,024 - sample.py[line:100] - INFO: EPOCH: 129 train: lr: 0.00345704275117204 " " acc rate:0.6085802742149491  dirty rate =  split 0.3
+2025-04-11 14:30:02,765 - sample.py[line:100] - INFO: EPOCH: 130 train: lr: 0.003394315835827421 " " acc rate:0.6134453781512605  dirty rate =  split 0.3
+2025-04-11 14:30:02,881 - sample.py[line:111] - INFO: EPOCH:130test: lr :0.003394315835827421  " " acc rate:0.5692148760330579  split 0.3
+2025-04-11 14:30:03,583 - sample.py[line:100] - INFO: EPOCH: 131 train: lr: 0.003332108466542281 " " acc rate:0.6125608137992039  dirty rate =  split 0.3
+2025-04-11 14:30:04,341 - sample.py[line:100] - INFO: EPOCH: 132 train: lr: 0.003270435992054166 " " acc rate:0.6121185316231755  dirty rate =  split 0.3
+2025-04-11 14:30:05,088 - sample.py[line:100] - INFO: EPOCH: 133 train: lr: 0.0032093136291233295 " " acc rate:0.6130030959752322  dirty rate =  split 0.3
+2025-04-11 14:30:05,850 - sample.py[line:100] - INFO: EPOCH: 134 train: lr: 0.0031487564587782306 " " acc rate:0.6138876603272888  dirty rate =  split 0.3
+2025-04-11 14:30:06,578 - sample.py[line:100] - INFO: EPOCH: 135 train: lr: 0.0030887794225945143 " " acc rate:0.6174259177355153  dirty rate =  split 0.3
+2025-04-11 14:30:07,328 - sample.py[line:100] - INFO: EPOCH: 136 train: lr: 0.0030293973190084066 " " acc rate:0.6196373286156568  dirty rate =  split 0.3
+2025-04-11 14:30:08,059 - sample.py[line:100] - INFO: EPOCH: 137 train: lr: 0.0029706247996654123 " " acc rate:0.6205218929677134  dirty rate =  split 0.3
+2025-04-11 14:30:08,814 - sample.py[line:100] - INFO: EPOCH: 138 train: lr: 0.002912476365805247 " " acc rate:0.6218487394957983  dirty rate =  split 0.3
+2025-04-11 14:30:09,524 - sample.py[line:100] - INFO: EPOCH: 139 train: lr: 0.0028549663646838717 " " acc rate:0.6236178681999115  dirty rate =  split 0.3
+2025-04-11 14:30:10,260 - sample.py[line:100] - INFO: EPOCH: 140 train: lr: 0.0027981089860335227 " " acc rate:0.6262715612560814  dirty rate =  split 0.3
+2025-04-11 14:30:10,368 - sample.py[line:111] - INFO: EPOCH:140test: lr :0.0027981089860335227  " " acc rate:0.5785123966942148  split 0.3
+2025-04-11 14:30:11,112 - sample.py[line:100] - INFO: EPOCH: 141 train: lr: 0.0027419182585616056 " " acc rate:0.6280406899601946  dirty rate =  split 0.3
+2025-04-11 14:30:11,839 - sample.py[line:100] - INFO: EPOCH: 142 train: lr: 0.0026864080464893266 " " acc rate:0.6306943830163645  dirty rate =  split 0.3
+2025-04-11 14:30:12,581 - sample.py[line:100] - INFO: EPOCH: 143 train: lr: 0.0026315920461308963 " " acc rate:0.6329057938965059  dirty rate =  split 0.3
+2025-04-11 14:30:13,318 - sample.py[line:100] - INFO: EPOCH: 144 train: lr: 0.0025774837825141743 " " acc rate:0.6355594869526758  dirty rate =  split 0.3
+2025-04-11 14:30:13,957 - sample.py[line:100] - INFO: EPOCH: 145 train: lr: 0.0025240966060435677 " " acc rate:0.6360017691287041  dirty rate =  split 0.3
+2025-04-11 14:30:14,698 - sample.py[line:100] - INFO: EPOCH: 146 train: lr: 0.0024714436892060198 " " acc rate:0.637328615656789  dirty rate =  split 0.3
+2025-04-11 14:30:15,377 - sample.py[line:100] - INFO: EPOCH: 147 train: lr: 0.002419538023320901 " " acc rate:0.6386554621848739  dirty rate =  split 0.3
+2025-04-11 14:30:16,078 - sample.py[line:100] - INFO: EPOCH: 148 train: lr: 0.0023683924153345857 " " acc rate:0.6404245908889872  dirty rate =  split 0.3
+2025-04-11 14:30:16,768 - sample.py[line:100] - INFO: EPOCH: 149 train: lr: 0.0023180194846605367 " " acc rate:0.6413091552410438  dirty rate =  split 0.3
+2025-04-11 14:30:17,472 - sample.py[line:100] - INFO: EPOCH: 150 train: lr: 0.002268431660065651 " " acc rate:0.6426360017691287  dirty rate =  split 0.3
+2025-04-11 14:30:17,582 - sample.py[line:111] - INFO: EPOCH:150test: lr :0.002268431660065651  " " acc rate:0.5836776859504132  split 0.3
+2025-04-11 14:30:18,169 - sample.py[line:100] - INFO: EPOCH: 151 train: lr: 0.002219641176603649 " " acc rate:0.6435205661211854  dirty rate =  split 0.3
+2025-04-11 14:30:18,787 - sample.py[line:100] - INFO: EPOCH: 152 train: lr: 0.002171660072596257 " " acc rate:0.643078283945157  dirty rate =  split 0.3
+2025-04-11 14:30:19,442 - sample.py[line:100] - INFO: EPOCH: 153 train: lr: 0.0021245001866629326 " " acc rate:0.6439628482972136  dirty rate =  split 0.3
+2025-04-11 14:30:20,086 - sample.py[line:100] - INFO: EPOCH: 154 train: lr: 0.002078173154799861 " " acc rate:0.6452896948252985  dirty rate =  split 0.3
+2025-04-11 14:30:20,806 - sample.py[line:100] - INFO: EPOCH: 155 train: lr: 0.002032690407508949 " " acc rate:0.6475011057054401  dirty rate =  split 0.3
+2025-04-11 14:30:21,534 - sample.py[line:100] - INFO: EPOCH: 156 train: lr: 0.001988063166977517 " " acc rate:0.6475011057054401  dirty rate =  split 0.3
+2025-04-11 14:30:22,266 - sample.py[line:100] - INFO: EPOCH: 157 train: lr: 0.0019443024443093933 " " acc rate:0.6479433878814683  dirty rate =  split 0.3
+2025-04-11 14:30:22,988 - sample.py[line:100] - INFO: EPOCH: 158 train: lr: 0.0019014190368080931 " " acc rate:0.6492702344095533  dirty rate =  split 0.3
+2025-04-11 14:30:23,746 - sample.py[line:100] - INFO: EPOCH: 159 train: lr: 0.0018594235253127371 " " acc rate:0.6505970809376382  dirty rate =  split 0.3
+2025-04-11 14:30:24,483 - sample.py[line:100] - INFO: EPOCH: 160 train: lr: 0.0018183262715873953 " " acc rate:0.6528084918177798  dirty rate =  split 0.3
+2025-04-11 14:30:24,604 - sample.py[line:111] - INFO: EPOCH:160test: lr :0.0018183262715873953  " " acc rate:0.5867768595041323  split 0.3
+2025-04-11 14:30:25,386 - sample.py[line:100] - INFO: EPOCH: 161 train: lr: 0.001778137415764473 " " acc rate:0.653250773993808  dirty rate =  split 0.3
+2025-04-11 14:30:26,183 - sample.py[line:100] - INFO: EPOCH: 162 train: lr: 0.001738866873842785 " " acc rate:0.6550199026979213  dirty rate =  split 0.3
+2025-04-11 14:30:26,960 - sample.py[line:100] - INFO: EPOCH: 163 train: lr: 0.0017005243352409332 " " acc rate:0.6554621848739496  dirty rate =  split 0.3
+2025-04-11 14:30:27,740 - sample.py[line:100] - INFO: EPOCH: 164 train: lr: 0.0016631192604065863 " " acc rate:0.6567890314020345  dirty rate =  split 0.3
+2025-04-11 14:30:28,548 - sample.py[line:100] - INFO: EPOCH: 165 train: lr: 0.0016266608784822533 " " acc rate:0.6581158779301194  dirty rate =  split 0.3
+2025-04-11 14:30:29,379 - sample.py[line:100] - INFO: EPOCH: 166 train: lr: 0.0015911581850281391 " " acc rate:0.6607695709862893  dirty rate =  split 0.3
+2025-04-11 14:30:30,221 - sample.py[line:100] - INFO: EPOCH: 167 train: lr: 0.001556619939802614 " " acc rate:0.6629809818664307  dirty rate =  split 0.3
+2025-04-11 14:30:31,043 - sample.py[line:100] - INFO: EPOCH: 168 train: lr: 0.0015230546646008794 " " acc rate:0.6634232640424591  dirty rate =  split 0.3
+2025-04-11 14:30:31,786 - sample.py[line:100] - INFO: EPOCH: 169 train: lr: 0.001490470641152345 " " acc rate:0.6634232640424591  dirty rate =  split 0.3
+2025-04-11 14:30:32,589 - sample.py[line:100] - INFO: EPOCH: 170 train: lr: 0.0014588759090772303 " " acc rate:0.6634232640424591  dirty rate =  split 0.3
+2025-04-11 14:30:32,688 - sample.py[line:111] - INFO: EPOCH:170test: lr :0.0014588759090772303  " " acc rate:0.5878099173553719  split 0.3
+2025-04-11 14:30:33,475 - sample.py[line:100] - INFO: EPOCH: 171 train: lr: 0.001428278263902913 " " acc rate:0.664750110570544  dirty rate =  split 0.3
+2025-04-11 14:30:34,291 - sample.py[line:100] - INFO: EPOCH: 172 train: lr: 0.0013986852551404973 " " acc rate:0.6651923927465723  dirty rate =  split 0.3
+2025-04-11 14:30:35,114 - sample.py[line:100] - INFO: EPOCH: 173 train: lr: 0.001370104184422086 " " acc rate:0.6651923927465723  dirty rate =  split 0.3
+2025-04-11 14:30:35,883 - sample.py[line:100] - INFO: EPOCH: 174 train: lr: 0.0013425421036992106 " " acc rate:0.6656346749226006  dirty rate =  split 0.3
+2025-04-11 14:30:36,674 - sample.py[line:100] - INFO: EPOCH: 175 train: lr: 0.001316005813502869 " " acc rate:0.6660769570986289  dirty rate =  split 0.3
+2025-04-11 14:30:37,514 - sample.py[line:100] - INFO: EPOCH: 176 train: lr: 0.001290501861265597 " " acc rate:0.6674038036267138  dirty rate =  split 0.3
+2025-04-11 14:30:38,326 - sample.py[line:100] - INFO: EPOCH: 177 train: lr: 0.0012660365397059855 " " acc rate:0.6687306501547987  dirty rate =  split 0.3
+2025-04-11 14:30:39,161 - sample.py[line:100] - INFO: EPOCH: 178 train: lr: 0.0012426158852760461 " " acc rate:0.6691729323308271  dirty rate =  split 0.3
+2025-04-11 14:30:39,906 - sample.py[line:100] - INFO: EPOCH: 179 train: lr: 0.001220245676671809 " " acc rate:0.6696152145068553  dirty rate =  split 0.3
+2025-04-11 14:30:40,739 - sample.py[line:100] - INFO: EPOCH: 180 train: lr: 0.0011989314334075146 " " acc rate:0.6696152145068553  dirty rate =  split 0.3
+2025-04-11 14:30:40,844 - sample.py[line:111] - INFO: EPOCH:180test: lr :0.0011989314334075146  " " acc rate:0.5960743801652892  split 0.3
+2025-04-11 14:30:41,656 - sample.py[line:100] - INFO: EPOCH: 181 train: lr: 0.0011786784144537567 " " acc rate:0.6713843432109686  dirty rate =  split 0.3
+2025-04-11 14:30:42,432 - sample.py[line:100] - INFO: EPOCH: 182 train: lr: 0.0011594916169399092 " " acc rate:0.6731534719150818  dirty rate =  split 0.3
+2025-04-11 14:30:43,240 - sample.py[line:100] - INFO: EPOCH: 183 train: lr: 0.0011413757749211607 " " acc rate:0.6740380362671384  dirty rate =  split 0.3
+2025-04-11 14:30:44,041 - sample.py[line:100] - INFO: EPOCH: 184 train: lr: 0.0011243353582104556 " " acc rate:0.6749226006191951  dirty rate =  split 0.3
+2025-04-11 14:30:44,777 - sample.py[line:100] - INFO: EPOCH: 185 train: lr: 0.0011083745712756371 " " acc rate:0.6749226006191951  dirty rate =  split 0.3
+2025-04-11 14:30:45,510 - sample.py[line:100] - INFO: EPOCH: 186 train: lr: 0.0010934973522020537 " " acc rate:0.6758071649712517  dirty rate =  split 0.3
+2025-04-11 14:30:46,269 - sample.py[line:100] - INFO: EPOCH: 187 train: lr: 0.0010797073717209009 " " acc rate:0.6758071649712517  dirty rate =  split 0.3
+2025-04-11 14:30:47,129 - sample.py[line:100] - INFO: EPOCH: 188 train: lr: 0.0010670080323035176 " " acc rate:0.67624944714728  dirty rate =  split 0.3
+2025-04-11 14:30:47,881 - sample.py[line:100] - INFO: EPOCH: 189 train: lr: 0.0010554024673218806 " " acc rate:0.67624944714728  dirty rate =  split 0.3
+2025-04-11 14:30:48,621 - sample.py[line:100] - INFO: EPOCH: 190 train: lr: 0.001044893540275491 " " acc rate:0.67624944714728  dirty rate =  split 0.3
+2025-04-11 14:30:48,730 - sample.py[line:111] - INFO: EPOCH:190test: lr :0.001044893540275491  " " acc rate:0.5991735537190083  split 0.3
+2025-04-11 14:30:49,443 - sample.py[line:100] - INFO: EPOCH: 191 train: lr: 0.00103548384408485 " " acc rate:0.67624944714728  dirty rate =  split 0.3
+2025-04-11 14:30:50,158 - sample.py[line:100] - INFO: EPOCH: 192 train: lr: 0.0010271757004516918 " " acc rate:0.67624944714728  dirty rate =  split 0.3
+2025-04-11 14:30:50,927 - sample.py[line:100] - INFO: EPOCH: 193 train: lr: 0.00101997115928614 " " acc rate:0.67624944714728  dirty rate =  split 0.3
+2025-04-11 14:30:51,645 - sample.py[line:100] - INFO: EPOCH: 194 train: lr: 0.0010138719982009242 " " acc rate:0.6766917293233082  dirty rate =  split 0.3
+2025-04-11 14:30:52,309 - sample.py[line:100] - INFO: EPOCH: 195 train: lr: 0.001008879722072778 " " acc rate:0.6771340114993366  dirty rate =  split 0.3
+2025-04-11 14:30:52,976 - sample.py[line:100] - INFO: EPOCH: 196 train: lr: 0.0010049955626711354 " " acc rate:0.6775762936753649  dirty rate =  split 0.3
+2025-04-11 14:30:53,706 - sample.py[line:100] - INFO: EPOCH: 197 train: lr: 0.0010022204783542079 " " acc rate:0.6771340114993366  dirty rate =  split 0.3
+2025-04-11 14:30:54,435 - sample.py[line:100] - INFO: EPOCH: 198 train: lr: 0.0010005551538325274 " " acc rate:0.6771340114993366  dirty rate =  split 0.3
+2025-04-11 14:30:55,133 - sample.py[line:100] - INFO: EPOCH: 199 train: lr: 0.010000000000000002 " " acc rate:0.6771340114993366  dirty rate =  split 0.3
+2025-04-11 14:36:36,484 - sample.py[line:99] - INFO: EPOCH: 0 train: lr: 0.009999444846167473  acc rate: 0.24635117204776646  split: 0.3
+2025-04-11 14:36:36,560 - sample.py[line:108] - INFO: EPOCH: 0 test: lr: 0.009999444846167473  acc rate: 0.1115702479338843  split: 0.3
+2025-04-11 14:36:37,190 - sample.py[line:99] - INFO: EPOCH: 1 train: lr: 0.009997779521645794  acc rate: 0.3874391862007961  split: 0.3
+2025-04-11 14:36:37,838 - sample.py[line:99] - INFO: EPOCH: 2 train: lr: 0.009995004437328866  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:38,513 - sample.py[line:99] - INFO: EPOCH: 3 train: lr: 0.009991120277927222  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:39,169 - sample.py[line:99] - INFO: EPOCH: 4 train: lr: 0.009986128001799079  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:39,877 - sample.py[line:99] - INFO: EPOCH: 5 train: lr: 0.009980028840713862  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:40,532 - sample.py[line:99] - INFO: EPOCH: 6 train: lr: 0.009972824299548311  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:41,130 - sample.py[line:99] - INFO: EPOCH: 7 train: lr: 0.009964516155915152  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:41,718 - sample.py[line:99] - INFO: EPOCH: 8 train: lr: 0.00995510645972451  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:42,357 - sample.py[line:99] - INFO: EPOCH: 9 train: lr: 0.00994459753267812  acc rate: 0.43034055727554177  split: 0.3
+2025-04-11 14:36:43,027 - sample.py[line:99] - INFO: EPOCH: 10 train: lr: 0.009932991967696484  acc rate: 0.45466607695709865  split: 0.3
+2025-04-11 14:36:43,117 - sample.py[line:108] - INFO: EPOCH: 10 test: lr: 0.009932991967696484  acc rate: 0.42045454545454547  split: 0.3
+2025-04-11 14:36:43,758 - sample.py[line:99] - INFO: EPOCH: 11 train: lr: 0.0099202926282791  acc rate: 0.46439628482972134  split: 0.3
+2025-04-11 14:36:44,361 - sample.py[line:99] - INFO: EPOCH: 12 train: lr: 0.009906502647797948  acc rate: 0.4608580274214949  split: 0.3
+2025-04-11 14:36:44,993 - sample.py[line:99] - INFO: EPOCH: 13 train: lr: 0.009891625428724366  acc rate: 0.4940291906236179  split: 0.3
+2025-04-11 14:36:45,661 - sample.py[line:99] - INFO: EPOCH: 14 train: lr: 0.009875664641789544  acc rate: 0.46616541353383456  split: 0.3
+2025-04-11 14:36:46,352 - sample.py[line:99] - INFO: EPOCH: 15 train: lr: 0.00985862422507884  acc rate: 0.4838567005749668  split: 0.3
+2025-04-11 14:36:46,989 - sample.py[line:99] - INFO: EPOCH: 16 train: lr: 0.009840508383060092  acc rate: 0.48429898275099514  split: 0.3
+2025-04-11 14:36:47,654 - sample.py[line:99] - INFO: EPOCH: 17 train: lr: 0.009821321585546244  acc rate: 0.45731977001326846  split: 0.3
+2025-04-11 14:36:48,362 - sample.py[line:99] - INFO: EPOCH: 18 train: lr: 0.009801068566592488  acc rate: 0.4099955771782397  split: 0.3
+2025-04-11 14:36:49,066 - sample.py[line:99] - INFO: EPOCH: 19 train: lr: 0.009779754323328192  acc rate: 0.48695267580716495  split: 0.3
+2025-04-11 14:36:49,761 - sample.py[line:99] - INFO: EPOCH: 20 train: lr: 0.009757384114723953  acc rate: 0.49358690844758957  split: 0.3
+2025-04-11 14:36:49,854 - sample.py[line:108] - INFO: EPOCH: 20 test: lr: 0.009757384114723953  acc rate: 0.42458677685950413  split: 0.3
+2025-04-11 14:36:50,523 - sample.py[line:99] - INFO: EPOCH: 21 train: lr: 0.009733963460294016  acc rate: 0.4825298540468819  split: 0.3
+2025-04-11 14:36:51,165 - sample.py[line:99] - INFO: EPOCH: 22 train: lr: 0.009709498138734406  acc rate: 0.4298982750995135  split: 0.3
+2025-04-11 14:36:51,810 - sample.py[line:99] - INFO: EPOCH: 23 train: lr: 0.009683994186497132  acc rate: 0.453781512605042  split: 0.3
+2025-04-11 14:36:52,465 - sample.py[line:99] - INFO: EPOCH: 24 train: lr: 0.009657457896300792  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:53,129 - sample.py[line:99] - INFO: EPOCH: 25 train: lr: 0.009629895815577917  acc rate: 0.416187527642636  split: 0.3
+2025-04-11 14:36:53,788 - sample.py[line:99] - INFO: EPOCH: 26 train: lr: 0.009601314744859504  acc rate: 0.41264927023440956  split: 0.3
+2025-04-11 14:36:54,456 - sample.py[line:99] - INFO: EPOCH: 27 train: lr: 0.009571721736097088  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:36:55,131 - sample.py[line:99] - INFO: EPOCH: 28 train: lr: 0.00954112409092277  acc rate: 0.43520566121185317  split: 0.3
+2025-04-11 14:36:55,779 - sample.py[line:99] - INFO: EPOCH: 29 train: lr: 0.009509529358847656  acc rate: 0.4789915966386555  split: 0.3
+2025-04-11 14:36:56,437 - sample.py[line:99] - INFO: EPOCH: 30 train: lr: 0.009476945335399122  acc rate: 0.4984520123839009  split: 0.3
+2025-04-11 14:36:56,527 - sample.py[line:108] - INFO: EPOCH: 30 test: lr: 0.009476945335399122  acc rate: 0.42768595041322316  split: 0.3
+2025-04-11 14:36:57,193 - sample.py[line:99] - INFO: EPOCH: 31 train: lr: 0.009443380060197386  acc rate: 0.4838567005749668  split: 0.3
+2025-04-11 14:36:57,811 - sample.py[line:99] - INFO: EPOCH: 32 train: lr: 0.009408841814971862  acc rate: 0.497125165855816  split: 0.3
+2025-04-11 14:36:58,421 - sample.py[line:99] - INFO: EPOCH: 33 train: lr: 0.009373339121517749  acc rate: 0.45687748783724014  split: 0.3
+2025-04-11 14:36:59,031 - sample.py[line:99] - INFO: EPOCH: 34 train: lr: 0.009336880739593417  acc rate: 0.49977885891198587  split: 0.3
+2025-04-11 14:36:59,643 - sample.py[line:99] - INFO: EPOCH: 35 train: lr: 0.009299475664759069  acc rate: 0.3980539584254755  split: 0.3
+2025-04-11 14:37:00,272 - sample.py[line:99] - INFO: EPOCH: 36 train: lr: 0.009261133126157218  acc rate: 0.4223794781070323  split: 0.3
+2025-04-11 14:37:00,930 - sample.py[line:99] - INFO: EPOCH: 37 train: lr: 0.009221862584235529  acc rate: 0.4564352056612119  split: 0.3
+2025-04-11 14:37:01,581 - sample.py[line:99] - INFO: EPOCH: 38 train: lr: 0.009181673728412606  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:37:02,208 - sample.py[line:99] - INFO: EPOCH: 39 train: lr: 0.009140576474687266  acc rate: 0.4475895621406457  split: 0.3
+2025-04-11 14:37:02,943 - sample.py[line:99] - INFO: EPOCH: 40 train: lr: 0.00909858096319191  acc rate: 0.42901371074745687  split: 0.3
+2025-04-11 14:37:03,048 - sample.py[line:108] - INFO: EPOCH: 40 test: lr: 0.00909858096319191  acc rate: 0.4090909090909091  split: 0.3
+2025-04-11 14:37:03,731 - sample.py[line:99] - INFO: EPOCH: 41 train: lr: 0.00905569755569061  acc rate: 0.4502432551968156  split: 0.3
+2025-04-11 14:37:04,408 - sample.py[line:99] - INFO: EPOCH: 42 train: lr: 0.009011936833022486  acc rate: 0.5046439628482973  split: 0.3
+2025-04-11 14:37:05,055 - sample.py[line:99] - INFO: EPOCH: 43 train: lr: 0.008967309592491052  acc rate: 0.5068553737284387  split: 0.3
+2025-04-11 14:37:05,656 - sample.py[line:99] - INFO: EPOCH: 44 train: lr: 0.00892182684520014  acc rate: 0.4130915524104379  split: 0.3
+2025-04-11 14:37:06,281 - sample.py[line:99] - INFO: EPOCH: 45 train: lr: 0.00887549981333707  acc rate: 0.4966828836797877  split: 0.3
+2025-04-11 14:37:06,907 - sample.py[line:99] - INFO: EPOCH: 46 train: lr: 0.008828339927403745  acc rate: 0.49491375497567447  split: 0.3
+2025-04-11 14:37:07,517 - sample.py[line:99] - INFO: EPOCH: 47 train: lr: 0.008780358823396353  acc rate: 0.49226006191950467  split: 0.3
+2025-04-11 14:37:08,108 - sample.py[line:99] - INFO: EPOCH: 48 train: lr: 0.008731568339934352  acc rate: 0.45466607695709865  split: 0.3
+2025-04-11 14:37:08,739 - sample.py[line:99] - INFO: EPOCH: 49 train: lr: 0.008681980515339464  acc rate: 0.49977885891198587  split: 0.3
+2025-04-11 14:37:09,384 - sample.py[line:99] - INFO: EPOCH: 50 train: lr: 0.008631607584665415  acc rate: 0.4524546660769571  split: 0.3
+2025-04-11 14:37:09,463 - sample.py[line:108] - INFO: EPOCH: 50 test: lr: 0.008631607584665415  acc rate: 0.41115702479338845  split: 0.3
+2025-04-11 14:37:10,050 - sample.py[line:99] - INFO: EPOCH: 51 train: lr: 0.0085804619766791  acc rate: 0.4599734630694383  split: 0.3
+2025-04-11 14:37:10,705 - sample.py[line:99] - INFO: EPOCH: 52 train: lr: 0.00852855631079398  acc rate: 0.5024325519681557  split: 0.3
+2025-04-11 14:37:11,298 - sample.py[line:99] - INFO: EPOCH: 53 train: lr: 0.008475903393956433  acc rate: 0.45731977001326846  split: 0.3
+2025-04-11 14:37:11,878 - sample.py[line:99] - INFO: EPOCH: 54 train: lr: 0.008422516217485828  acc rate: 0.4909332153914197  split: 0.3
+2025-04-11 14:37:12,505 - sample.py[line:99] - INFO: EPOCH: 55 train: lr: 0.008368407953869105  acc rate: 0.38522777532065455  split: 0.3
+2025-04-11 14:37:13,098 - sample.py[line:99] - INFO: EPOCH: 56 train: lr: 0.008313591953510675  acc rate: 0.47943387881468374  split: 0.3
+2025-04-11 14:37:13,692 - sample.py[line:99] - INFO: EPOCH: 57 train: lr: 0.008258081741438396  acc rate: 0.39009287925696595  split: 0.3
+2025-04-11 14:37:14,274 - sample.py[line:99] - INFO: EPOCH: 58 train: lr: 0.00820189101396648  acc rate: 0.4506855373728439  split: 0.3
+2025-04-11 14:37:14,854 - sample.py[line:99] - INFO: EPOCH: 59 train: lr: 0.00814503363531613  acc rate: 0.4896063688633348  split: 0.3
+2025-04-11 14:37:15,432 - sample.py[line:99] - INFO: EPOCH: 60 train: lr: 0.008087523634194755  acc rate: 0.45599292348518355  split: 0.3
+2025-04-11 14:37:15,511 - sample.py[line:108] - INFO: EPOCH: 60 test: lr: 0.008087523634194755  acc rate: 0.4132231404958678  split: 0.3
+2025-04-11 14:37:16,109 - sample.py[line:99] - INFO: EPOCH: 61 train: lr: 0.00802937520033459  acc rate: 0.45864661654135336  split: 0.3
+2025-04-11 14:37:16,684 - sample.py[line:99] - INFO: EPOCH: 62 train: lr: 0.007970602680991593  acc rate: 0.4073418841220699  split: 0.3
+2025-04-11 14:37:17,267 - sample.py[line:99] - INFO: EPOCH: 63 train: lr: 0.007911220577405485  acc rate: 0.43609022556390975  split: 0.3
+2025-04-11 14:37:17,870 - sample.py[line:99] - INFO: EPOCH: 64 train: lr: 0.00785124354122177  acc rate: 0.47191508182220254  split: 0.3
+2025-04-11 14:37:18,468 - sample.py[line:99] - INFO: EPOCH: 65 train: lr: 0.007790686370876672  acc rate: 0.465280849181778  split: 0.3
+2025-04-11 14:37:19,053 - sample.py[line:99] - INFO: EPOCH: 66 train: lr: 0.007729564007945835  acc rate: 0.4940291906236179  split: 0.3
+2025-04-11 14:37:19,621 - sample.py[line:99] - INFO: EPOCH: 67 train: lr: 0.0076678915334577194  acc rate: 0.5099513489606369  split: 0.3
+2025-04-11 14:37:20,221 - sample.py[line:99] - INFO: EPOCH: 68 train: lr: 0.0076056841641725815  acc rate: 0.5011057054400707  split: 0.3
+2025-04-11 14:37:20,809 - sample.py[line:99] - INFO: EPOCH: 69 train: lr: 0.007542957248827961  acc rate: 0.5249889429455993  split: 0.3
+2025-04-11 14:37:21,388 - sample.py[line:99] - INFO: EPOCH: 70 train: lr: 0.007479726264351618  acc rate: 0.4820875718708536  split: 0.3
+2025-04-11 14:37:21,473 - sample.py[line:108] - INFO: EPOCH: 70 test: lr: 0.007479726264351618  acc rate: 0.4142561983471074  split: 0.3
+2025-04-11 14:37:22,081 - sample.py[line:99] - INFO: EPOCH: 71 train: lr: 0.007416006812042828  acc rate: 0.49358690844758957  split: 0.3
+2025-04-11 14:37:22,792 - sample.py[line:99] - INFO: EPOCH: 72 train: lr: 0.007351814613722991  acc rate: 0.4900486510393631  split: 0.3
+2025-04-11 14:37:23,432 - sample.py[line:99] - INFO: EPOCH: 73 train: lr: 0.007287165507856513  acc rate: 0.49314462627156125  split: 0.3
+2025-04-11 14:37:24,037 - sample.py[line:99] - INFO: EPOCH: 74 train: lr: 0.007222075445642905  acc rate: 0.3790358248562583  split: 0.3
+2025-04-11 14:37:24,607 - sample.py[line:99] - INFO: EPOCH: 75 train: lr: 0.007156560487081053  acc rate: 0.4298982750995135  split: 0.3
+2025-04-11 14:37:25,183 - sample.py[line:99] - INFO: EPOCH: 76 train: lr: 0.007090636797006658  acc rate: 0.47678018575851394  split: 0.3
+2025-04-11 14:37:25,754 - sample.py[line:99] - INFO: EPOCH: 77 train: lr: 0.007024320641103813  acc rate: 0.4626271561256081  split: 0.3
+2025-04-11 14:37:26,326 - sample.py[line:99] - INFO: EPOCH: 78 train: lr: 0.006957628381891673  acc rate: 0.4882795223352499  split: 0.3
+2025-04-11 14:37:26,901 - sample.py[line:99] - INFO: EPOCH: 79 train: lr: 0.006890576474687264  acc rate: 0.4909332153914197  split: 0.3
+2025-04-11 14:37:27,546 - sample.py[line:99] - INFO: EPOCH: 80 train: lr: 0.006823181463545369  acc rate: 0.49977885891198587  split: 0.3
+2025-04-11 14:37:27,622 - sample.py[line:108] - INFO: EPOCH: 80 test: lr: 0.006823181463545369  acc rate: 0.42045454545454547  split: 0.3
+2025-04-11 14:37:28,198 - sample.py[line:99] - INFO: EPOCH: 81 train: lr: 0.0067554599771765325  acc rate: 0.5276426360017691  split: 0.3
+2025-04-11 14:37:28,781 - sample.py[line:99] - INFO: EPOCH: 82 train: lr: 0.006687428724844178  acc rate: 0.5519681556833259  split: 0.3
+2025-04-11 14:37:29,362 - sample.py[line:99] - INFO: EPOCH: 83 train: lr: 0.006619104492241847  acc rate: 0.5382574082264485  split: 0.3
+2025-04-11 14:37:29,952 - sample.py[line:99] - INFO: EPOCH: 84 train: lr: 0.006550504137351576  acc rate: 0.5656789031402034  split: 0.3
+2025-04-11 14:37:30,544 - sample.py[line:99] - INFO: EPOCH: 85 train: lr: 0.006481644586284443  acc rate: 0.5572755417956656  split: 0.3
+2025-04-11 14:37:31,176 - sample.py[line:99] - INFO: EPOCH: 86 train: lr: 0.006412542829104307  acc rate: 0.539141972578505  split: 0.3
+2025-04-11 14:37:31,777 - sample.py[line:99] - INFO: EPOCH: 87 train: lr: 0.006343215915635763  acc rate: 0.550641309155241  split: 0.3
+2025-04-11 14:37:32,369 - sample.py[line:99] - INFO: EPOCH: 88 train: lr: 0.006273680951257343  acc rate: 0.5471030517470146  split: 0.3
+2025-04-11 14:37:32,964 - sample.py[line:99] - INFO: EPOCH: 89 train: lr: 0.00620395509268104  acc rate: 0.5550641309155241  split: 0.3
+2025-04-11 14:37:33,570 - sample.py[line:99] - INFO: EPOCH: 90 train: lr: 0.006134055543719124  acc rate: 0.5316231755860239  split: 0.3
+2025-04-11 14:37:33,645 - sample.py[line:108] - INFO: EPOCH: 90 test: lr: 0.006134055543719124  acc rate: 0.5  split: 0.3
+2025-04-11 14:37:34,222 - sample.py[line:99] - INFO: EPOCH: 91 train: lr: 0.006063999551039371  acc rate: 0.536045997346307  split: 0.3
+2025-04-11 14:37:34,816 - sample.py[line:99] - INFO: EPOCH: 92 train: lr: 0.0059938043999097045  acc rate: 0.5674480318443167  split: 0.3
+2025-04-11 14:37:35,393 - sample.py[line:99] - INFO: EPOCH: 93 train: lr: 0.0059234874099333154  acc rate: 0.544891640866873  split: 0.3
+2025-04-11 14:37:35,971 - sample.py[line:99] - INFO: EPOCH: 94 train: lr: 0.005853065930775303  acc rate: 0.4940291906236179  split: 0.3
+2025-04-11 14:37:36,572 - sample.py[line:99] - INFO: EPOCH: 95 train: lr: 0.0057825573378819115  acc rate: 0.5033171163202123  split: 0.3
+2025-04-11 14:37:37,238 - sample.py[line:99] - INFO: EPOCH: 96 train: lr: 0.005711979028193392  acc rate: 0.5002211410880142  split: 0.3
+2025-04-11 14:37:37,870 - sample.py[line:99] - INFO: EPOCH: 97 train: lr: 0.005641348415851578  acc rate: 0.5090667846085802  split: 0.3
+2025-04-11 14:37:38,490 - sample.py[line:99] - INFO: EPOCH: 98 train: lr: 0.005570682927903194  acc rate: 0.524546660769571  split: 0.3
+2025-04-11 14:37:39,189 - sample.py[line:99] - INFO: EPOCH: 99 train: lr: 0.0055000000000000005  acc rate: 0.4825298540468819  split: 0.3
+2025-04-11 14:37:39,820 - sample.py[line:99] - INFO: EPOCH: 100 train: lr: 0.005429317072096808  acc rate: 0.4882795223352499  split: 0.3
+2025-04-11 14:37:39,909 - sample.py[line:108] - INFO: EPOCH: 100 test: lr: 0.005429317072096808  acc rate: 0.46797520661157027  split: 0.3
+2025-04-11 14:37:40,599 - sample.py[line:99] - INFO: EPOCH: 101 train: lr: 0.005358651584148423  acc rate: 0.5179124281291464  split: 0.3
+2025-04-11 14:37:41,228 - sample.py[line:99] - INFO: EPOCH: 102 train: lr: 0.005288020971806609  acc rate: 0.5625829279080053  split: 0.3
+2025-04-11 14:37:41,905 - sample.py[line:99] - INFO: EPOCH: 103 train: lr: 0.0052174426621180905  acc rate: 0.5409111012826183  split: 0.3
+2025-04-11 14:37:42,556 - sample.py[line:99] - INFO: EPOCH: 104 train: lr: 0.005146934069224699  acc rate: 0.5594869526758072  split: 0.3
+2025-04-11 14:37:43,198 - sample.py[line:99] - INFO: EPOCH: 105 train: lr: 0.005076512590066686  acc rate: 0.5652366209641752  split: 0.3
+2025-04-11 14:37:43,833 - sample.py[line:99] - INFO: EPOCH: 106 train: lr: 0.005006195600090297  acc rate: 0.5192392746572313  split: 0.3
+2025-04-11 14:37:44,461 - sample.py[line:99] - INFO: EPOCH: 107 train: lr: 0.004936000448960632  acc rate: 0.5218929677134011  split: 0.3
+2025-04-11 14:37:45,060 - sample.py[line:99] - INFO: EPOCH: 108 train: lr: 0.00486594445628088  acc rate: 0.5599292348518354  split: 0.3
+2025-04-11 14:37:45,647 - sample.py[line:99] - INFO: EPOCH: 109 train: lr: 0.004796044907318962  acc rate: 0.502874834144184  split: 0.3
+2025-04-11 14:37:46,253 - sample.py[line:99] - INFO: EPOCH: 110 train: lr: 0.004726319048742657  acc rate: 0.5214506855373728  split: 0.3
+2025-04-11 14:37:46,336 - sample.py[line:108] - INFO: EPOCH: 110 test: lr: 0.004726319048742657  acc rate: 0.5609504132231405  split: 0.3
+2025-04-11 14:37:46,938 - sample.py[line:99] - INFO: EPOCH: 111 train: lr: 0.00465678408436424  acc rate: 0.5683325961963733  split: 0.3
+2025-04-11 14:37:47,558 - sample.py[line:99] - INFO: EPOCH: 112 train: lr: 0.004587457170895695  acc rate: 0.5860238832375055  split: 0.3
+2025-04-11 14:37:48,141 - sample.py[line:99] - INFO: EPOCH: 113 train: lr: 0.00451835541371556  acc rate: 0.5789473684210527  split: 0.3
+2025-04-11 14:37:48,737 - sample.py[line:99] - INFO: EPOCH: 114 train: lr: 0.004449495862648426  acc rate: 0.5842547545333923  split: 0.3
+2025-04-11 14:37:49,364 - sample.py[line:99] - INFO: EPOCH: 115 train: lr: 0.004380895507758154  acc rate: 0.5555064130915525  split: 0.3
+2025-04-11 14:37:50,008 - sample.py[line:99] - INFO: EPOCH: 116 train: lr: 0.004312571275155823  acc rate: 0.5356037151702786  split: 0.3
+2025-04-11 14:37:50,598 - sample.py[line:99] - INFO: EPOCH: 117 train: lr: 0.004244540022823469  acc rate: 0.5634674922600619  split: 0.3
+2025-04-11 14:37:51,177 - sample.py[line:99] - INFO: EPOCH: 118 train: lr: 0.004176818536454633  acc rate: 0.5851393188854489  split: 0.3
+2025-04-11 14:37:51,793 - sample.py[line:99] - INFO: EPOCH: 119 train: lr: 0.004109423525312739  acc rate: 0.5851393188854489  split: 0.3
+2025-04-11 14:37:52,409 - sample.py[line:99] - INFO: EPOCH: 120 train: lr: 0.004042371618108328  acc rate: 0.6068111455108359  split: 0.3
+2025-04-11 14:37:52,494 - sample.py[line:108] - INFO: EPOCH: 120 test: lr: 0.004042371618108328  acc rate: 0.5816115702479339  split: 0.3
+2025-04-11 14:37:53,130 - sample.py[line:99] - INFO: EPOCH: 121 train: lr: 0.003975679358896189  acc rate: 0.6152145068553737  split: 0.3
+2025-04-11 14:37:53,771 - sample.py[line:99] - INFO: EPOCH: 122 train: lr: 0.003909363202993343  acc rate: 0.6059265811587793  split: 0.3
+2025-04-11 14:37:54,418 - sample.py[line:99] - INFO: EPOCH: 123 train: lr: 0.0038434395129189505  acc rate: 0.5846970367094206  split: 0.3
+2025-04-11 14:37:55,060 - sample.py[line:99] - INFO: EPOCH: 124 train: lr: 0.0037779245543570978  acc rate: 0.5652366209641752  split: 0.3
+2025-04-11 14:37:55,727 - sample.py[line:99] - INFO: EPOCH: 125 train: lr: 0.003712834492143487  acc rate: 0.5709862892525431  split: 0.3
+2025-04-11 14:37:56,381 - sample.py[line:99] - INFO: EPOCH: 126 train: lr: 0.0036481853862770108  acc rate: 0.5869084475895622  split: 0.3
+2025-04-11 14:37:57,065 - sample.py[line:99] - INFO: EPOCH: 127 train: lr: 0.0035839931879571734  acc rate: 0.6010614772224679  split: 0.3
+2025-04-11 14:37:57,783 - sample.py[line:99] - INFO: EPOCH: 128 train: lr: 0.003520273735648382  acc rate: 0.605484298982751  split: 0.3
+2025-04-11 14:37:58,452 - sample.py[line:99] - INFO: EPOCH: 129 train: lr: 0.00345704275117204  acc rate: 0.6116762494471473  split: 0.3
+2025-04-11 14:37:59,081 - sample.py[line:99] - INFO: EPOCH: 130 train: lr: 0.003394315835827421  acc rate: 0.6143299425033171  split: 0.3
+2025-04-11 14:37:59,163 - sample.py[line:108] - INFO: EPOCH: 130 test: lr: 0.003394315835827421  acc rate: 0.5681818181818182  split: 0.3
+2025-04-11 14:37:59,780 - sample.py[line:99] - INFO: EPOCH: 131 train: lr: 0.003332108466542281  acc rate: 0.6138876603272888  split: 0.3
+2025-04-11 14:38:00,421 - sample.py[line:99] - INFO: EPOCH: 132 train: lr: 0.003270435992054166  acc rate: 0.6138876603272888  split: 0.3
+2025-04-11 14:38:01,047 - sample.py[line:99] - INFO: EPOCH: 133 train: lr: 0.0032093136291233295  acc rate: 0.6174259177355153  split: 0.3
+2025-04-11 14:38:01,663 - sample.py[line:99] - INFO: EPOCH: 134 train: lr: 0.0031487564587782306  acc rate: 0.6187527642636002  split: 0.3
+2025-04-11 14:38:02,295 - sample.py[line:99] - INFO: EPOCH: 135 train: lr: 0.0030887794225945143  acc rate: 0.6205218929677134  split: 0.3
+2025-04-11 14:38:02,925 - sample.py[line:99] - INFO: EPOCH: 136 train: lr: 0.0030293973190084066  acc rate: 0.6196373286156568  split: 0.3
+2025-04-11 14:38:03,544 - sample.py[line:99] - INFO: EPOCH: 137 train: lr: 0.0029706247996654123  acc rate: 0.6205218929677134  split: 0.3
+2025-04-11 14:38:04,183 - sample.py[line:99] - INFO: EPOCH: 138 train: lr: 0.002912476365805247  acc rate: 0.622733303847855  split: 0.3
+2025-04-11 14:38:04,793 - sample.py[line:99] - INFO: EPOCH: 139 train: lr: 0.0028549663646838717  acc rate: 0.6236178681999115  split: 0.3
+2025-04-11 14:38:05,435 - sample.py[line:99] - INFO: EPOCH: 140 train: lr: 0.0027981089860335227  acc rate: 0.6236178681999115  split: 0.3
+2025-04-11 14:38:05,528 - sample.py[line:108] - INFO: EPOCH: 140 test: lr: 0.0027981089860335227  acc rate: 0.5805785123966942  split: 0.3
+2025-04-11 14:38:06,142 - sample.py[line:99] - INFO: EPOCH: 141 train: lr: 0.0027419182585616056  acc rate: 0.6253869969040248  split: 0.3
+2025-04-11 14:38:06,769 - sample.py[line:99] - INFO: EPOCH: 142 train: lr: 0.0026864080464893266  acc rate: 0.6267138434321097  split: 0.3
+2025-04-11 14:38:07,373 - sample.py[line:99] - INFO: EPOCH: 143 train: lr: 0.0026315920461308963  acc rate: 0.6306943830163645  split: 0.3
+2025-04-11 14:38:07,978 - sample.py[line:99] - INFO: EPOCH: 144 train: lr: 0.0025774837825141743  acc rate: 0.6355594869526758  split: 0.3
+2025-04-11 14:38:08,603 - sample.py[line:99] - INFO: EPOCH: 145 train: lr: 0.0025240966060435677  acc rate: 0.6360017691287041  split: 0.3
+2025-04-11 14:38:09,241 - sample.py[line:99] - INFO: EPOCH: 146 train: lr: 0.0024714436892060198  acc rate: 0.6399823087129589  split: 0.3
+2025-04-11 14:38:09,855 - sample.py[line:99] - INFO: EPOCH: 147 train: lr: 0.002419538023320901  acc rate: 0.6421937195931003  split: 0.3
+2025-04-11 14:38:10,461 - sample.py[line:99] - INFO: EPOCH: 148 train: lr: 0.0023683924153345857  acc rate: 0.6448474126492703  split: 0.3
+2025-04-11 14:38:11,060 - sample.py[line:99] - INFO: EPOCH: 149 train: lr: 0.0023180194846605367  acc rate: 0.6457319770013269  split: 0.3
+2025-04-11 14:38:11,669 - sample.py[line:99] - INFO: EPOCH: 150 train: lr: 0.002268431660065651  acc rate: 0.6466165413533834  split: 0.3
+2025-04-11 14:38:11,748 - sample.py[line:108] - INFO: EPOCH: 150 test: lr: 0.002268431660065651  acc rate: 0.5878099173553719  split: 0.3
+2025-04-11 14:38:12,437 - sample.py[line:99] - INFO: EPOCH: 151 train: lr: 0.002219641176603649  acc rate: 0.6479433878814683  split: 0.3
+2025-04-11 14:38:13,030 - sample.py[line:99] - INFO: EPOCH: 152 train: lr: 0.002171660072596257  acc rate: 0.648827952233525  split: 0.3
+2025-04-11 14:38:13,621 - sample.py[line:99] - INFO: EPOCH: 153 train: lr: 0.0021245001866629326  acc rate: 0.6497125165855816  split: 0.3
+2025-04-11 14:38:14,194 - sample.py[line:99] - INFO: EPOCH: 154 train: lr: 0.002078173154799861  acc rate: 0.6505970809376382  split: 0.3
+2025-04-11 14:38:14,761 - sample.py[line:99] - INFO: EPOCH: 155 train: lr: 0.002032690407508949  acc rate: 0.6523662096417514  split: 0.3
+2025-04-11 14:38:15,327 - sample.py[line:99] - INFO: EPOCH: 156 train: lr: 0.001988063166977517  acc rate: 0.6536930561698363  split: 0.3
+2025-04-11 14:38:15,902 - sample.py[line:99] - INFO: EPOCH: 157 train: lr: 0.0019443024443093933  acc rate: 0.6550199026979213  split: 0.3
+2025-04-11 14:38:16,541 - sample.py[line:99] - INFO: EPOCH: 158 train: lr: 0.0019014190368080931  acc rate: 0.6550199026979213  split: 0.3
+2025-04-11 14:38:17,162 - sample.py[line:99] - INFO: EPOCH: 159 train: lr: 0.0018594235253127371  acc rate: 0.6550199026979213  split: 0.3
+2025-04-11 14:38:17,767 - sample.py[line:99] - INFO: EPOCH: 160 train: lr: 0.0018183262715873953  acc rate: 0.6563467492260062  split: 0.3
+2025-04-11 14:38:17,853 - sample.py[line:108] - INFO: EPOCH: 160 test: lr: 0.0018183262715873953  acc rate: 0.5847107438016529  split: 0.3
+2025-04-11 14:38:18,441 - sample.py[line:99] - INFO: EPOCH: 161 train: lr: 0.001778137415764473  acc rate: 0.6572313135780629  split: 0.3
+2025-04-11 14:38:19,010 - sample.py[line:99] - INFO: EPOCH: 162 train: lr: 0.001738866873842785  acc rate: 0.6585581601061478  split: 0.3
+2025-04-11 14:38:19,591 - sample.py[line:99] - INFO: EPOCH: 163 train: lr: 0.0017005243352409332  acc rate: 0.6594427244582043  split: 0.3
+2025-04-11 14:38:20,226 - sample.py[line:99] - INFO: EPOCH: 164 train: lr: 0.0016631192604065863  acc rate: 0.6616541353383458  split: 0.3
+2025-04-11 14:38:20,891 - sample.py[line:99] - INFO: EPOCH: 165 train: lr: 0.0016266608784822533  acc rate: 0.6634232640424591  split: 0.3
+2025-04-11 14:38:21,514 - sample.py[line:99] - INFO: EPOCH: 166 train: lr: 0.0015911581850281391  acc rate: 0.6643078283945157  split: 0.3
+2025-04-11 14:38:22,144 - sample.py[line:99] - INFO: EPOCH: 167 train: lr: 0.001556619939802614  acc rate: 0.6651923927465723  split: 0.3
+2025-04-11 14:38:22,786 - sample.py[line:99] - INFO: EPOCH: 168 train: lr: 0.0015230546646008794  acc rate: 0.6660769570986289  split: 0.3
+2025-04-11 14:38:23,402 - sample.py[line:99] - INFO: EPOCH: 169 train: lr: 0.001490470641152345  acc rate: 0.6678460858027422  split: 0.3
+2025-04-11 14:38:24,035 - sample.py[line:99] - INFO: EPOCH: 170 train: lr: 0.0014588759090772303  acc rate: 0.6691729323308271  split: 0.3
+2025-04-11 14:38:24,118 - sample.py[line:108] - INFO: EPOCH: 170 test: lr: 0.0014588759090772303  acc rate: 0.5929752066115702  split: 0.3
+2025-04-11 14:38:24,769 - sample.py[line:99] - INFO: EPOCH: 171 train: lr: 0.001428278263902913  acc rate: 0.670499778858912  split: 0.3
+2025-04-11 14:38:25,401 - sample.py[line:99] - INFO: EPOCH: 172 train: lr: 0.0013986852551404973  acc rate: 0.6713843432109686  split: 0.3
+2025-04-11 14:38:26,082 - sample.py[line:99] - INFO: EPOCH: 173 train: lr: 0.001370104184422086  acc rate: 0.6718266253869969  split: 0.3
+2025-04-11 14:38:26,741 - sample.py[line:99] - INFO: EPOCH: 174 train: lr: 0.0013425421036992106  acc rate: 0.6731534719150818  split: 0.3
+2025-04-11 14:38:27,383 - sample.py[line:99] - INFO: EPOCH: 175 train: lr: 0.001316005813502869  acc rate: 0.6718266253869969  split: 0.3
+2025-04-11 14:38:28,036 - sample.py[line:99] - INFO: EPOCH: 176 train: lr: 0.001290501861265597  acc rate: 0.6718266253869969  split: 0.3
+2025-04-11 14:38:28,756 - sample.py[line:99] - INFO: EPOCH: 177 train: lr: 0.0012660365397059855  acc rate: 0.6727111897390535  split: 0.3
+2025-04-11 14:38:29,378 - sample.py[line:99] - INFO: EPOCH: 178 train: lr: 0.0012426158852760461  acc rate: 0.6731534719150818  split: 0.3
+2025-04-11 14:38:30,010 - sample.py[line:99] - INFO: EPOCH: 179 train: lr: 0.001220245676671809  acc rate: 0.6731534719150818  split: 0.3
+2025-04-11 14:38:30,651 - sample.py[line:99] - INFO: EPOCH: 180 train: lr: 0.0011989314334075146  acc rate: 0.6735957540911102  split: 0.3
+2025-04-11 14:38:30,733 - sample.py[line:108] - INFO: EPOCH: 180 test: lr: 0.0011989314334075146  acc rate: 0.5971074380165289  split: 0.3
+2025-04-11 14:38:31,367 - sample.py[line:99] - INFO: EPOCH: 181 train: lr: 0.0011786784144537567  acc rate: 0.6740380362671384  split: 0.3
+2025-04-11 14:38:31,972 - sample.py[line:99] - INFO: EPOCH: 182 train: lr: 0.0011594916169399092  acc rate: 0.6744803184431667  split: 0.3
+2025-04-11 14:38:32,631 - sample.py[line:99] - INFO: EPOCH: 183 train: lr: 0.0011413757749211607  acc rate: 0.6749226006191951  split: 0.3
+2025-04-11 14:38:33,276 - sample.py[line:99] - INFO: EPOCH: 184 train: lr: 0.0011243353582104556  acc rate: 0.6740380362671384  split: 0.3
+2025-04-11 14:38:33,915 - sample.py[line:99] - INFO: EPOCH: 185 train: lr: 0.0011083745712756371  acc rate: 0.6740380362671384  split: 0.3
+2025-04-11 14:38:34,554 - sample.py[line:99] - INFO: EPOCH: 186 train: lr: 0.0010934973522020537  acc rate: 0.6744803184431667  split: 0.3
+2025-04-11 14:38:35,197 - sample.py[line:99] - INFO: EPOCH: 187 train: lr: 0.0010797073717209009  acc rate: 0.6744803184431667  split: 0.3
+2025-04-11 14:38:35,841 - sample.py[line:99] - INFO: EPOCH: 188 train: lr: 0.0010670080323035176  acc rate: 0.6749226006191951  split: 0.3
+2025-04-11 14:38:36,490 - sample.py[line:99] - INFO: EPOCH: 189 train: lr: 0.0010554024673218806  acc rate: 0.6749226006191951  split: 0.3
+2025-04-11 14:38:37,222 - sample.py[line:99] - INFO: EPOCH: 190 train: lr: 0.001044893540275491  acc rate: 0.67624944714728  split: 0.3
+2025-04-11 14:38:37,325 - sample.py[line:108] - INFO: EPOCH: 190 test: lr: 0.001044893540275491  acc rate: 0.5971074380165289  split: 0.3
+2025-04-11 14:38:38,031 - sample.py[line:99] - INFO: EPOCH: 191 train: lr: 0.00103548384408485  acc rate: 0.67624944714728  split: 0.3
+2025-04-11 14:38:38,713 - sample.py[line:99] - INFO: EPOCH: 192 train: lr: 0.0010271757004516918  acc rate: 0.6775762936753649  split: 0.3
+2025-04-11 14:38:39,396 - sample.py[line:99] - INFO: EPOCH: 193 train: lr: 0.00101997115928614  acc rate: 0.6784608580274215  split: 0.3
+2025-04-11 14:38:40,083 - sample.py[line:99] - INFO: EPOCH: 194 train: lr: 0.0010138719982009242  acc rate: 0.6789031402034498  split: 0.3
+2025-04-11 14:38:40,792 - sample.py[line:99] - INFO: EPOCH: 195 train: lr: 0.001008879722072778  acc rate: 0.6789031402034498  split: 0.3
+2025-04-11 14:38:41,448 - sample.py[line:99] - INFO: EPOCH: 196 train: lr: 0.0010049955626711354  acc rate: 0.6789031402034498  split: 0.3
+2025-04-11 14:38:42,074 - sample.py[line:99] - INFO: EPOCH: 197 train: lr: 0.0010022204783542079  acc rate: 0.6789031402034498  split: 0.3
+2025-04-11 14:38:42,717 - sample.py[line:99] - INFO: EPOCH: 198 train: lr: 0.0010005551538325274  acc rate: 0.6784608580274215  split: 0.3
+2025-04-11 14:38:43,341 - sample.py[line:99] - INFO: EPOCH: 199 train: lr: 0.010000000000000002  acc rate: 0.6784608580274215  split: 0.3
+2025-04-11 14:38:44,192 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,256 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,326 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,383 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,439 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,507 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,576 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,628 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,680 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,736 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,791 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,844 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,899 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:44,952 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,010 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,065 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,119 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,174 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,227 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,281 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,335 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,392 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,444 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,499 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,555 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,610 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,670 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,726 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,780 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,835 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,890 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:45,947 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,003 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,057 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,117 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,174 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,232 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,285 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,342 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,399 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,455 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,515 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,569 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,625 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,681 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,738 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,791 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,846 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,904 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:46,959 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:47,128 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 2])  Score: 0.40144478844169246
+2025-04-11 14:38:47,149 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 3])  Score: 0.43550051599587203
+2025-04-11 14:38:47,171 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 4])  Score: 0.45923632610939114
+2025-04-11 14:38:47,195 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 5])  Score: 0.4726522187822497
+2025-04-11 14:38:47,221 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 6])  Score: 0.4850361197110423
+2025-04-11 14:38:47,251 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 7])  Score: 0.4809081527347781
+2025-04-11 14:38:47,282 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 8])  Score: 0.5015479876160991
+2025-04-11 14:38:47,317 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 9])  Score: 0.5139318885448917
+2025-04-11 14:38:47,355 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 10])  Score: 0.5252837977296182
+2025-04-11 14:38:47,397 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 11])  Score: 0.5190918472652218
+2025-04-11 14:38:47,444 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 12])  Score: 0.5304437564499485
+2025-04-11 14:38:47,493 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 13])  Score: 0.5273477812177503
+2025-04-11 14:38:47,542 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 14])  Score: 0.5459236326109391
+2025-04-11 14:38:47,596 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.5531475748194015
+2025-04-11 14:38:47,820 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 16])  Score: 0.5510835913312694
+2025-04-11 14:38:47,877 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 17])  Score: 0.564499484004128
+2025-04-11 14:38:47,939 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 18])  Score: 0.541795665634675
+2025-04-11 14:38:48,018 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 19])  Score: 0.5614035087719298
+2025-04-11 14:38:48,091 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 20])  Score: 0.5572755417956656
+2025-04-11 14:38:48,171 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 21])  Score: 0.5500515995872033
+2025-04-11 14:38:48,231 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 22])  Score: 0.5696594427244582
+2025-04-11 14:38:48,312 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 23])  Score: 0.5624355005159959
+2025-04-11 14:38:48,392 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 24])  Score: 0.5686274509803921
+2025-04-11 14:38:48,467 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 25])  Score: 0.5686274509803921
+2025-04-11 14:38:48,549 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 26])  Score: 0.5779153766769866
+2025-04-11 14:38:48,619 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 27])  Score: 0.5789473684210527
+2025-04-11 14:38:48,684 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 28])  Score: 0.5614035087719298
+2025-04-11 14:38:48,765 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 29])  Score: 0.5706914344685242
+2025-04-11 14:38:48,829 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 30])  Score: 0.5748194014447885
+2025-04-11 14:38:48,911 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 31])  Score: 0.5768833849329206
+2025-04-11 14:38:48,995 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 32])  Score: 0.56656346749226
+2025-04-11 14:38:49,073 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 33])  Score: 0.5696594427244582
+2025-04-11 14:38:49,153 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 34])  Score: 0.5768833849329206
+2025-04-11 14:38:49,232 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 35])  Score: 0.5799793601651186
+2025-04-11 14:38:49,311 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 36])  Score: 0.5779153766769866
+2025-04-11 14:38:49,373 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 37])  Score: 0.5944272445820433
+2025-04-11 14:38:49,451 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 38])  Score: 0.5892672858617131
+2025-04-11 14:38:49,518 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 39])  Score: 0.5882352941176471
+2025-04-11 14:38:49,587 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 40])  Score: 0.5923632610939112
+2025-04-11 14:38:49,671 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 41])  Score: 0.5944272445820433
+2025-04-11 14:38:49,760 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 42])  Score: 0.5954592363261094
+2025-04-11 14:38:49,824 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 43])  Score: 0.5892672858617131
+2025-04-11 14:38:49,901 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 44])  Score: 0.5995872033023736
+2025-04-11 14:38:49,976 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 45])  Score: 0.5985552115583075
+2025-04-11 14:38:50,054 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 46])  Score: 0.5964912280701754
+2025-04-11 14:38:50,126 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 47])  Score: 0.587203302373581
+2025-04-11 14:38:50,207 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 48])  Score: 0.5954592363261094
+2025-04-11 14:38:50,294 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 49])  Score: 0.5913312693498453
+2025-04-11 14:38:50,372 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 50])  Score: 0.5985552115583075
+2025-04-11 14:38:50,441 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 51])  Score: 0.5892672858617131
+2025-04-11 14:38:50,622 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,646 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,671 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,694 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,718 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,740 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,764 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,787 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,810 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,832 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,853 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,874 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,897 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,920 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,942 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,963 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:50,983 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,005 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,028 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,049 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,072 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,093 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,114 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,137 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,158 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,180 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,200 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,221 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,242 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,263 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,284 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,306 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,327 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,347 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,368 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,388 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,409 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,430 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,451 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,472 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,494 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,514 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,536 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,557 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,578 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,607 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,633 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,654 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,675 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,696 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:51,796 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 2])  Score: 0.4602683178534572
+2025-04-11 14:38:51,804 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 3])  Score: 0.5015479876160991
+2025-04-11 14:38:51,813 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 4])  Score: 0.5098039215686274
+2025-04-11 14:38:51,824 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 5])  Score: 0.5118679050567595
+2025-04-11 14:38:51,837 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 6])  Score: 0.5170278637770898
+2025-04-11 14:38:51,849 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 7])  Score: 0.5242518059855521
+2025-04-11 14:38:51,863 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 8])  Score: 0.5273477812177503
+2025-04-11 14:38:51,879 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 9])  Score: 0.5376676986584107
+2025-04-11 14:38:51,894 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 10])  Score: 0.5407636738906089
+2025-04-11 14:38:51,912 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 11])  Score: 0.543859649122807
+2025-04-11 14:38:51,932 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 12])  Score: 0.5510835913312694
+2025-04-11 14:38:51,951 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 13])  Score: 0.5583075335397317
+2025-04-11 14:38:51,972 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 14])  Score: 0.5624355005159959
+2025-04-11 14:38:51,991 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.56656346749226
+2025-04-11 14:38:52,012 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 16])  Score: 0.5634674922600619
+2025-04-11 14:38:52,036 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 17])  Score: 0.5686274509803921
+2025-04-11 14:38:52,060 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 18])  Score: 0.5686274509803921
+2025-04-11 14:38:52,085 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 19])  Score: 0.5810113519091847
+2025-04-11 14:38:52,112 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 20])  Score: 0.5882352941176471
+2025-04-11 14:38:52,142 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 21])  Score: 0.5975232198142415
+2025-04-11 14:38:52,173 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 22])  Score: 0.5933952528379773
+2025-04-11 14:38:52,204 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 23])  Score: 0.5913312693498453
+2025-04-11 14:38:52,235 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 24])  Score: 0.5851393188854489
+2025-04-11 14:38:52,270 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 25])  Score: 0.5923632610939112
+2025-04-11 14:38:52,305 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 26])  Score: 0.5954592363261094
+2025-04-11 14:38:52,345 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 27])  Score: 0.5954592363261094
+2025-04-11 14:38:52,388 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 28])  Score: 0.5954592363261094
+2025-04-11 14:38:52,431 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 29])  Score: 0.6057791537667698
+2025-04-11 14:38:52,470 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 30])  Score: 0.6119711042311662
+2025-04-11 14:38:52,513 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 31])  Score: 0.6099071207430341
+2025-04-11 14:38:52,558 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 32])  Score: 0.608875128998968
+2025-04-11 14:38:52,603 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 33])  Score: 0.6130030959752322
+2025-04-11 14:38:52,650 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 34])  Score: 0.6099071207430341
+2025-04-11 14:38:52,699 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 35])  Score: 0.6057791537667698
+2025-04-11 14:38:52,749 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 36])  Score: 0.6006191950464397
+2025-04-11 14:38:52,799 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 37])  Score: 0.6068111455108359
+2025-04-11 14:38:52,849 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 38])  Score: 0.6099071207430341
+2025-04-11 14:38:52,902 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 39])  Score: 0.6171310629514963
+2025-04-11 14:38:52,956 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 40])  Score: 0.6212590299277606
+2025-04-11 14:38:53,009 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 41])  Score: 0.6264189886480909
+2025-04-11 14:38:53,064 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 42])  Score: 0.6109391124871001
+2025-04-11 14:38:53,124 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 43])  Score: 0.6202270381836945
+2025-04-11 14:38:53,192 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 44])  Score: 0.6233230134158927
+2025-04-11 14:38:53,262 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 45])  Score: 0.6222910216718266
+2025-04-11 14:38:53,328 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 46])  Score: 0.6243550051599587
+2025-04-11 14:38:53,392 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 47])  Score: 0.6222910216718266
+2025-04-11 14:38:53,464 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 48])  Score: 0.6222910216718266
+2025-04-11 14:38:53,545 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 49])  Score: 0.6202270381836945
+2025-04-11 14:38:53,611 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 50])  Score: 0.6202270381836945
+2025-04-11 14:38:53,676 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 51])  Score: 0.6253869969040248
+2025-04-11 14:38:53,844 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:53,903 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:53,959 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,014 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,067 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,115 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,169 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,216 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,264 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,313 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,362 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,413 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,461 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,510 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,559 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,607 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,655 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,706 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,755 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,808 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,863 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,915 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:54,970 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,024 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,076 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,129 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,179 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,232 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,280 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,332 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,390 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,451 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,503 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,563 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,613 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,663 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,711 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,759 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,810 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,863 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,919 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:55,972 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,027 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,082 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,136 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,192 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,254 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,317 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,370 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,424 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:56,535 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 2])  Score: 0.33436532507739936
+2025-04-11 14:38:56,548 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 3])  Score: 0.3653250773993808
+2025-04-11 14:38:56,565 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 4])  Score: 0.37874097007223945
+2025-04-11 14:38:56,586 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 5])  Score: 0.3931888544891641
+2025-04-11 14:38:56,606 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 6])  Score: 0.4066047471620227
+2025-04-11 14:38:56,631 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 7])  Score: 0.3828689370485036
+2025-04-11 14:38:56,659 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 8])  Score: 0.39525283797729616
+2025-04-11 14:38:56,691 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 9])  Score: 0.4231166150670795
+2025-04-11 14:38:56,727 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 10])  Score: 0.434468524251806
+2025-04-11 14:38:56,764 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 11])  Score: 0.4293085655314757
+2025-04-11 14:38:56,807 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 12])  Score: 0.43137254901960786
+2025-04-11 14:38:56,863 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 13])  Score: 0.45614035087719296
+2025-04-11 14:38:56,916 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 14])  Score: 0.45304437564499483
+2025-04-11 14:38:56,988 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.4540763673890609
+2025-04-11 14:38:57,058 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 16])  Score: 0.45614035087719296
+2025-04-11 14:38:57,129 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 17])  Score: 0.44788441692466463
+2025-04-11 14:38:57,189 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 18])  Score: 0.4520123839009288
+2025-04-11 14:38:57,254 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 19])  Score: 0.44169246646026833
+2025-04-11 14:38:57,319 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 20])  Score: 0.43034055727554177
+2025-04-11 14:38:57,384 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 21])  Score: 0.44478844169246645
+2025-04-11 14:38:57,455 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 22])  Score: 0.4499484004127967
+2025-04-11 14:38:57,525 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 23])  Score: 0.4406604747162023
+2025-04-11 14:38:57,605 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 24])  Score: 0.4499484004127967
+2025-04-11 14:38:57,692 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 25])  Score: 0.44169246646026833
+2025-04-11 14:38:57,798 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 26])  Score: 0.4324045407636739
+2025-04-11 14:38:57,887 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 27])  Score: 0.4282765737874097
+2025-04-11 14:38:57,995 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 28])  Score: 0.43962848297213625
+2025-04-11 14:38:58,095 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 29])  Score: 0.4437564499484004
+2025-04-11 14:38:58,205 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 30])  Score: 0.45923632610939114
+2025-04-11 14:38:58,318 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 31])  Score: 0.46233230134158926
+2025-04-11 14:38:58,422 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 32])  Score: 0.47368421052631576
+2025-04-11 14:38:58,543 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 33])  Score: 0.4262125902992776
+2025-04-11 14:38:58,644 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 34])  Score: 0.44788441692466463
+2025-04-11 14:38:58,778 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 35])  Score: 0.4375644994840041
+2025-04-11 14:38:58,900 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 36])  Score: 0.44478844169246645
+2025-04-11 14:38:59,009 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 37])  Score: 0.43550051599587203
+2025-04-11 14:38:59,127 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 38])  Score: 0.4551083591331269
+2025-04-11 14:38:59,257 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 39])  Score: 0.44478844169246645
+2025-04-11 14:38:59,369 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 40])  Score: 0.45304437564499483
+2025-04-11 14:38:59,487 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 41])  Score: 0.4582043343653251
+2025-04-11 14:38:59,610 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 42])  Score: 0.45923632610939114
+2025-04-11 14:38:59,751 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 43])  Score: 0.47058823529411764
+2025-04-11 14:38:59,892 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 44])  Score: 0.4540763673890609
+2025-04-11 14:39:00,063 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 45])  Score: 0.48297213622291024
+2025-04-11 14:39:00,247 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 46])  Score: 0.478844169246646
+2025-04-11 14:39:00,416 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 47])  Score: 0.46439628482972134
+2025-04-11 14:39:00,589 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 48])  Score: 0.4499484004127967
+2025-04-11 14:39:00,759 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 49])  Score: 0.4551083591331269
+2025-04-11 14:39:00,921 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 50])  Score: 0.4551083591331269
+2025-04-11 14:39:01,073 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 51])  Score: 0.48297213622291024
+2025-04-11 14:39:01,930 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:02,705 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:03,502 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:04,303 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:04,983 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:05,650 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:06,314 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:06,978 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:07,731 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:08,424 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:09,086 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:09,754 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:10,414 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:11,074 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:11,751 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:12,436 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:13,116 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:13,786 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:14,440 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:15,124 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:15,807 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:16,470 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:17,155 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:17,891 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:18,554 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:19,215 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:19,909 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:20,685 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:21,590 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:22,320 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:23,034 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:23,735 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:24,441 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:25,155 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:25,866 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:26,558 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:27,278 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:27,970 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:28,660 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:29,345 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:30,051 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:30,736 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:31,422 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:32,105 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:32,802 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:33,489 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:34,191 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:34,879 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:35,589 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:36,311 - sample.py[line:142] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:36,804 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 2])  Score: 0.43137254901960786
+2025-04-11 14:39:37,165 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 3])  Score: 0.5036119711042312
+2025-04-11 14:39:37,847 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 4])  Score: 0.5263157894736842
+2025-04-11 14:39:38,405 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 5])  Score: 0.5469556243550051
+2025-04-11 14:39:38,952 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 6])  Score: 0.5562435500515995
+2025-04-11 14:39:39,470 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 7])  Score: 0.5727554179566563
+2025-04-11 14:39:40,079 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 8])  Score: 0.56656346749226
+2025-04-11 14:39:40,821 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 9])  Score: 0.5758513931888545
+2025-04-11 14:39:41,578 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 10])  Score: 0.5768833849329206
+2025-04-11 14:39:42,317 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 11])  Score: 0.5820433436532507
+2025-04-11 14:39:43,096 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 12])  Score: 0.5768833849329206
+2025-04-11 14:39:43,889 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 13])  Score: 0.5944272445820433
+2025-04-11 14:39:44,595 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 14])  Score: 0.6047471620227038
+2025-04-11 14:39:45,342 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 15])  Score: 0.6047471620227038
+2025-04-11 14:39:46,266 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 16])  Score: 0.6078431372549019
+2025-04-11 14:39:47,140 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 17])  Score: 0.6150670794633643
+2025-04-11 14:39:48,113 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 18])  Score: 0.6160990712074303
+2025-04-11 14:39:48,953 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 19])  Score: 0.6130030959752322
+2025-04-11 14:39:49,834 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 20])  Score: 0.6191950464396285
+2025-04-11 14:39:50,808 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 21])  Score: 0.6202270381836945
+2025-04-11 14:39:51,789 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 22])  Score: 0.6222910216718266
+2025-04-11 14:39:52,711 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 23])  Score: 0.6357069143446853
+2025-04-11 14:39:53,680 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 24])  Score: 0.6295149638802889
+2025-04-11 14:39:54,794 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 25])  Score: 0.6253869969040248
+2025-04-11 14:39:55,905 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 26])  Score: 0.6336429308565531
+2025-04-11 14:39:56,963 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 27])  Score: 0.631578947368421
+2025-04-11 14:39:58,045 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 28])  Score: 0.6253869969040248
+2025-04-11 14:39:59,131 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 29])  Score: 0.6367389060887513
+2025-04-11 14:40:00,204 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 30])  Score: 0.6274509803921569
+2025-04-11 14:40:01,283 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 31])  Score: 0.6336429308565531
+2025-04-11 14:40:02,462 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 32])  Score: 0.6357069143446853
+2025-04-11 14:40:03,649 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 33])  Score: 0.6388028895768834
+2025-04-11 14:40:04,798 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 34])  Score: 0.6357069143446853
+2025-04-11 14:40:05,965 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 35])  Score: 0.631578947368421
+2025-04-11 14:40:07,328 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 36])  Score: 0.6357069143446853
+2025-04-11 14:40:08,622 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 37])  Score: 0.6367389060887513
+2025-04-11 14:40:10,066 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 38])  Score: 0.6439628482972136
+2025-04-11 14:40:11,469 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 39])  Score: 0.6470588235294118
+2025-04-11 14:40:12,758 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 40])  Score: 0.6429308565531475
+2025-04-11 14:40:14,187 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 41])  Score: 0.6470588235294118
+2025-04-11 14:40:15,407 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 42])  Score: 0.6439628482972136
+2025-04-11 14:40:16,700 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 43])  Score: 0.6377708978328174
+2025-04-11 14:40:18,049 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 44])  Score: 0.6408668730650154
+2025-04-11 14:40:19,326 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 45])  Score: 0.6449948400412797
+2025-04-11 14:40:20,490 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 46])  Score: 0.6408668730650154
+2025-04-11 14:40:21,674 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 47])  Score: 0.6449948400412797
+2025-04-11 14:40:22,849 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 48])  Score: 0.6429308565531475
+2025-04-11 14:40:24,198 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 49])  Score: 0.6573787409700722
+2025-04-11 14:40:25,540 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 50])  Score: 0.6449948400412797
+2025-04-11 14:40:26,864 - sample.py[line:188] - INFO: Feature_shape: torch.Size([3229, 51])  Score: 0.6377708978328174
+2025-04-11 14:59:02,936 - sample.py[line:109] - INFO: SEED 1 EPOCH 0 TRAIN ACC 0.2295
+2025-04-11 14:59:03,030 - sample.py[line:118] - INFO: SEED 1 EPOCH 0 VALID ACC 0.1116
+2025-04-11 14:59:03,700 - sample.py[line:109] - INFO: SEED 1 EPOCH 1 TRAIN ACC 0.3764
+2025-04-11 14:59:04,370 - sample.py[line:109] - INFO: SEED 1 EPOCH 2 TRAIN ACC 0.4290
+2025-04-11 14:59:05,039 - sample.py[line:109] - INFO: SEED 1 EPOCH 3 TRAIN ACC 0.4290
+2025-04-11 14:59:05,708 - sample.py[line:109] - INFO: SEED 1 EPOCH 4 TRAIN ACC 0.4290
+2025-04-11 14:59:06,384 - sample.py[line:109] - INFO: SEED 1 EPOCH 5 TRAIN ACC 0.4290
+2025-04-11 14:59:07,044 - sample.py[line:109] - INFO: SEED 1 EPOCH 6 TRAIN ACC 0.4290
+2025-04-11 14:59:07,709 - sample.py[line:109] - INFO: SEED 1 EPOCH 7 TRAIN ACC 0.4290
+2025-04-11 14:59:08,369 - sample.py[line:109] - INFO: SEED 1 EPOCH 8 TRAIN ACC 0.4290
+2025-04-11 14:59:09,031 - sample.py[line:109] - INFO: SEED 1 EPOCH 9 TRAIN ACC 0.4365
+2025-04-11 14:59:09,635 - sample.py[line:109] - INFO: SEED 1 EPOCH 10 TRAIN ACC 0.4595
+2025-04-11 14:59:09,723 - sample.py[line:118] - INFO: SEED 1 EPOCH 10 VALID ACC 0.4184
+2025-04-11 14:59:10,462 - sample.py[line:109] - INFO: SEED 1 EPOCH 11 TRAIN ACC 0.4551
+2025-04-11 14:59:11,110 - sample.py[line:109] - INFO: SEED 1 EPOCH 12 TRAIN ACC 0.4653
+2025-04-11 14:59:11,708 - sample.py[line:109] - INFO: SEED 1 EPOCH 13 TRAIN ACC 0.4794
+2025-04-11 14:59:12,295 - sample.py[line:109] - INFO: SEED 1 EPOCH 14 TRAIN ACC 0.4326
+2025-04-11 14:59:12,879 - sample.py[line:109] - INFO: SEED 1 EPOCH 15 TRAIN ACC 0.4387
+2025-04-11 14:59:13,526 - sample.py[line:109] - INFO: SEED 1 EPOCH 16 TRAIN ACC 0.3950
+2025-04-11 14:59:14,234 - sample.py[line:109] - INFO: SEED 1 EPOCH 17 TRAIN ACC 0.4303
+2025-04-11 14:59:15,011 - sample.py[line:109] - INFO: SEED 1 EPOCH 18 TRAIN ACC 0.4290
+2025-04-11 14:59:15,733 - sample.py[line:109] - INFO: SEED 1 EPOCH 19 TRAIN ACC 0.4525
+2025-04-11 14:59:16,443 - sample.py[line:109] - INFO: SEED 1 EPOCH 20 TRAIN ACC 0.4308
+2025-04-11 14:59:16,551 - sample.py[line:118] - INFO: SEED 1 EPOCH 20 VALID ACC 0.4091
+2025-04-11 14:59:17,262 - sample.py[line:109] - INFO: SEED 1 EPOCH 21 TRAIN ACC 0.4317
+2025-04-11 14:59:18,011 - sample.py[line:109] - INFO: SEED 1 EPOCH 22 TRAIN ACC 0.4719
+2025-04-11 14:59:18,740 - sample.py[line:109] - INFO: SEED 1 EPOCH 23 TRAIN ACC 0.4516
+2025-04-11 14:59:19,461 - sample.py[line:109] - INFO: SEED 1 EPOCH 24 TRAIN ACC 0.4777
+2025-04-11 14:59:20,157 - sample.py[line:109] - INFO: SEED 1 EPOCH 25 TRAIN ACC 0.4091
+2025-04-11 14:59:20,883 - sample.py[line:109] - INFO: SEED 1 EPOCH 26 TRAIN ACC 0.4989
+2025-04-11 14:59:21,589 - sample.py[line:109] - INFO: SEED 1 EPOCH 27 TRAIN ACC 0.4573
+2025-04-11 14:59:22,255 - sample.py[line:109] - INFO: SEED 1 EPOCH 28 TRAIN ACC 0.5215
+2025-04-11 14:59:22,911 - sample.py[line:109] - INFO: SEED 1 EPOCH 29 TRAIN ACC 0.4967
+2025-04-11 14:59:23,661 - sample.py[line:109] - INFO: SEED 1 EPOCH 30 TRAIN ACC 0.5038
+2025-04-11 14:59:23,774 - sample.py[line:118] - INFO: SEED 1 EPOCH 30 VALID ACC 0.4287
+2025-04-11 14:59:24,509 - sample.py[line:109] - INFO: SEED 1 EPOCH 31 TRAIN ACC 0.4790
+2025-04-11 14:59:25,231 - sample.py[line:109] - INFO: SEED 1 EPOCH 32 TRAIN ACC 0.4989
+2025-04-11 14:59:25,895 - sample.py[line:109] - INFO: SEED 1 EPOCH 33 TRAIN ACC 0.5046
+2025-04-11 14:59:26,545 - sample.py[line:109] - INFO: SEED 1 EPOCH 34 TRAIN ACC 0.4480
+2025-04-11 14:59:27,177 - sample.py[line:109] - INFO: SEED 1 EPOCH 35 TRAIN ACC 0.5290
+2025-04-11 14:59:27,832 - sample.py[line:109] - INFO: SEED 1 EPOCH 36 TRAIN ACC 0.5245
+2025-04-11 14:59:28,473 - sample.py[line:109] - INFO: SEED 1 EPOCH 37 TRAIN ACC 0.5312
+2025-04-11 14:59:29,118 - sample.py[line:109] - INFO: SEED 1 EPOCH 38 TRAIN ACC 0.5595
+2025-04-11 14:59:29,805 - sample.py[line:109] - INFO: SEED 1 EPOCH 39 TRAIN ACC 0.5272
+2025-04-11 14:59:30,493 - sample.py[line:109] - INFO: SEED 1 EPOCH 40 TRAIN ACC 0.5038
+2025-04-11 14:59:30,590 - sample.py[line:118] - INFO: SEED 1 EPOCH 40 VALID ACC 0.4153
+2025-04-11 14:59:31,344 - sample.py[line:109] - INFO: SEED 1 EPOCH 41 TRAIN ACC 0.4878
+2025-04-11 14:59:32,094 - sample.py[line:109] - INFO: SEED 1 EPOCH 42 TRAIN ACC 0.4188
+2025-04-11 14:59:32,871 - sample.py[line:109] - INFO: SEED 1 EPOCH 43 TRAIN ACC 0.4985
+2025-04-11 14:59:33,610 - sample.py[line:109] - INFO: SEED 1 EPOCH 44 TRAIN ACC 0.4489
+2025-04-11 14:59:34,317 - sample.py[line:109] - INFO: SEED 1 EPOCH 45 TRAIN ACC 0.4905
+2025-04-11 14:59:35,004 - sample.py[line:109] - INFO: SEED 1 EPOCH 46 TRAIN ACC 0.5630
+2025-04-11 14:59:35,685 - sample.py[line:109] - INFO: SEED 1 EPOCH 47 TRAIN ACC 0.5577
+2025-04-11 14:59:36,412 - sample.py[line:109] - INFO: SEED 1 EPOCH 48 TRAIN ACC 0.5148
+2025-04-11 14:59:37,261 - sample.py[line:109] - INFO: SEED 1 EPOCH 49 TRAIN ACC 0.5095
+2025-04-11 14:59:38,071 - sample.py[line:109] - INFO: SEED 1 EPOCH 50 TRAIN ACC 0.4728
+2025-04-11 14:59:38,178 - sample.py[line:118] - INFO: SEED 1 EPOCH 50 VALID ACC 0.4153
+2025-04-11 14:59:38,976 - sample.py[line:109] - INFO: SEED 1 EPOCH 51 TRAIN ACC 0.4812
+2025-04-11 14:59:39,659 - sample.py[line:109] - INFO: SEED 1 EPOCH 52 TRAIN ACC 0.4622
+2025-04-11 14:59:40,344 - sample.py[line:109] - INFO: SEED 1 EPOCH 53 TRAIN ACC 0.5254
+2025-04-11 14:59:41,021 - sample.py[line:109] - INFO: SEED 1 EPOCH 54 TRAIN ACC 0.5294
+2025-04-11 14:59:41,679 - sample.py[line:109] - INFO: SEED 1 EPOCH 55 TRAIN ACC 0.5816
+2025-04-11 14:59:42,319 - sample.py[line:109] - INFO: SEED 1 EPOCH 56 TRAIN ACC 0.5582
+2025-04-11 14:59:42,934 - sample.py[line:109] - INFO: SEED 1 EPOCH 57 TRAIN ACC 0.5652
+2025-04-11 14:59:43,597 - sample.py[line:109] - INFO: SEED 1 EPOCH 58 TRAIN ACC 0.5776
+2025-04-11 14:59:44,233 - sample.py[line:109] - INFO: SEED 1 EPOCH 59 TRAIN ACC 0.5993
+2025-04-11 14:59:44,871 - sample.py[line:109] - INFO: SEED 1 EPOCH 60 TRAIN ACC 0.5980
+2025-04-11 14:59:44,973 - sample.py[line:118] - INFO: SEED 1 EPOCH 60 VALID ACC 0.5413
+2025-04-11 14:59:45,620 - sample.py[line:109] - INFO: SEED 1 EPOCH 61 TRAIN ACC 0.5887
+2025-04-11 14:59:46,217 - sample.py[line:109] - INFO: SEED 1 EPOCH 62 TRAIN ACC 0.5789
+2025-04-11 14:59:46,818 - sample.py[line:109] - INFO: SEED 1 EPOCH 63 TRAIN ACC 0.6037
+2025-04-11 14:59:47,426 - sample.py[line:109] - INFO: SEED 1 EPOCH 64 TRAIN ACC 0.5984
+2025-04-11 14:59:48,014 - sample.py[line:109] - INFO: SEED 1 EPOCH 65 TRAIN ACC 0.6050
+2025-04-11 14:59:48,589 - sample.py[line:109] - INFO: SEED 1 EPOCH 66 TRAIN ACC 0.6037
+2025-04-11 14:59:49,156 - sample.py[line:109] - INFO: SEED 1 EPOCH 67 TRAIN ACC 0.6081
+2025-04-11 14:59:49,712 - sample.py[line:109] - INFO: SEED 1 EPOCH 68 TRAIN ACC 0.5825
+2025-04-11 14:59:50,283 - sample.py[line:109] - INFO: SEED 1 EPOCH 69 TRAIN ACC 0.5834
+2025-04-11 14:59:50,893 - sample.py[line:109] - INFO: SEED 1 EPOCH 70 TRAIN ACC 0.5922
+2025-04-11 14:59:50,987 - sample.py[line:118] - INFO: SEED 1 EPOCH 70 VALID ACC 0.6012
+2025-04-11 14:59:51,616 - sample.py[line:109] - INFO: SEED 1 EPOCH 71 TRAIN ACC 0.6201
+2025-04-11 14:59:52,214 - sample.py[line:109] - INFO: SEED 1 EPOCH 72 TRAIN ACC 0.6188
+2025-04-11 14:59:52,839 - sample.py[line:109] - INFO: SEED 1 EPOCH 73 TRAIN ACC 0.6046
+2025-04-11 14:59:53,471 - sample.py[line:109] - INFO: SEED 1 EPOCH 74 TRAIN ACC 0.5869
+2025-04-11 14:59:54,082 - sample.py[line:109] - INFO: SEED 1 EPOCH 75 TRAIN ACC 0.6006
+2025-04-11 14:59:54,698 - sample.py[line:109] - INFO: SEED 1 EPOCH 76 TRAIN ACC 0.6161
+2025-04-11 14:59:55,324 - sample.py[line:109] - INFO: SEED 1 EPOCH 77 TRAIN ACC 0.6108
+2025-04-11 14:59:55,986 - sample.py[line:109] - INFO: SEED 1 EPOCH 78 TRAIN ACC 0.6068
+2025-04-11 14:59:56,615 - sample.py[line:109] - INFO: SEED 1 EPOCH 79 TRAIN ACC 0.6042
+2025-04-11 14:59:57,237 - sample.py[line:109] - INFO: SEED 1 EPOCH 80 TRAIN ACC 0.6126
+2025-04-11 14:59:57,335 - sample.py[line:118] - INFO: SEED 1 EPOCH 80 VALID ACC 0.5878
+2025-04-11 14:59:57,950 - sample.py[line:109] - INFO: SEED 1 EPOCH 81 TRAIN ACC 0.6042
+2025-04-11 14:59:58,564 - sample.py[line:109] - INFO: SEED 1 EPOCH 82 TRAIN ACC 0.6112
+2025-04-11 14:59:59,180 - sample.py[line:109] - INFO: SEED 1 EPOCH 83 TRAIN ACC 0.6002
+2025-04-11 14:59:59,801 - sample.py[line:109] - INFO: SEED 1 EPOCH 84 TRAIN ACC 0.6068
+2025-04-11 15:00:00,425 - sample.py[line:109] - INFO: SEED 1 EPOCH 85 TRAIN ACC 0.6201
+2025-04-11 15:00:00,990 - sample.py[line:109] - INFO: SEED 1 EPOCH 86 TRAIN ACC 0.6218
+2025-04-11 15:00:01,562 - sample.py[line:109] - INFO: SEED 1 EPOCH 87 TRAIN ACC 0.6042
+2025-04-11 15:00:02,159 - sample.py[line:109] - INFO: SEED 1 EPOCH 88 TRAIN ACC 0.6130
+2025-04-11 15:00:02,813 - sample.py[line:109] - INFO: SEED 1 EPOCH 89 TRAIN ACC 0.6249
+2025-04-11 15:00:03,457 - sample.py[line:109] - INFO: SEED 1 EPOCH 90 TRAIN ACC 0.6378
+2025-04-11 15:00:03,536 - sample.py[line:118] - INFO: SEED 1 EPOCH 90 VALID ACC 0.5155
+2025-04-11 15:00:04,124 - sample.py[line:109] - INFO: SEED 1 EPOCH 91 TRAIN ACC 0.6201
+2025-04-11 15:00:04,741 - sample.py[line:109] - INFO: SEED 1 EPOCH 92 TRAIN ACC 0.6188
+2025-04-11 15:00:05,334 - sample.py[line:109] - INFO: SEED 1 EPOCH 93 TRAIN ACC 0.6307
+2025-04-11 15:00:05,949 - sample.py[line:109] - INFO: SEED 1 EPOCH 94 TRAIN ACC 0.6210
