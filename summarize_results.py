@@ -65,6 +65,7 @@ def main():
     print(f"Average Accuracy   : {best_avg_acc:.4f}")
     print(f"Consensus k        : {best_k}")
     print(f"Top-{best_k} feature indices: {top_indices}")
-
+def hi(_):
+    pass
 if __name__ == '__main__':
     main()
